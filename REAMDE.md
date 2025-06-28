@@ -10,6 +10,14 @@ This repository is a curated collection of **interesting, inspiring, or technica
 
 ---
 
+## 🔗 Quick Navigation
+
+- [🤖 AI Agents](#ai-agents)
+- [🧠📦 Large Models](#large-models)
+- [🏢 CRM / ERP / CMS](#crm--erp--cms)
+
+---
+
 ## 📚 Categories
 
 ### 🌐 Full-Stack / Web Development
@@ -25,6 +33,22 @@ This repository is a curated collection of **interesting, inspiring, or technica
 - AI Frameworks and Libraries (e.g., PyTorch, Hugging Face, ONNX)
 - Prompt Engineering / AI Agents (LangChain, AutoGPT, etc.)
 - Research Projects and Papers with Code -->
+
+<a name="ai-agents"></a>
+<details>
+  <summary>🧠 AI Agents</summary>
+
+  - [gemini-cli](https://github.com/google-gemini/gemini-cli) – An open-source AI agent that brings the power of Gemini directly into your terminal.
+
+</details>
+
+<a name="large-models"></a>
+<details>
+  <summary>🧠📦 Large Models</summary>
+
+  - [KnowCoder](https://github.com/ICT-GoKnow/KnowCoder) – Official Repo of paper "KnowCoder: Coding Structured Knowledge into LLMs for Universal Information Extraction". In the paper, we propose KnowCoder, the most powerful large language model so far for universal information extraction.
+
+</details>
 
 ### 📱 Frontend / UI / Mobile
 
@@ -58,6 +82,7 @@ This repository is a curated collection of **interesting, inspiring, or technica
 - CMS and headless CMS
 - Low-code / no-code builders -->
 
+<a name="crm--erp--cms"></a>
 <details>
   <summary>📦 CRM / ERP / CMS Platforms</summary>
 
