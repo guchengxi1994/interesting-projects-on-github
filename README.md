@@ -14,7 +14,7 @@ This repository is a curated collection of **interesting, inspiring, or technica
 
 - [🤖 AI Agents](#ai-agents)
 - [🧠📦 Large Models](#large-models)
-- [🏢 CRM / ERP / CMS](#crm--erp--cms)
+- [📦 CRM / ERP / CMS](#crm--erp--cms)
 
 ---
 
