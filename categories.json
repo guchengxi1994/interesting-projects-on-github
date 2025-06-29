@@ -526,6 +526,17 @@
     ],
     "Languages": [
       {
+        "name": "svelte",
+        "fullname": "sveltejs/svelte",
+        "url": "https://github.com/sveltejs/svelte",
+        "topics": [
+          "compiler",
+          "template",
+          "ui"
+        ],
+        "description": "web development for the rest of us"
+      },
+      {
         "name": "assemblyscript",
         "fullname": "AssemblyScript/assemblyscript",
         "url": "https://github.com/AssemblyScript/assemblyscript",
@@ -2488,6 +2499,150 @@
         "description": null
       },
       {
+        "name": "extended_image",
+        "fullname": "fluttercandies/extended_image",
+        "url": "https://github.com/fluttercandies/extended_image",
+        "topics": [
+          "cache",
+          "crop",
+          "flip",
+          "flutter",
+          "image",
+          "rotate",
+          "zoom"
+        ],
+        "description": "A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc."
+      },
+      {
+        "name": "pluto_grid",
+        "fullname": "bosskmk/pluto_grid",
+        "url": "https://github.com/bosskmk/pluto_grid",
+        "topics": [
+          "datagrid",
+          "datatable",
+          "filtering",
+          "flutter",
+          "frozen-columns",
+          "grid",
+          "grouping",
+          "pagination",
+          "sorting",
+          "sticky-headers",
+          "table"
+        ],
+        "description": "PlutoGrid is a dataGrid for flutter that can be controlled by the keyboard on desktop and web. Of course, it works well on Android and IOS."
+      },
+      {
+        "name": "kg_charts",
+        "fullname": "smartbackme/kg_charts",
+        "url": "https://github.com/smartbackme/kg_charts",
+        "topics": [],
+        "description": "flutter  radar charts"
+      },
+      {
+        "name": "x-spreadsheet",
+        "fullname": "myliang/x-spreadsheet",
+        "url": "https://github.com/myliang/x-spreadsheet",
+        "topics": [
+          "canvas",
+          "es6",
+          "excel",
+          "javascript",
+          "js",
+          "spreadsheet"
+        ],
+        "description": "The project has been migrated to @wolf-table/table https://github.com/wolf-table/table"
+      },
+      {
+        "name": "sheetjs",
+        "fullname": "SheetJS/sheetjs",
+        "url": "https://github.com/SheetJS/sheetjs",
+        "topics": [
+          "angular",
+          "bun",
+          "csv",
+          "data",
+          "database",
+          "deno",
+          "excel",
+          "grid",
+          "html",
+          "html5",
+          "ios",
+          "javascript",
+          "json",
+          "nodejs",
+          "react",
+          "spreadsheet",
+          "table",
+          "vue",
+          "xlsx",
+          "xml"
+        ],
+        "description": "📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs"
+      },
+      {
+        "name": "flutter-expandable",
+        "fullname": "aryzhov/flutter-expandable",
+        "url": "https://github.com/aryzhov/flutter-expandable",
+        "topics": [],
+        "description": "A Flutter widget that can be expanded or collapsed by the user."
+      },
+      {
+        "name": "timelines",
+        "fullname": "chulwoo-park/timelines",
+        "url": "https://github.com/chulwoo-park/timelines",
+        "topics": [
+          "dart",
+          "flutter",
+          "flutter-package",
+          "flutter-ui",
+          "flutter-widget",
+          "flutter-widgets",
+          "timeline",
+          "timeline-component",
+          "timelines"
+        ],
+        "description": "A powerful & easy to use timeline package for Flutter! 🚀"
+      },
+      {
+        "name": "graphview",
+        "fullname": "nabil6391/graphview",
+        "url": "https://github.com/nabil6391/graphview",
+        "topics": [
+          "algorithm",
+          "cluster",
+          "clustering-algorithm",
+          "dart",
+          "family-tree",
+          "flutter",
+          "graph",
+          "graph-structures",
+          "graph-view",
+          "graphview",
+          "hierarchy",
+          "hierarchy-viewer",
+          "mindmap",
+          "tree",
+          "tree-structure",
+          "treeview",
+          "widget"
+        ],
+        "description": "Flutter GraphView is used to display data in graph structures. It can display Tree layout, Directed and Layered graph. Useful for Family Tree, Hierarchy View."
+      },
+      {
+        "name": "graphx",
+        "fullname": "roipeker/graphx",
+        "url": "https://github.com/roipeker/graphx",
+        "topics": [
+          "custompainter",
+          "dart",
+          "flutter",
+          "graphx"
+        ],
+        "description": "GraphX package for Flutter."
+      },
+      {
         "name": "animated_tree_view",
         "fullname": "embraceitmobile/animated_tree_view",
         "url": "https://github.com/embraceitmobile/animated_tree_view",
@@ -2524,6 +2679,319 @@
         "url": "https://github.com/yellowQ-software/yellowQ-Flutter-Image-Painter",
         "topics": [],
         "description": "Flutter package for painting on images"
+      },
+      {
+        "name": "table_calendar",
+        "fullname": "aleksanderwozniak/table_calendar",
+        "url": "https://github.com/aleksanderwozniak/table_calendar",
+        "topics": [
+          "calendar",
+          "calendar-view",
+          "date",
+          "flutter",
+          "flutter-package",
+          "flutter-plugin",
+          "table",
+          "table-calendar",
+          "widget"
+        ],
+        "description": "Highly customizable, feature-packed calendar widget for Flutter"
+      },
+      {
+        "name": "Drawer-Behavior-Flutter",
+        "fullname": "shiburagi/Drawer-Behavior-Flutter",
+        "url": "https://github.com/shiburagi/Drawer-Behavior-Flutter",
+        "topics": [
+          "android",
+          "drawer",
+          "drawer-layout",
+          "drawer-navigation",
+          "drawerlayout",
+          "flutter",
+          "flutter-package",
+          "flutter-plugin",
+          "flutter-widget",
+          "ios",
+          "menu",
+          "menuview",
+          "navigation-drawer",
+          "sidebar",
+          "slide"
+        ],
+        "description": "Drawer behavior is a library that provide an extra behavior on drawer, such as, move view or scaling view's height while drawer on slide."
+      },
+      {
+        "name": "flui",
+        "fullname": "Rannie/flui",
+        "url": "https://github.com/Rannie/flui",
+        "topics": [
+          "dynamic-rendering",
+          "flui",
+          "flutter",
+          "flutter-package",
+          "flutter-ui",
+          "flutter-widget",
+          "google-flutter",
+          "skeleton",
+          "toast",
+          "widgets"
+        ],
+        "description": "A powerful UI framework for Google Flutter."
+      },
+      {
+        "name": "giffy_dialog",
+        "fullname": "xsahil03x/giffy_dialog",
+        "url": "https://github.com/xsahil03x/giffy_dialog",
+        "topics": [
+          "animation",
+          "dart2",
+          "dialog",
+          "flare",
+          "flare-animation",
+          "flare-flutter",
+          "flutter",
+          "flutter-package",
+          "giffy-dialogs",
+          "gifs",
+          "hacktoberfest",
+          "material"
+        ],
+        "description": "A Flutter package for a quick and handy giffy dialog."
+      },
+      {
+        "name": "extended_nested_scroll_view",
+        "fullname": "fluttercandies/extended_nested_scroll_view",
+        "url": "https://github.com/fluttercandies/extended_nested_scroll_view",
+        "topics": [
+          "flutter",
+          "nestedscrollview",
+          "pinned-sliver-headers",
+          "tabview-sync-issue"
+        ],
+        "description": "extended nested scroll view to fix following issues.  1.pinned sliver header issue  2.inner scrollables in tabview sync issue  3.pull to refresh is not work. 4.do without ScrollController in NestedScrollView's body"
+      },
+      {
+        "name": "easy_date_timeline",
+        "fullname": "FadyFayezYounan/easy_date_timeline",
+        "url": "https://github.com/FadyFayezYounan/easy_date_timeline",
+        "topics": [],
+        "description": "The \"easy_date_timeline\" package is a customizable Flutter widget that displays a timeline of dates in a horizontal timeline."
+      },
+      {
+        "name": "cross_fade",
+        "fullname": "splashbyte/cross_fade",
+        "url": "https://github.com/splashbyte/cross_fade",
+        "topics": [],
+        "description": "A Flutter widget to apply a crossfade animation between different states and/or widgets."
+      },
+      {
+        "name": "flutter-custom-refresh-indicator",
+        "fullname": "gonuit/flutter-custom-refresh-indicator",
+        "url": "https://github.com/gonuit/flutter-custom-refresh-indicator",
+        "topics": [
+          "dart",
+          "flutter",
+          "p2r",
+          "pull-to-refresh",
+          "refresh-indicator",
+          "widget"
+        ],
+        "description": "Widget that makes it easy to implement a custom pull to refresh gesture."
+      },
+      {
+        "name": "flutter_scene",
+        "fullname": "bdero/flutter_scene",
+        "url": "https://github.com/bdero/flutter_scene",
+        "topics": [],
+        "description": "3D library for Flutter."
+      },
+      {
+        "name": "flutter_tilt",
+        "fullname": "fluttercandies/flutter_tilt",
+        "url": "https://github.com/fluttercandies/flutter_tilt",
+        "topics": [
+          "animation",
+          "flutter",
+          "flutter-package",
+          "hover",
+          "parallax",
+          "sensors",
+          "tilt",
+          "widget"
+        ],
+        "description": "👀 Easily apply tilt parallax hover effects for Flutter, which supports tilt, light, shadow effects, and gyroscope sensors"
+      },
+      {
+        "name": "AnimatedStarsFlutter",
+        "fullname": "flyingV805/AnimatedStarsFlutter",
+        "url": "https://github.com/flyingV805/AnimatedStarsFlutter",
+        "topics": [],
+        "description": "AnimatedStarsView for Flutter"
+      },
+      {
+        "name": "flutter_easy_refresh",
+        "fullname": "xuelongqy/flutter_easy_refresh",
+        "url": "https://github.com/xuelongqy/flutter_easy_refresh",
+        "topics": [
+          "easy-refresh",
+          "flutter",
+          "load-more",
+          "refresh"
+        ],
+        "description": "A flutter widget that provides pull-down refresh and pull-up load."
+      },
+      {
+        "name": "flutter_easyloading",
+        "fullname": "nslogx/flutter_easyloading",
+        "url": "https://github.com/nslogx/flutter_easyloading",
+        "topics": [
+          "android",
+          "custom-animation",
+          "dart",
+          "dartlang",
+          "flutter",
+          "flutter-easyloading",
+          "flutter-package",
+          "flutter-plugin",
+          "flutter-toast",
+          "flutter-widget",
+          "indicator",
+          "ios",
+          "loading",
+          "spinkit",
+          "toast",
+          "widget"
+        ],
+        "description": "✨A clean and lightweight loading/toast widget for Flutter, easy to use without context, support iOS、Android and Web"
+      },
+      {
+        "name": "screenshot",
+        "fullname": "SachinGanesh/screenshot",
+        "url": "https://github.com/SachinGanesh/screenshot",
+        "topics": [
+          "dart",
+          "dartlang",
+          "flutter",
+          "flutter-plugin"
+        ],
+        "description": "Flutter Screenshot Library"
+      },
+      {
+        "name": "city_pickers",
+        "fullname": "hanxu317317/city_pickers",
+        "url": "https://github.com/hanxu317317/city_pickers",
+        "topics": [],
+        "description": "flutter ios city_pickers"
+      },
+      {
+        "name": "transformer_page_view",
+        "fullname": "best-flutter/transformer_page_view",
+        "url": "https://github.com/best-flutter/transformer_page_view",
+        "topics": [
+          "animation",
+          "flutter",
+          "flutter-package",
+          "pageview",
+          "parallax",
+          "transformer"
+        ],
+        "description": "PageTransformer for flutter"
+      },
+      {
+        "name": "PullToRefresh",
+        "fullname": "OpenFlutter/PullToRefresh",
+        "url": "https://github.com/OpenFlutter/PullToRefresh",
+        "topics": [
+          "dragablegridview",
+          "pulltorefresh",
+          "wheelview"
+        ],
+        "description": "Flutter相关的项目QQ:277155832 Email:277155832@qq.com"
+      },
+      {
+        "name": "simple_animations",
+        "fullname": "felixblaschke/simple_animations",
+        "url": "https://github.com/felixblaschke/simple_animations",
+        "topics": [],
+        "description": "Flutter package for creating awesome animations."
+      },
+      {
+        "name": "before_after",
+        "fullname": "xsahil03x/before_after",
+        "url": "https://github.com/xsahil03x/before_after",
+        "topics": [
+          "before-after",
+          "dart",
+          "flutter",
+          "flutter-package",
+          "hacktoberfest",
+          "slider"
+        ],
+        "description": "A flutter package which makes it easier to display the difference between two images."
+      },
+      {
+        "name": "touchable",
+        "fullname": "nateshmbhat/touchable",
+        "url": "https://github.com/nateshmbhat/touchable",
+        "topics": [
+          "canvas",
+          "custom-paint",
+          "custom-painter",
+          "custompaint",
+          "custompainter",
+          "dart",
+          "draw",
+          "flutter",
+          "paint",
+          "shapes",
+          "touchable"
+        ],
+        "description": "The only flutter library to add gestures and animations to custom shapes you draw on your canvas."
+      },
+      {
+        "name": "vertical_tabs",
+        "fullname": "Ali-Azmoud/vertical_tabs",
+        "url": "https://github.com/Ali-Azmoud/vertical_tabs",
+        "topics": [],
+        "description": "A vertical tabs package for flutter framework."
+      },
+      {
+        "name": "flutter-unity-view-widget",
+        "fullname": "juicycleff/flutter-unity-view-widget",
+        "url": "https://github.com/juicycleff/flutter-unity-view-widget",
+        "topics": [
+          "android-library",
+          "flutter",
+          "flutter-package",
+          "flutter-plugin",
+          "game-engine",
+          "unity",
+          "unity3d",
+          "unityframework",
+          "widget"
+        ],
+        "description": "Embeddable unity game engine view for Flutter. Advance demo here https://github.com/juicycleff/flutter-unity-arkit-demo"
+      },
+      {
+        "name": "flutter_smart_dialog",
+        "fullname": "fluttercandies/flutter_smart_dialog",
+        "url": "https://github.com/fluttercandies/flutter_smart_dialog",
+        "topics": [],
+        "description": "An elegant Flutter Dialog solution | 一种更优雅的 Flutter Dialog 解决方案"
+      },
+      {
+        "name": "zefyrka",
+        "fullname": "glynskyi/zefyrka",
+        "url": "https://github.com/glynskyi/zefyrka",
+        "topics": [],
+        "description": "Soft and gentle rich text editing for Flutter applications"
+      },
+      {
+        "name": "awesomeDialogs",
+        "fullname": "marcos930807/awesomeDialogs",
+        "url": "https://github.com/marcos930807/awesomeDialogs",
+        "topics": [],
+        "description": "A new Flutter package project for simple a awesome dialogs"
       },
       {
         "name": "flutter_flow_chart",
@@ -3195,6 +3663,13 @@
         "description": "A javascript library to run SQLite on the web.  "
       },
       {
+        "name": "flutter_keyboard_actions",
+        "fullname": "diegoveloper/flutter_keyboard_actions",
+        "url": "https://github.com/diegoveloper/flutter_keyboard_actions",
+        "topics": [],
+        "description": null
+      },
+      {
         "name": "hive_ce",
         "fullname": "IO-Design-Team/hive_ce",
         "url": "https://github.com/IO-Design-Team/hive_ce",
@@ -3221,6 +3696,124 @@
           "sync"
         ],
         "description": "Flutter database for super-fast Dart object persistence"
+      },
+      {
+        "name": "provider",
+        "fullname": "rrousselGit/provider",
+        "url": "https://github.com/rrousselGit/provider",
+        "topics": [
+          "dart",
+          "flutter",
+          "hacktoberfest",
+          "provider",
+          "state-management"
+        ],
+        "description": "InheritedWidgets, but simple"
+      },
+      {
+        "name": "scoped_model",
+        "fullname": "brianegan/scoped_model",
+        "url": "https://github.com/brianegan/scoped_model",
+        "topics": [
+          "dart",
+          "flutter"
+        ],
+        "description": "A Widget that passes a Reactive Model to all of it's children"
+      },
+      {
+        "name": "riverpod",
+        "fullname": "rrousselGit/riverpod",
+        "url": "https://github.com/rrousselGit/riverpod",
+        "topics": [
+          "dart",
+          "flutter",
+          "hacktoberfest",
+          "inheritedwidget",
+          "provider",
+          "riverpod",
+          "service-locator",
+          "state-management"
+        ],
+        "description": "A reactive caching and data-binding framework.   Riverpod makes working with asynchronous code a breeze."
+      },
+      {
+        "name": "antd-admin",
+        "fullname": "zuiidea/antd-admin",
+        "url": "https://github.com/zuiidea/antd-admin",
+        "topics": [
+          "admin",
+          "antd",
+          "dashboard",
+          "mock",
+          "react"
+        ],
+        "description": "An excellent front-end solution for enterprise applications built upon Ant Design and UmiJS"
+      },
+      {
+        "name": "getx",
+        "fullname": "jonataslaw/getx",
+        "url": "https://github.com/jonataslaw/getx",
+        "topics": [
+          "dart",
+          "dependency-injection",
+          "flutter",
+          "framework",
+          "get",
+          "getx",
+          "http",
+          "internationalization",
+          "mobile",
+          "routes",
+          "state-management",
+          "web"
+        ],
+        "description": "Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get."
+      },
+      {
+        "name": "query",
+        "fullname": "TanStack/query",
+        "url": "https://github.com/TanStack/query",
+        "topics": [
+          "async",
+          "cache",
+          "data",
+          "fetch",
+          "graphql",
+          "hooks",
+          "query",
+          "react",
+          "rest",
+          "solid",
+          "stale",
+          "stale-while-revalidate",
+          "svelte",
+          "typescript",
+          "update",
+          "vue"
+        ],
+        "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
+      },
+      {
+        "name": "simpleui",
+        "fullname": "newpanjing/simpleui",
+        "url": "https://github.com/newpanjing/simpleui",
+        "topics": [
+          "admin-template",
+          "django",
+          "django-admin",
+          "django-admin-theme",
+          "django-application",
+          "django-project",
+          "django-simpleui",
+          "django-theme",
+          "djangorestframework",
+          "djangotemplate",
+          "element-ui",
+          "simpleui",
+          "theme",
+          "vue"
+        ],
+        "description": "A modern theme based on vue+element-ui for django admin.一款基于vue+element-ui的django admin现代化主题。全球20000+网站都在使用！喜欢可以点个star✨"
       },
       {
         "name": "flutter-webrtc",
@@ -3275,6 +3868,60 @@
   },
   "DevOps / Tools": {
     "__root__": [
+      {
+        "name": "dash",
+        "fullname": "plotly/dash",
+        "url": "https://github.com/plotly/dash",
+        "topics": [
+          "bioinformatics",
+          "charting",
+          "dash",
+          "data-science",
+          "data-visualization",
+          "finance",
+          "flask",
+          "gui-framework",
+          "jupyter",
+          "modeling",
+          "plotly",
+          "plotly-dash",
+          "productivity",
+          "python",
+          "react",
+          "rstats",
+          "technical-computing",
+          "web-app"
+        ],
+        "description": "Data Apps & Dashboards for Python. No JavaScript Required."
+      },
+      {
+        "name": "dioxus",
+        "fullname": "DioxusLabs/dioxus",
+        "url": "https://github.com/DioxusLabs/dioxus",
+        "topics": [
+          "android",
+          "css",
+          "desktop",
+          "html",
+          "ios",
+          "native",
+          "react",
+          "rust",
+          "ssr",
+          "ui",
+          "virtualdom",
+          "wasm",
+          "web"
+        ],
+        "description": "Fullstack app framework for web, desktop, and mobile."
+      },
+      {
+        "name": "serverpod",
+        "fullname": "serverpod/serverpod",
+        "url": "https://github.com/serverpod/serverpod",
+        "topics": [],
+        "description": "Serverpod is a next-generation app and web server, explicitly built for the Flutter and Dart ecosystem."
+      },
       {
         "name": "sanic",
         "fullname": "sanic-org/sanic",
@@ -3351,6 +3998,33 @@
   },
   "Developer Productivity": {
     "Dart/Flutter Tools": [
+      {
+        "name": "flutter",
+        "fullname": "flutter/flutter",
+        "url": "https://github.com/flutter/flutter",
+        "topics": [
+          "android",
+          "app-framework",
+          "cross-platform",
+          "dart",
+          "dart-platform",
+          "desktop",
+          "flutter",
+          "flutter-package",
+          "fuchsia",
+          "ios",
+          "linux-desktop",
+          "macos",
+          "material-design",
+          "mobile",
+          "mobile-development",
+          "skia",
+          "web",
+          "web-framework",
+          "windows"
+        ],
+        "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
+      },
       {
         "name": "jaspr",
         "fullname": "schultek/jaspr",
@@ -3535,6 +4209,20 @@
           "web"
         ],
         "description": "Java / JavaFX / Kotlin Game Library (Engine)"
+      },
+      {
+        "name": "jmonkeyengine",
+        "fullname": "jMonkeyEngine/jmonkeyengine",
+        "url": "https://github.com/jMonkeyEngine/jmonkeyengine",
+        "topics": [
+          "game-engine-3d",
+          "hacktoberfest",
+          "java",
+          "jme3",
+          "jmonkeyengine",
+          "jmonkeyengine3"
+        ],
+        "description": "A complete 3-D game development suite written in Java."
       },
       {
         "name": "flutter_chess_board",
