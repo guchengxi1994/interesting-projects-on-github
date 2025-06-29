@@ -26,7 +26,7 @@ categories = {
             "AI Agents": "具备行动能力的 AI 智能体",
             "Large Models": "大语言模型、多模态模型或大型预训练模型",
             "AI Applications": "基于 AI 的应用程序，如 AI 绘图、对话等",
-            "Tools":"封装的人工智能工具"
+            "Tools": "封装的人工智能工具",
         },
     },
     "Frontend / UI / Mobile": {
@@ -45,7 +45,10 @@ categories = {
             "Easy Work Tools": "简化重复性工作的开发小工具",
         },
     },
-    "Experimental / Fun Projects": {"desc": "有趣或实验性的开源项目", "subcategories": {}},
+    "Experimental / Fun Projects": {
+        "desc": "有趣或实验性的开源项目",
+        "subcategories": {},
+    },
     "Mature Open Source Projects (CRM / ERP / CMS)": {
         "desc": "成熟的大型开源系统",
         "subcategories": {
@@ -53,7 +56,10 @@ categories = {
             "Lowcode Platforms": "低代码开发平台",
         },
     },
-    "Guides / Handbooks / Tutorials": {"desc": "教程、开发手册与学习资料", "subcategories": {}},
+    "Guides / Handbooks / Tutorials": {
+        "desc": "教程、开发手册与学习资料",
+        "subcategories": {},
+    },
     "Datasets": {"desc": "可用于训练或评估模型的数据集", "subcategories": {}},
 }
 
