@@ -60,6 +60,13 @@ def anchor_name(title: str) -> str:
         .replace("--", "-")
     )
 
+def safe_badge_label(label: str) -> str:
+    """转义 Badge 标签，单个 - 替换为 --，其他字符正常 urlencode"""
+    # 先整体编码
+    encoded = quote_plus(label)
+    # 再把原始 - 替换为 --
+    safe = encoded.replace("-", "--")
+    return safe
 
 def render_topics(topics: list, max_length=3) -> str:
     """使用 shields.io 生成标签 Badge"""
@@ -69,7 +76,7 @@ def render_topics(topics: list, max_length=3) -> str:
     badges = []
     for i, topic in enumerate(topics[:max_length]):  # 最多展示10个
         color = badge_colors[i % len(badge_colors)]
-        safe_topic = quote_plus(topic)
+        safe_topic = safe_badge_label(topic)
         badge = f"![{topic}](https://img.shields.io/badge/{safe_topic}-{color}?style=flat-square)"
         badges.append(badge)
 
