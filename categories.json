@@ -667,6 +667,205 @@
     ],
     "Frameworks/SDKs": [
       {
+        "name": "django-react-tyadmin",
+        "fullname": "mtianyan/django-react-tyadmin",
+        "url": "https://github.com/mtianyan/django-react-tyadmin",
+        "topics": [
+          "admin",
+          "antd-design-pro",
+          "antdesign",
+          "django",
+          "django-admin",
+          "django-rest-framework",
+          "drf",
+          "generator",
+          "nocode",
+          "python3",
+          "react",
+          "xadmin"
+        ],
+        "description": "支持Python3.9,Django4! 类似 xadmin 的基于Model 快速生成前后台管理增删改查，筛选，搜索的后台管理自动化工具。Antd 界面好看现代化！前后端分离！无损二次开发！由Django Restful Framework 和 Ant Design Pro V4 驱动"
+      },
+      {
+        "name": "twirp",
+        "fullname": "twitchtv/twirp",
+        "url": "https://github.com/twitchtv/twirp",
+        "topics": [
+          "go",
+          "protobuf",
+          "rpc",
+          "twirp"
+        ],
+        "description": "A simple RPC framework with protobuf service definitions"
+      },
+      {
+        "name": "actix-web",
+        "fullname": "actix/actix-web",
+        "url": "https://github.com/actix/actix-web",
+        "topics": [
+          "actix",
+          "actix-web",
+          "async",
+          "rust",
+          "web",
+          "web-development",
+          "websockets"
+        ],
+        "description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust."
+      },
+      {
+        "name": "actix",
+        "fullname": "actix/actix",
+        "url": "https://github.com/actix/actix",
+        "topics": [
+          "actix",
+          "actor",
+          "actor-model",
+          "concurrency",
+          "hacktoberfest",
+          "rust"
+        ],
+        "description": "Actor framework for Rust."
+      },
+      {
+        "name": "drogon",
+        "fullname": "drogonframework/drogon",
+        "url": "https://github.com/drogonframework/drogon",
+        "topics": [
+          "asynchronous-programming",
+          "drogon",
+          "http",
+          "http-framework",
+          "http-server",
+          "linux",
+          "non-blocking-io"
+        ],
+        "description": "Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows"
+      },
+      {
+        "name": "djangoApi",
+        "fullname": "Louis-me/djangoApi",
+        "url": "https://github.com/Louis-me/djangoApi",
+        "topics": [
+          "autotesting",
+          "django",
+          "python3"
+        ],
+        "description": "Django Auto Test"
+      },
+      {
+        "name": "fastapi",
+        "fullname": "fastapi/fastapi",
+        "url": "https://github.com/fastapi/fastapi",
+        "topics": [
+          "api",
+          "async",
+          "asyncio",
+          "fastapi",
+          "framework",
+          "json",
+          "json-schema",
+          "openapi",
+          "openapi3",
+          "pydantic",
+          "python",
+          "python-types",
+          "python3",
+          "redoc",
+          "rest",
+          "starlette",
+          "swagger",
+          "swagger-ui",
+          "uvicorn",
+          "web"
+        ],
+        "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
+      },
+      {
+        "name": "axum",
+        "fullname": "tokio-rs/axum",
+        "url": "https://github.com/tokio-rs/axum",
+        "topics": [],
+        "description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper"
+      },
+      {
+        "name": "starlette",
+        "fullname": "encode/starlette",
+        "url": "https://github.com/encode/starlette",
+        "topics": [
+          "async",
+          "http",
+          "python",
+          "websockets"
+        ],
+        "description": "The little ASGI framework that shines. 🌟"
+      },
+      {
+        "name": "aqueduct",
+        "fullname": "stablekernel/aqueduct",
+        "url": "https://github.com/stablekernel/aqueduct",
+        "topics": [
+          "dart",
+          "framework",
+          "http",
+          "oauth2",
+          "orm",
+          "rest",
+          "routing",
+          "server"
+        ],
+        "description": "Dart HTTP server framework for building REST APIs. Includes PostgreSQL ORM and OAuth2 provider."
+      },
+      {
+        "name": "go-zero",
+        "fullname": "zeromicro/go-zero",
+        "url": "https://github.com/zeromicro/go-zero",
+        "topics": [
+          "cloud-native",
+          "code-generation",
+          "framework",
+          "gateway",
+          "go",
+          "go-zero",
+          "goctl",
+          "golang",
+          "gozero",
+          "grpc-gateway",
+          "microservice",
+          "microservice-framework",
+          "microservices",
+          "microservices-architecture",
+          "rest-api",
+          "restful",
+          "restful-api",
+          "rpc",
+          "rpc-framework",
+          "web-framework"
+        ],
+        "description": "A cloud-native Go microservices framework with cli tool for productivity."
+      },
+      {
+        "name": "yew",
+        "fullname": "yewstack/yew",
+        "url": "https://github.com/yewstack/yew",
+        "topics": [
+          "asmjs",
+          "concurrency",
+          "elm",
+          "emscripten",
+          "gui",
+          "hacktoberfest",
+          "jsx",
+          "multithreading",
+          "rust",
+          "wasm",
+          "web",
+          "web-framework",
+          "webworkers"
+        ],
+        "description": "Rust / Wasm framework for creating reliable and efficient web applications"
+      },
+      {
         "name": "dart_frog",
         "fullname": "VeryGoodOpenSource/dart_frog",
         "url": "https://github.com/VeryGoodOpenSource/dart_frog",
@@ -2785,6 +2984,22 @@
         "description": "A Flutter widget to apply a crossfade animation between different states and/or widgets."
       },
       {
+        "name": "perspective",
+        "fullname": "finos/perspective",
+        "url": "https://github.com/finos/perspective",
+        "topics": [
+          "analytics",
+          "bi",
+          "data-visualization",
+          "javascript",
+          "jupyter",
+          "python",
+          "real-time",
+          "webassembly"
+        ],
+        "description": "A data visualization and analytics component, especially well-suited for large and/or streaming datasets."
+      },
+      {
         "name": "flutter-custom-refresh-indicator",
         "fullname": "gonuit/flutter-custom-refresh-indicator",
         "url": "https://github.com/gonuit/flutter-custom-refresh-indicator",
@@ -3770,6 +3985,117 @@
         "description": "Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get."
       },
       {
+        "name": "gpu.cpp",
+        "fullname": "AnswerDotAI/gpu.cpp",
+        "url": "https://github.com/AnswerDotAI/gpu.cpp",
+        "topics": [],
+        "description": "A lightweight library for portable low-level GPU computation using WebGPU. "
+      },
+      {
+        "name": "flutter_boost",
+        "fullname": "alibaba/flutter_boost",
+        "url": "https://github.com/alibaba/flutter_boost",
+        "topics": [
+          "android",
+          "dart",
+          "flutter",
+          "hybrid-app",
+          "hybrid-flutter",
+          "ios"
+        ],
+        "description": "FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts"
+      },
+      {
+        "name": "fluwx",
+        "fullname": "OpenFlutter/fluwx",
+        "url": "https://github.com/OpenFlutter/fluwx",
+        "topics": [
+          "flutter",
+          "wechat",
+          "wechatsdk",
+          "wxsdk"
+        ],
+        "description": "Flutter版微信SDK.WeChat SDK for flutter."
+      },
+      {
+        "name": "flutter_pytorch_mobile",
+        "fullname": "fbelderink/flutter_pytorch_mobile",
+        "url": "https://github.com/fbelderink/flutter_pytorch_mobile",
+        "topics": [
+          "flutter-package",
+          "pytorch-model"
+        ],
+        "description": "A flutter plugin for pytorch model inference. Supports image models as well as custom models."
+      },
+      {
+        "name": "flasgger",
+        "fullname": "flasgger/flasgger",
+        "url": "https://github.com/flasgger/flasgger",
+        "topics": [
+          "api",
+          "api-documentation",
+          "api-framework",
+          "flask",
+          "flask-extension",
+          "flask-extensions",
+          "flask-restful",
+          "marshmallow",
+          "openapi",
+          "openapi-specification",
+          "rest-api",
+          "restful",
+          "swagger",
+          "swagger-ui"
+        ],
+        "description": "Easy OpenAPI specs and Swagger UI for your Flask API"
+      },
+      {
+        "name": "Qt-Advanced-Docking-System",
+        "fullname": "githubuser0xFFFF/Qt-Advanced-Docking-System",
+        "url": "https://github.com/githubuser0xFFFF/Qt-Advanced-Docking-System",
+        "topics": [
+          "cpp",
+          "docking",
+          "docking-framework",
+          "docking-library",
+          "qt5"
+        ],
+        "description": "Advanced Docking System for Qt"
+      },
+      {
+        "name": "apollo",
+        "fullname": "apolloconfig/apollo",
+        "url": "https://github.com/apolloconfig/apollo",
+        "topics": [
+          "config-management",
+          "configuration-management",
+          "distributed-configuration",
+          "microservices",
+          "spring-boot",
+          "spring-cloud"
+        ],
+        "description": "Apollo is a reliable configuration management system suitable for microservice configuration management scenarios."
+      },
+      {
+        "name": "bloc",
+        "fullname": "felangel/bloc",
+        "url": "https://github.com/felangel/bloc",
+        "topics": [
+          "angulardart",
+          "bloc",
+          "concurrency",
+          "dart",
+          "dart-library",
+          "dart-web",
+          "dartlang",
+          "flutter",
+          "flutter-package",
+          "library",
+          "state-management"
+        ],
+        "description": "A predictable state management library that helps implement the BLoC design pattern"
+      },
+      {
         "name": "query",
         "fullname": "TanStack/query",
         "url": "https://github.com/TanStack/query",
@@ -3849,6 +4175,104 @@
     ],
     "Applications": [
       {
+        "name": "KodExplorer",
+        "fullname": "kalcaddle/KodExplorer",
+        "url": "https://github.com/kalcaddle/KodExplorer",
+        "topics": [
+          "archive",
+          "collaboration",
+          "docx",
+          "file-browser",
+          "file-explorer",
+          "file-sharing",
+          "file-upload",
+          "filemanager",
+          "free-software",
+          "ide",
+          "markdown-editor",
+          "s3",
+          "text-editor",
+          "webdav",
+          "xlsx",
+          "zip"
+        ],
+        "description": "A web based file manager,web IDE / browser based code editor"
+      },
+      {
+        "name": "go-ldap-admin",
+        "fullname": "opsre/go-ldap-admin",
+        "url": "https://github.com/opsre/go-ldap-admin",
+        "topics": [
+          "admin",
+          "casbin",
+          "element-ui",
+          "eryajf",
+          "gin",
+          "gin-vue-admin",
+          "go",
+          "go-admin",
+          "go-ldap-admin",
+          "golang",
+          "gorm",
+          "jwt",
+          "ldap",
+          "ldap-manager",
+          "opsre"
+        ],
+        "description": "🌉 基于Go+Vue实现的openLDAP后台管理项目"
+      },
+      {
+        "name": "briefer",
+        "fullname": "briefercloud/briefer",
+        "url": "https://github.com/briefercloud/briefer",
+        "topics": [
+          "analytics",
+          "bi",
+          "bigquery",
+          "briefer",
+          "business-intelligence",
+          "businessintelligence",
+          "dashboard",
+          "data-analysis",
+          "data-visualization",
+          "jupyter",
+          "notebook",
+          "postgres",
+          "postgresql",
+          "reporting",
+          "visualization"
+        ],
+        "description": "Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team."
+      },
+      {
+        "name": "django-datta-able",
+        "fullname": "app-generator/django-datta-able",
+        "url": "https://github.com/app-generator/django-datta-able",
+        "topics": [
+          "datta-able",
+          "datta-template",
+          "django",
+          "django-admin",
+          "django-admin-theme",
+          "django-admin-themes",
+          "django-application",
+          "django-boilerplate",
+          "django-bootstrap",
+          "django-dashboard",
+          "django-datatables",
+          "django-datatables-serverside",
+          "django-library",
+          "django-sample",
+          "django-starter",
+          "django-starter-template",
+          "django-template",
+          "django-theme",
+          "python-app-docker",
+          "python-application"
+        ],
+        "description": "Datta Able - Open-Source Django Dashboard | App-Generator.dev"
+      },
+      {
         "name": "appflowy-editor",
         "fullname": "AppFlowy-IO/appflowy-editor",
         "url": "https://github.com/AppFlowy-IO/appflowy-editor",
@@ -3868,6 +4292,78 @@
   },
   "DevOps / Tools": {
     "__root__": [
+      {
+        "name": "nylo",
+        "fullname": "nylo-core/nylo",
+        "url": "https://github.com/nylo-core/nylo",
+        "topics": [
+          "apps",
+          "boilerplate",
+          "dart",
+          "development",
+          "flutter",
+          "flutter-boilerplate",
+          "flutter-framework",
+          "flutter-micro-framework",
+          "flutter-template"
+        ],
+        "description": "Nylo is the fastest way to build your next Flutter mobile app. Streamline your projects with Nylo's opinionated approach to building Flutter apps. Develop your next idea  ⚡️"
+      },
+      {
+        "name": "utoipa",
+        "fullname": "juhaku/utoipa",
+        "url": "https://github.com/juhaku/utoipa",
+        "topics": [
+          "auto-generated",
+          "compile-time",
+          "documentation",
+          "generated",
+          "openapi",
+          "openapi-documentation",
+          "openapi31",
+          "rest",
+          "rest-api",
+          "rest-api-documentation",
+          "rust",
+          "swagger"
+        ],
+        "description": "Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust"
+      },
+      {
+        "name": "nameko",
+        "fullname": "nameko/nameko",
+        "url": "https://github.com/nameko/nameko",
+        "topics": [
+          "framework",
+          "microservices",
+          "nameko",
+          "python"
+        ],
+        "description": "Python framework for building microservices"
+      },
+      {
+        "name": "phoenix",
+        "fullname": "phoenixframework/phoenix",
+        "url": "https://github.com/phoenixframework/phoenix",
+        "topics": [
+          "api-server",
+          "distributed",
+          "elixir",
+          "realtime",
+          "web-framework"
+        ],
+        "description": "Peace of mind from prototype to production"
+      },
+      {
+        "name": "grpc-dart",
+        "fullname": "grpc/grpc-dart",
+        "url": "https://github.com/grpc/grpc-dart",
+        "topics": [
+          "dart",
+          "grpc"
+        ],
+        "description": "The Dart language implementation of gRPC."
+      },
       {
         "name": "dash",
         "fullname": "plotly/dash",
@@ -4060,6 +4556,34 @@
     ],
     "Easy Work Tools": [
       {
+        "name": "searxng",
+        "fullname": "searxng/searxng",
+        "url": "https://github.com/searxng/searxng",
+        "topics": [
+          "hacktoberfest",
+          "metasearch",
+          "metasearch-engine",
+          "python",
+          "search",
+          "searxng"
+        ],
+        "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled."
+      },
+      {
+        "name": "alist",
+        "fullname": "AlistGo/alist",
+        "url": "https://github.com/AlistGo/alist",
+        "topics": [
+          "file-server",
+          "gin",
+          "golang",
+          "onedrive",
+          "solidjs",
+          "webdav"
+        ],
+        "description": "🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。"
+      },
+      {
         "name": "any-to-pdf",
         "fullname": "suraj-singh12/any-to-pdf",
         "url": "https://github.com/suraj-singh12/any-to-pdf",
@@ -4091,6 +4615,17 @@
           "yaml"
         ],
         "description": "Generate Go structs from multiple JSON or YAML objects."
+      },
+      {
+        "name": "magnetW",
+        "fullname": "xiandanin/magnetW",
+        "url": "https://github.com/xiandanin/magnetW",
+        "topics": [
+          "electron",
+          "electron-vue",
+          "vue"
+        ],
+        "description": "[已失效，不再维护]"
       },
       {
         "name": "quicktype",
@@ -4182,6 +4717,50 @@
   },
   "Experimental / Fun Projects": {
     "__root__": [
+      {
+        "name": "flame",
+        "fullname": "flame-engine/flame",
+        "url": "https://github.com/flame-engine/flame",
+        "topics": [
+          "dart",
+          "flame",
+          "flutter",
+          "game",
+          "game-development",
+          "game-engine",
+          "gamedev",
+          "hacktoberfest"
+        ],
+        "description": "A Flutter based game engine."
+      },
+      {
+        "name": "PyWebIO",
+        "fullname": "pywebio/PyWebIO",
+        "url": "https://github.com/pywebio/PyWebIO",
+        "topics": [
+          "pywebio"
+        ],
+        "description": "Write interactive web app in script way."
+      },
+      {
+        "name": "webvm",
+        "fullname": "leaningtech/webvm",
+        "url": "https://github.com/leaningtech/webvm",
+        "topics": [
+          "cheerp",
+          "cheerpx",
+          "cpp",
+          "lwip",
+          "repl",
+          "tailscale",
+          "vm",
+          "wasm",
+          "webassembly",
+          "webvm",
+          "xterm-js"
+        ],
+        "description": "Virtual Machine for the Web"
+      }
       {
         "name": "FXGL",
         "fullname": "AlmasB/FXGL",
@@ -4359,6 +4938,17 @@
   },
   "Guides / Handbooks / Tutorials": {
     "__root__": [
+      {
+        "name": "PPGo_ApiAdmin",
+        "fullname": "george518/PPGo_ApiAdmin",
+        "url": "https://github.com/george518/PPGo_ApiAdmin",
+        "topics": [
+          "api",
+          "beego",
+          "golang"
+        ],
+        "description": "go-API-manage"
+      },
       {
         "name": "webauthndemo",
         "fullname": "google/webauthndemo",

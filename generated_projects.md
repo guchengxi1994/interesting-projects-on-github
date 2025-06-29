@@ -566,3 +566,10 @@
 
 ### 未知分类
 
+
+
+内嵌 <span style="background:#d4f4dd; color:#207544; border-radius:4px; padding:2px 6px; font-size:0.85em;">已通过</span> 状态展示。
+
+内嵌 <span style="background:#fdecea; color:#d93025; border-radius:4px; padding:2px 6px; font-size:0.85em;">错误</span> 状态展示。
+
+内嵌 <span style="background:#fff4e5; color:#b36b00; border-radius:4px; padding:2px 6px; font-size:0.85em;">警告</span> 状态展示。
