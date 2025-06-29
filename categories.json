@@ -2001,6 +2001,192 @@
   "Artificial Intelligence / Machine Learning": {
     "Researches": [
       {
+        "name": "ComfyUI-GGUF",
+        "fullname": "city96/ComfyUI-GGUF",
+        "url": "https://github.com/city96/ComfyUI-GGUF",
+        "topics": [],
+        "description": "GGUF Quantization support for native ComfyUI models"
+      },
+      {
+        "name": "MMdnn",
+        "fullname": "microsoft/MMdnn",
+        "url": "https://github.com/microsoft/MMdnn",
+        "topics": [
+          "caffe",
+          "cntk",
+          "coreml",
+          "darknet",
+          "keras",
+          "model-converter",
+          "mxnet",
+          "onnx",
+          "pytorch",
+          "tensorflow",
+          "visualization"
+        ],
+        "description": "MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML."
+      },
+      {
+        "name": "gluon-cv",
+        "fullname": "dmlc/gluon-cv",
+        "url": "https://github.com/dmlc/gluon-cv",
+        "topics": [
+          "action-recognition",
+          "computer-vision",
+          "deep-learning",
+          "gan",
+          "gluon",
+          "image-classification",
+          "machine-learning",
+          "mxnet",
+          "neural-network",
+          "object-detection",
+          "person-reid",
+          "pose-estimation",
+          "semantic-segmentation"
+        ],
+        "description": "Gluon CV Toolkit"
+      },
+      {
+        "name": "efficientnet",
+        "fullname": "qubvel/efficientnet",
+        "url": "https://github.com/qubvel/efficientnet",
+        "topics": [
+          "classification",
+          "deep-learning",
+          "efficient",
+          "efficientnet",
+          "image-classification",
+          "imagenet",
+          "mobilenet",
+          "nasnetmobile",
+          "pretrained-models"
+        ],
+        "description": "Implementation of EfficientNet model. Keras and TensorFlow Keras."
+      },
+      {
+        "name": "White-box-Cartoonization",
+        "fullname": "SystemErrorWang/White-box-Cartoonization",
+        "url": "https://github.com/SystemErrorWang/White-box-Cartoonization",
+        "topics": [],
+        "description": "Official tensorflow implementation for CVPR2020 paper “Learning to Cartoonize Using White-box Cartoon Representations”"
+      },
+      {
+        "name": "Keras-GAN",
+        "fullname": "eriklindernoren/Keras-GAN",
+        "url": "https://github.com/eriklindernoren/Keras-GAN",
+        "topics": [
+          "deep-learning",
+          "gan",
+          "generative-adversarial-networks",
+          "keras",
+          "neural-networks"
+        ],
+        "description": "Keras implementations of Generative Adversarial Networks."
+      },
+      {
+        "name": "noise2noise",
+        "fullname": "NVlabs/noise2noise",
+        "url": "https://github.com/NVlabs/noise2noise",
+        "topics": [],
+        "description": "Noise2Noise: Learning Image Restoration without Clean Data - Official TensorFlow implementation of the ICML 2018 paper"
+      },
+      {
+        "name": "PyTorch-GAN",
+        "fullname": "eriklindernoren/PyTorch-GAN",
+        "url": "https://github.com/eriklindernoren/PyTorch-GAN",
+        "topics": [],
+        "description": "PyTorch implementations of Generative Adversarial Networks."
+      },
+      {
+        "name": "stylegan2-pytorch",
+        "fullname": "rosinality/stylegan2-pytorch",
+        "url": "https://github.com/rosinality/stylegan2-pytorch",
+        "topics": [
+          "stylegan2"
+        ],
+        "description": "Implementation of Analyzing and Improving the Image Quality of StyleGAN (StyleGAN 2) in PyTorch"
+      },
+      {
+        "name": "stylegan2-ada-pytorch",
+        "fullname": "NVlabs/stylegan2-ada-pytorch",
+        "url": "https://github.com/NVlabs/stylegan2-ada-pytorch",
+        "topics": [],
+        "description": "StyleGAN2-ADA - Official PyTorch implementation"
+      },
+      {
+        "name": "External-Attention-pytorch",
+        "fullname": "xmu-xiaoma666/External-Attention-pytorch",
+        "url": "https://github.com/xmu-xiaoma666/External-Attention-pytorch",
+        "topics": [
+          "attention",
+          "cbam",
+          "excitation-networks",
+          "linear-layers",
+          "paper",
+          "pytorch",
+          "squeeze",
+          "visual-tasks"
+        ],
+        "description": "🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐"
+      },
+      {
+        "name": "stylegan2-pytorch",
+        "fullname": "lucidrains/stylegan2-pytorch",
+        "url": "https://github.com/lucidrains/stylegan2-pytorch",
+        "topics": [
+          "artificial-intelligence",
+          "generative-adversarial-network",
+          "generative-model",
+          "machine-learning",
+          "pytorch"
+        ],
+        "description": "Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement"
+      },
+      {
+        "name": "deepmind-research",
+        "fullname": "google-deepmind/deepmind-research",
+        "url": "https://github.com/google-deepmind/deepmind-research",
+        "topics": [],
+        "description": "This repository contains implementations and illustrative code to accompany DeepMind publications"
+      },
+      {
+        "name": "PerceptualSimilarity",
+        "fullname": "richzhang/PerceptualSimilarity",
+        "url": "https://github.com/richzhang/PerceptualSimilarity",
+        "topics": [
+          "deep-learning",
+          "deep-neural-networks",
+          "perceptual",
+          "perceptual-losses",
+          "perceptual-metric",
+          "perceptual-similarity",
+          "pytorch"
+        ],
+        "description": "LPIPS metric. pip install lpips"
+      },
+      {
+        "name": "MSTT-STVSR",
+        "fullname": "XY-boy/MSTT-STVSR",
+        "url": "https://github.com/XY-boy/MSTT-STVSR",
+        "topics": [],
+        "description": "[JAG 2022] Space-time Super-resolution for Satellite Video: A Joint Framework Based on Multi-Scale Spatial-Temporal Transformer"
+      },
+      {
+        "name": "few-shot-vid2vid",
+        "fullname": "NVlabs/few-shot-vid2vid",
+        "url": "https://github.com/NVlabs/few-shot-vid2vid",
+        "topics": [],
+        "description": "Pytorch implementation for few-shot photorealistic video-to-video translation."
+      },
+      {
+        "name": "vid2vid",
+        "fullname": "NVIDIA/vid2vid",
+        "url": "https://github.com/NVIDIA/vid2vid",
+        "topics": [],
+        "description": "Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation."
+      },
+      {
         "name": "rust",
         "fullname": "tensorflow/rust",
         "url": "https://github.com/tensorflow/rust",
@@ -2191,6 +2377,374 @@
       }
     ],
     "AI Frameworks": [
+      {
+        "name": "ai",
+        "fullname": "vercel/ai",
+        "url": "https://github.com/vercel/ai",
+        "topics": [
+          "anthropic",
+          "artificial-intelligence",
+          "gemini",
+          "generative-ai",
+          "generative-ui",
+          "javascript",
+          "language-model",
+          "llm",
+          "nextjs",
+          "openai",
+          "react",
+          "svelte",
+          "typescript",
+          "vercel",
+          "vue"
+        ],
+        "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents "
+      },
+      {
+        "name": "burn",
+        "fullname": "tracel-ai/burn",
+        "url": "https://github.com/tracel-ai/burn",
+        "topics": [
+          "autodiff",
+          "cross-platform",
+          "cuda",
+          "deep-learning",
+          "kernel-fusion",
+          "machine-learning",
+          "metal",
+          "ndarray",
+          "neural-network",
+          "onnx",
+          "pytorch",
+          "rocm",
+          "rust",
+          "scientific-computing",
+          "tensor",
+          "vulkan",
+          "wasm",
+          "webgpu"
+        ],
+        "description": "Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability."
+      },
+      {
+        "name": "llama_cpp_dart",
+        "fullname": "netdur/llama_cpp_dart",
+        "url": "https://github.com/netdur/llama_cpp_dart",
+        "topics": [],
+        "description": "dart binding for llama.cpp"
+      },
+      {
+        "name": "Merlion",
+        "fullname": "salesforce/Merlion",
+        "url": "https://github.com/salesforce/Merlion",
+        "topics": [
+          "anomaly-detection",
+          "automl",
+          "benchmarking",
+          "ensemble-learning",
+          "forecasting",
+          "machine-learning",
+          "time-series"
+        ],
+        "description": "Merlion: A Machine Learning Framework for Time Series Intelligence"
+      },
+      {
+        "name": "OpenRLHF",
+        "fullname": "OpenRLHF/OpenRLHF",
+        "url": "https://github.com/OpenRLHF/OpenRLHF",
+        "topics": [
+          "large-language-models",
+          "openai-o1",
+          "proximal-policy-optimization",
+          "raylib",
+          "reinforcement-learning",
+          "reinforcement-learning-from-human-feedback",
+          "transformers",
+          "vllm"
+        ],
+        "description": "An Easy-to-use, Scalable and High-performance RLHF Framework based on Ray (PPO & GRPO & REINFORCE++ & vLLM & Ray & Dynamic Sampling & Async Agent RL)"
+      },
+      {
+        "name": "DeepSpeed",
+        "fullname": "deepspeedai/DeepSpeed",
+        "url": "https://github.com/deepspeedai/DeepSpeed",
+        "topics": [
+          "billion-parameters",
+          "compression",
+          "data-parallelism",
+          "deep-learning",
+          "gpu",
+          "inference",
+          "machine-learning",
+          "mixture-of-experts",
+          "model-parallelism",
+          "pipeline-parallelism",
+          "pytorch",
+          "trillion-parameters",
+          "zero"
+        ],
+        "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective."
+      },
+      {
+        "name": "flutter_tflite",
+        "fullname": "shaqian/flutter_tflite",
+        "url": "https://github.com/shaqian/flutter_tflite",
+        "topics": [
+          "dart",
+          "flutter",
+          "tensorflow",
+          "tensorflowlite"
+        ],
+        "description": "Flutter plugin for TensorFlow Lite"
+      },
+      {
+        "name": "Tengine",
+        "fullname": "OAID/Tengine",
+        "url": "https://github.com/OAID/Tengine",
+        "topics": [
+          "acl",
+          "arm",
+          "artificial-intelligence",
+          "cnn",
+          "container",
+          "cuda",
+          "machine-learning",
+          "mips",
+          "npu",
+          "nvdla",
+          "onnx",
+          "pytorch",
+          "riscv",
+          "supperedge",
+          "tensorflow",
+          "tensorrt",
+          "x86-64"
+        ],
+        "description": "Tengine is a lite, high performance, modular inference engine for embedded device "
+      },
+      {
+        "name": "AliceMind",
+        "fullname": "alibaba/AliceMind",
+        "url": "https://github.com/alibaba/AliceMind",
+        "topics": [
+          "bert",
+          "deep-learning",
+          "natural-language-processing",
+          "nlp"
+        ],
+        "description": "ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab"
+      },
+      {
+        "name": "mediapipe",
+        "fullname": "google-ai-edge/mediapipe",
+        "url": "https://github.com/google-ai-edge/mediapipe",
+        "topics": [
+          "android",
+          "audio-processing",
+          "c-plus-plus",
+          "calculator",
+          "computer-vision",
+          "deep-learning",
+          "framework",
+          "graph-based",
+          "graph-framework",
+          "inference",
+          "machine-learning",
+          "mediapipe",
+          "mobile-development",
+          "perception",
+          "pipeline-framework",
+          "stream-processing",
+          "video-processing"
+        ],
+        "description": "Cross-platform, customizable ML solutions for live and streaming media."
+      },
+      {
+        "name": "TensorRT",
+        "fullname": "pytorch/TensorRT",
+        "url": "https://github.com/pytorch/TensorRT",
+        "topics": [
+          "cuda",
+          "deep-learning",
+          "jetson",
+          "libtorch",
+          "machine-learning",
+          "nvidia",
+          "pytorch",
+          "tensorrt"
+        ],
+        "description": "PyTorch/TorchScript/FX compiler for NVIDIA GPUs using TensorRT"
+      },
+      {
+        "name": "Kashgari",
+        "fullname": "BrikerMan/Kashgari",
+        "url": "https://github.com/BrikerMan/Kashgari",
+        "topics": [
+          "bert",
+          "bert-model",
+          "gpt-2",
+          "machine-learning",
+          "named-entity-recognition",
+          "ner",
+          "nlp",
+          "nlp-framework",
+          "seq2seq",
+          "sequence-labeling",
+          "text-classification",
+          "text-labeling",
+          "transfer-learning"
+        ],
+        "description": "Kashgari is a production-level NLP Transfer learning framework built on top of tf.keras for text-labeling and text-classification, includes Word2Vec, BERT, and GPT2 Language Embedding."
+      },
+      {
+        "name": "fastNLP",
+        "fullname": "fastnlp/fastNLP",
+        "url": "https://github.com/fastnlp/fastNLP",
+        "topics": [
+          "chinese-nlp",
+          "deep-learning",
+          "natural-language-processing",
+          "nlp-library",
+          "nlp-parsing",
+          "text-classification",
+          "text-processing"
+        ],
+        "description": "fastNLP: A Modularized and Extensible NLP Framework. Currently still in incubation."
+      },
+      {
+        "name": "bolt",
+        "fullname": "huawei-noah/bolt",
+        "url": "https://github.com/huawei-noah/bolt",
+        "topics": [
+          "android",
+          "arm",
+          "bolt",
+          "caffe",
+          "cnn",
+          "cv",
+          "deep-learning",
+          "high-performance",
+          "huawei",
+          "inference",
+          "ios",
+          "mali",
+          "mobile",
+          "nlp",
+          "noah",
+          "onnx",
+          "rnn",
+          "tensorflow",
+          "x86"
+        ],
+        "description": "Bolt is a deep learning library with high performance and heterogeneous flexibility."
+      },
+      {
+        "name": "ncnn",
+        "fullname": "Tencent/ncnn",
+        "url": "https://github.com/Tencent/ncnn",
+        "topics": [
+          "android",
+          "arm-neon",
+          "artificial-intelligence",
+          "caffe",
+          "darknet",
+          "deep-learning",
+          "high-preformance",
+          "inference",
+          "ios",
+          "keras",
+          "mlir",
+          "mxnet",
+          "ncnn",
+          "neural-network",
+          "onnx",
+          "pytorch",
+          "riscv",
+          "simd",
+          "tensorflow",
+          "vulkan"
+        ],
+        "description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform"
+      },
+      {
+        "name": "openvino",
+        "fullname": "openvinotoolkit/openvino",
+        "url": "https://github.com/openvinotoolkit/openvino",
+        "topics": [
+          "ai",
+          "computer-vision",
+          "deep-learning",
+          "deploy-ai",
+          "diffusion-models",
+          "generative-ai",
+          "good-first-issue",
+          "inference",
+          "llm-inference",
+          "natural-language-processing",
+          "nlp",
+          "openvino",
+          "optimize-ai",
+          "performance-boost",
+          "recommendation-system",
+          "speech-recognition",
+          "stable-diffusion",
+          "transformers",
+          "yolo"
+        ],
+        "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference"
+      },
+      {
+        "name": "spandrel",
+        "fullname": "chaiNNer-org/spandrel",
+        "url": "https://github.com/chaiNNer-org/spandrel",
+        "topics": [],
+        "description": "Spandrel gives your project support for various PyTorch architectures meant for AI Super-Resolution, restoration, and inpainting. Based on the model support implemented in chaiNNer."
+      },
+      {
+        "name": "FATE",
+        "fullname": "FederatedAI/FATE",
+        "url": "https://github.com/FederatedAI/FATE",
+        "topics": [
+          "algorithm",
+          "fate",
+          "federated-learning",
+          "machine-learning",
+          "privacy-preserving"
+        ],
+        "description": "An Industrial Grade Federated Learning Framework"
+      },
+      {
+        "name": "MegEngine",
+        "fullname": "MegEngine/MegEngine",
+        "url": "https://github.com/MegEngine/MegEngine",
+        "topics": [
+          "autograd",
+          "deep-learning",
+          "gpu",
+          "machine-learning",
+          "megengine",
+          "numpy",
+          "python",
+          "tensor"
+        ],
+        "description": "MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架"
+      },
+      {
+        "name": "pytorch-to-javascript-with-onnx-js",
+        "fullname": "elliotwaite/pytorch-to-javascript-with-onnx-js",
+        "url": "https://github.com/elliotwaite/pytorch-to-javascript-with-onnx-js",
+        "topics": [
+          "browser",
+          "javascript",
+          "onnx",
+          "onnx-model",
+          "onnx-models",
+          "pytorch",
+          "pytorch-model",
+          "pytorch-models"
+        ],
+        "description": "Run PyTorch models in the browser using ONNX.js"
+      },
       {
         "name": "jax",
         "fullname": "jax-ml/jax",
@@ -5302,6 +5856,18 @@
   },
   "Guides / Handbooks / Tutorials": {
     "__root__": [
+      {
+        "name": "pytorch-tutorial",
+        "fullname": "yunjey/pytorch-tutorial",
+        "url": "https://github.com/yunjey/pytorch-tutorial",
+        "topics": [
+          "deep-learning",
+          "neural-networks",
+          "pytorch",
+          "pytorch-tutorial"
+        ],
+        "description": "PyTorch Tutorial for Deep Learning Researchers"
+      },
       {
         "name": "PPGo_ApiAdmin",
         "fullname": "george518/PPGo_ApiAdmin",
