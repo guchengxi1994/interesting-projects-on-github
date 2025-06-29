@@ -1,0 +1,149 @@
+{
+  "Full-Stack / Web Development": {
+    "Database": [
+      {
+        "name": "Financial-Knowledge-Graphs",
+        "fullname": "jm199504/Financial-Knowledge-Graphs",
+        "url": "https://github.com/jm199504/Financial-Knowledge-Graphs",
+        "topics": [
+          "cypher",
+          "data-analysis",
+          "graph-database",
+          "neo4j",
+          "python"
+        ],
+        "description": "小型金融知识图谱构建流程（neo4j / python / cypher / KG）"
+      }
+    ],
+    "Languages": [],
+    "Frameworks": [],
+    "__root__": []
+  },
+  "Artificial Intelligence / Machine Learning": {
+    "AI Frameworks": [],
+    "Object Detector": [],
+    "AI Agents": [],
+    "Large Models": [
+      {
+        "name": "LongWriter",
+        "fullname": "THUDM/LongWriter",
+        "url": "https://github.com/THUDM/LongWriter",
+        "topics": [
+          "fine-tuning",
+          "llm",
+          "long-context",
+          "long-text"
+        ],
+        "description": "[ICLR 2025] LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs"
+      },
+      {
+        "name": "openspg",
+        "fullname": "OpenSPG/openspg",
+        "url": "https://github.com/OpenSPG/openspg",
+        "topics": [
+          "kag",
+          "knowledge-augmented-generation",
+          "knowledge-graph",
+          "knowledge-reasoning",
+          "llm-kg-bidirectional-enhancement",
+          "spg"
+        ],
+        "description": "OpenSPG is a Knowledge Graph Engine developed by Ant Group in collaboration with OpenKG, based on the SPG (Semantic-enhanced Programmable Graph) framework.   Core Capabilities: 1) domain model constrained knowledge modeling, 2) facts and logic fused  representation, 3) natively support KAG..."
+      }
+    ],
+    "AI Applications": [
+      {
+        "name": "GOT-OCR2.0",
+        "fullname": "Ucas-HaoranWei/GOT-OCR2.0",
+        "url": "https://github.com/Ucas-HaoranWei/GOT-OCR2.0",
+        "topics": [],
+        "description": "Official code implementation of General OCR Theory:  Towards OCR-2.0 via a Unified End-to-end Model"
+      },
+      {
+        "name": "KnowledgeGraph",
+        "fullname": "myhhub/KnowledgeGraph",
+        "url": "https://github.com/myhhub/KnowledgeGraph",
+        "topics": [
+          "knowledge-graph",
+          "knowledge-management",
+          "named-entity-recognition",
+          "question-answering",
+          "relation-extraction"
+        ],
+        "description": "knowledge graph知识图谱,从零开始构建知识图谱"
+      },
+      {
+        "name": "knowledge_graph",
+        "fullname": "rahulnyk/knowledge_graph",
+        "url": "https://github.com/rahulnyk/knowledge_graph",
+        "topics": [],
+        "description": "Convert any text to a graph of knowledge. This can be used for Graph Augmented Generation or Knowledge Graph based QnA"
+      },
+      {
+        "name": "Agriculture_KnowledgeGraph",
+        "fullname": "qq547276542/Agriculture_KnowledgeGraph",
+        "url": "https://github.com/qq547276542/Agriculture_KnowledgeGraph",
+        "topics": [
+          "knowledge-graph",
+          "named-entity-recognition",
+          "question-answering",
+          "relation-extraction"
+        ],
+        "description": "农业知识图谱(AgriKG)：农业领域的信息检索，命名实体识别，关系抽取，智能问答，辅助决策"
+      }
+    ],
+    "__root__": []
+  },
+  "Frontend / UI / Mobile": {
+    "UI kit": [],
+    "Frameworks": [],
+    "Applications": [],
+    "__root__": [
+      {
+        "name": "rtf.js",
+        "fullname": "tbluemel/rtf.js",
+        "url": "https://github.com/tbluemel/rtf.js",
+        "topics": [],
+        "description": "Render RTF documents in HTML."
+      }
+    ]
+  },
+  "DevOps / Tools": {
+    "__root__": []
+  },
+  "Developer Productivity": {
+    "Dart/Flutter Tools": [],
+    "Easy Work Tools": [],
+    "__root__": []
+  },
+  "Experimental / Fun Projects": {
+    "__root__": []
+  },
+  "Mature Open Source Projects (CRM / ERP / CMS)": {
+    "CRM / ERP / CMS": [],
+    "Lowcode Platforms": [],
+    "__root__": []
+  },
+  "Guides / Handbooks / Tutorials": {
+    "__root__": []
+  },
+  "Datasets": {
+    "__root__": [
+      {
+        "name": "MultiHop-RAG",
+        "fullname": "yixuantt/MultiHop-RAG",
+        "url": "https://github.com/yixuantt/MultiHop-RAG",
+        "topics": [],
+        "description": "Repository for \"MultiHop-RAG: A Dataset for Evaluating Retrieval-Augmented Generation Across Documents\" (COLM 2024)"
+      },
+      {
+        "name": "KnowledgeGraphData",
+        "fullname": "ownthink/KnowledgeGraphData",
+        "url": "https://github.com/ownthink/KnowledgeGraphData",
+        "topics": [],
+        "description": "史上最大规模1.4亿中文知识图谱开源下载"
+      }
+    ]
+  },
+  "未知分类": []
+}

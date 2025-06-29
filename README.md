@@ -14,6 +14,8 @@ This repository is a curated collection of **interesting, inspiring, or technica
 
 ### 🌐 Full-Stack / Web Development
 - [📦 Database](#database)
+- [🔠 Languages](#languages)
+- [🧱 Frameworks](#frameworks1)
 ### 🤖 Artificial Intelligence / Machine Learning
 - [🧱 AI Frameworks](#ai-frameworks)
 - [⚙️ Object Detector](#object-detector)
@@ -22,6 +24,8 @@ This repository is a curated collection of **interesting, inspiring, or technica
 - [🤖📱 AI Applications](#ai-applications)
 ### 📱 Frontend / UI / Mobile
 - [📊 UI kit](#ui)
+- [🧱 Frameworks](#frameworks2)
+- [📱 Applications](#applications1)
 ### ⚙️ DevOps / Tools
 ### 🧰 Developer Productivity
 - [🦋 Dart/Flutter Tools](#dart-tools)
@@ -29,6 +33,7 @@ This repository is a curated collection of **interesting, inspiring, or technica
 ### 🧪 Experimental / Fun Projects
 ### 🏢 Mature Open Source Projects (CRM / ERP / CMS)
 - [📦 CRM / ERP / CMS](#crm--erp--cms)
+- [📦 Lowcode Platforms](#lowcode)
 ### 📘 Guides / Handbooks / Tutorials
 - [navigate to](#books)
 ### 📚 Datasets
@@ -45,6 +50,16 @@ This repository is a curated collection of **interesting, inspiring, or technica
 - Go Web Projects (e.g., Gin, Fiber starters)
 - Full-stack Boilerplates (Java + Vue, Go + React, etc.) -->
 <a name="database"></a>
+<details>
+  <summary>🔠 Languages</summary>
+</details>
+
+<a name="frameworks1"></a>
+<details>
+  <summary>🧱 Frameworks</summary>
+</details>
+
+<a name="language"></a>
 <details>
   <summary>📦 Database</summary>
 
@@ -131,6 +146,16 @@ This repository is a curated collection of **interesting, inspiring, or technica
 
 </details>
 
+<a name="frameworks2"></a>
+<details>
+  <summary>🧱 Frameworks</summary>
+</details>
+
+<a name="applications1"></a>
+<details>
+  <summary>📱 Applications</summary>
+</details>
+
 
 ### ⚙️ DevOps / Tools
 
@@ -181,6 +206,11 @@ This repository is a curated collection of **interesting, inspiring, or technica
 
 </details>
 
+<a name="lowcode"></a>
+<details>
+  <summary>📦 Lowcode Platforms</summary>
+</details>
+
 <a name="books"></a>
 ### 📘 Guides / Handbooks / Tutorials
 - [data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) – This is a repo with links to everything you'd ever want to learn about data engineering.
@@ -201,11 +231,11 @@ Feel free to **star** the repository if you find it useful or inspiring!
 
 > Made with ❤️ by a curious full-stack developer and AI enthusiast.
 
-> If you want to generate your own interesting list, you can read my codes to generate it.
+*If you want to generate your own project list, you can read my codes to generate it*.
 ```powershell
-python get_all_stars.py # for generate all your stars
-python filter_stars.py # for filter your stars
-python auto_generate_markdown_content.py # for generate markdown content
+python get_all_stars.py # generate all your stars
+python filter_stars.py # filter your stars
+python auto_category.py # generate category content
 ```
 
 
