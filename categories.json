@@ -1999,7 +1999,169 @@
     "__root__": []
   },
   "Artificial Intelligence / Machine Learning": {
+    "Researches": [
+      {
+        "name": "rust",
+        "fullname": "tensorflow/rust",
+        "url": "https://github.com/tensorflow/rust",
+        "topics": [
+          "machine-learning",
+          "rust",
+          "tensorflow"
+        ],
+        "description": "Rust language bindings for TensorFlow"
+      },
+      {
+        "name": "MixNMatch",
+        "fullname": "WisconsinAIVision/MixNMatch",
+        "url": "https://github.com/WisconsinAIVision/MixNMatch",
+        "topics": [
+          "deep-learning",
+          "disentangled-representations",
+          "fine-grained",
+          "gans",
+          "image-generation",
+          "image-manipulation",
+          "pytorch"
+        ],
+        "description": "Pytorch implementation of MixNMatch"
+      },
+      {
+        "name": "mae",
+        "fullname": "facebookresearch/mae",
+        "url": "https://github.com/facebookresearch/mae",
+        "topics": [],
+        "description": "PyTorch implementation of MAE https//arxiv.org/abs/2111.06377"
+      },
+      {
+        "name": "modular",
+        "fullname": "modular/modular",
+        "url": "https://github.com/modular/modular",
+        "topics": [
+          "ai",
+          "language",
+          "machine-learning",
+          "max",
+          "modular",
+          "mojo",
+          "programming-language"
+        ],
+        "description": "The Modular Platform (includes MAX & Mojo)"
+      },
+      {
+        "name": "gpt-fast",
+        "fullname": "pytorch-labs/gpt-fast",
+        "url": "https://github.com/pytorch-labs/gpt-fast",
+        "topics": [],
+        "description": "Simple and efficient pytorch-native transformer text generation in <1000 LOC of python."
+      },
+      {
+        "name": "gemma_pytorch",
+        "fullname": "google/gemma_pytorch",
+        "url": "https://github.com/google/gemma_pytorch",
+        "topics": [
+          "gemma",
+          "google",
+          "pytorch"
+        ],
+        "description": "The official PyTorch implementation of Google's Gemma models"
+      },
+      {
+        "name": "GOT-OCR2.0",
+        "fullname": "Ucas-HaoranWei/GOT-OCR2.0",
+        "url": "https://github.com/Ucas-HaoranWei/GOT-OCR2.0",
+        "topics": [],
+        "description": "Official code implementation of General OCR Theory:  Towards OCR-2.0 via a Unified End-to-end Model"
+      },
+      {
+        "name": "KnowCoder",
+        "fullname": "ICT-GoKnow/KnowCoder",
+        "url": "https://github.com/ICT-GoKnow/KnowCoder",
+        "description": "Official Repo of paper \"KnowCoder: Coding Structured Knowledge into LLMs for Universal Information Extraction\". In the paper, we propose KnowCoder, the most powerful large language model so far for universal information extraction."
+      },
+      {
+        "name": "OmniGen2",
+        "fullname": "VectorSpaceLab/OmniGen2",
+        "url": "https://github.com/VectorSpaceLab/OmniGen2",
+        "description": "OmniGen2: Exploration to Advanced Multimodal Generation."
+      },
+      {
+        "name": "vjepa2",
+        "fullname": "VectorSpaceLab/vjepa2",
+        "url": "https://github.com/facebookresearch/vjepa2",
+        "description": "PyTorch code and models for VJEPA2 self-supervised learning from video."
+      },
+      {
+        "name": "ChartMimic",
+        "fullname": "ChartMimic/ChartMimic",
+        "url": "https://github.com/ChartMimic/ChartMimic",
+        "description": "[ICLR 2025] ChartMimic: Evaluating LMM’s Cross-Modal Reasoning Capability via Chart-to-Code Generation."
+      },
+      {
+        "name": "Self-Forcing",
+        "fullname": "guandeh17/Self-Forcing",
+        "url": "https://github.com/guandeh17/Self-Forcing",
+        "description": "Self Forcing trains autoregressive video diffusion models by simulating the inference process during training, performing autoregressive rollout with KV caching. It resolves the train-test distribution mismatch and enables real-time, streaming video generation on a single RTX 4090 while matching the quality of state-of-the-art diffusion models."
+      },
+      {
+        "name": "Zhongjing",
+        "fullname": "SupritYoung/Zhongjing",
+        "url": "https://github.com/SupritYoung/Zhongjing",
+        "description": "A Chinese medical ChatGPT based on LLaMa, training from large-scale pretrain corpus and multi-turn dialogue dataset."
+      }
+    ],
     "Tools": [
+      {
+        "name": "opencv",
+        "fullname": "opencv/opencv",
+        "url": "https://github.com/opencv/opencv",
+        "topics": [
+          "c-plus-plus",
+          "computer-vision",
+          "deep-learning",
+          "image-processing",
+          "opencv"
+        ],
+        "description": "Open Source Computer Vision Library"
+      },
+      {
+        "name": "dlib",
+        "fullname": "davisking/dlib",
+        "url": "https://github.com/davisking/dlib",
+        "topics": [
+          "c-plus-plus",
+          "computer-vision",
+          "deep-learning",
+          "dlib",
+          "machine-learning",
+          "machine-learning-library",
+          "python"
+        ],
+        "description": "A toolkit for making real world machine learning and data analysis applications in C++"
+      },
+      {
+        "name": "gensim",
+        "fullname": "piskvorky/gensim",
+        "url": "https://github.com/piskvorky/gensim",
+        "topics": [
+          "data-mining",
+          "data-science",
+          "document-similarity",
+          "fasttext",
+          "gensim",
+          "information-retrieval",
+          "machine-learning",
+          "natural-language-processing",
+          "neural-network",
+          "nlp",
+          "python",
+          "topic-modeling",
+          "word-embeddings",
+          "word-similarity",
+          "word2vec"
+        ],
+        "description": "Topic Modelling for Humans"
+      },
       {
         "name": "sensitive-word",
         "fullname": "houbb/sensitive-word",
@@ -2029,6 +2191,186 @@
       }
     ],
     "AI Frameworks": [
+      {
+        "name": "jax",
+        "fullname": "jax-ml/jax",
+        "url": "https://github.com/jax-ml/jax",
+        "topics": [
+          "jax"
+        ],
+        "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more"
+      },
+      {
+        "name": "tch-rs",
+        "fullname": "LaurentMazare/tch-rs",
+        "url": "https://github.com/LaurentMazare/tch-rs",
+        "topics": [
+          "deep-learning",
+          "machine-learning",
+          "neural-network",
+          "pytorch",
+          "rust"
+        ],
+        "description": "Rust bindings for the C++ api of PyTorch."
+      },
+      {
+        "name": "DI-engine",
+        "fullname": "opendilab/DI-engine",
+        "url": "https://github.com/opendilab/DI-engine",
+        "topics": [
+          "atari",
+          "distributed-reinforcement-learning",
+          "distributed-system",
+          "drl",
+          "exploration-exploitation",
+          "imitation-learning",
+          "impala",
+          "inverse-reinforcement-learning",
+          "minigrid",
+          "model-based-reinforcement-learning",
+          "mujoco",
+          "multiagent-reinforcement-learning",
+          "offline-rl",
+          "python",
+          "pytorch-rl",
+          "r2d2",
+          "reinforcement-learning",
+          "reinforcement-learning-algorithms",
+          "self-play",
+          "smac"
+        ],
+        "description": "OpenDILab Decision AI Engine. The Most Comprehensive Reinforcement Learning Framework B.P."
+      },
+      {
+        "name": "tinygrad",
+        "fullname": "tinygrad/tinygrad",
+        "url": "https://github.com/tinygrad/tinygrad",
+        "topics": [],
+        "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️ "
+      },
+      {
+        "name": "candle",
+        "fullname": "huggingface/candle",
+        "url": "https://github.com/huggingface/candle",
+        "topics": [],
+        "description": "Minimalist ML framework for Rust"
+      },
+      {
+        "name": "Paddle-Lite",
+        "fullname": "PaddlePaddle/Paddle-Lite",
+        "url": "https://github.com/PaddlePaddle/Paddle-Lite",
+        "topics": [
+          "arm",
+          "baidu",
+          "deep-learning",
+          "embedded",
+          "fpga",
+          "mali",
+          "mdl",
+          "mobile",
+          "mobile-deep-learning",
+          "neural-network"
+        ],
+        "description": "PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎）"
+      },
+      {
+        "name": "flax",
+        "fullname": "google/flax",
+        "url": "https://github.com/google/flax",
+        "topics": [
+          "jax"
+        ],
+        "description": "Flax is a neural network library for JAX that is designed for flexibility."
+      },
+      {
+        "name": "cactus",
+        "fullname": "cactus-compute/cactus",
+        "url": "https://github.com/cactus-compute/cactus",
+        "topics": [
+          "ai",
+          "android",
+          "dart",
+          "edge",
+          "flutter",
+          "framework",
+          "ios",
+          "javascript",
+          "kotlin",
+          "library",
+          "llamacpp",
+          "llm",
+          "llm-inference",
+          "llms",
+          "mobile",
+          "react-native",
+          "smartphone",
+          "swift",
+          "transformer",
+          "typescript"
+        ],
+        "description": "Framework for running AI locally on mobile devices and wearables. Hardware-aware C/C++ backend with wrappers for Flutter & React Native. Kotlin & Swift coming soon."
+      },
+      {
+        "name": "llm.c",
+        "fullname": "karpathy/llm.c",
+        "url": "https://github.com/karpathy/llm.c",
+        "topics": [],
+        "description": "LLM training in simple, raw C/CUDA"
+      },
+      {
+        "name": "flash-attention",
+        "fullname": "Dao-AILab/flash-attention",
+        "url": "https://github.com/Dao-AILab/flash-attention",
+        "topics": [],
+        "description": "Fast and memory-efficient exact attention"
+      },
+      {
+        "name": "keras",
+        "fullname": "keras-team/keras",
+        "url": "https://github.com/keras-team/keras",
+        "topics": [
+          "data-science",
+          "deep-learning",
+          "jax",
+          "machine-learning",
+          "neural-networks",
+          "python",
+          "pytorch",
+          "tensorflow"
+        ],
+        "description": "Deep Learning for humans"
+      },
+      {
+        "name": "onnxruntime_flutter",
+        "fullname": "gtbluesky/onnxruntime_flutter",
+        "url": "https://github.com/gtbluesky/onnxruntime_flutter",
+        "topics": [
+          "dart",
+          "ffi",
+          "flutter",
+          "onnx",
+          "onnxruntime",
+          "pytorch",
+          "tensorflow"
+        ],
+        "description": "A flutter plugin for OnnxRuntime provides an easy, flexible, and fast Dart API to integrate Onnx models in flutter apps across mobile and desktop platforms."
+      },
+      {
+        "name": "ort",
+        "fullname": "pykeio/ort",
+        "url": "https://github.com/pykeio/ort",
+        "topics": [
+          "ai",
+          "ai-training",
+          "fine-tuning",
+          "inference",
+          "machine-learning",
+          "onnx",
+          "onnxruntime",
+          "rust"
+        ],
+        "description": "Fast ML inference & training for ONNX models in Rust"
+      },
       {
         "name": "MNN",
         "fullname": "alibaba/MNN",
@@ -2085,40 +2427,41 @@
     ],
     "Large Models": [
       {
-        "name": "KnowCoder",
-        "fullname": "ICT-GoKnow/KnowCoder",
-        "url": "https://github.com/ICT-GoKnow/KnowCoder",
-        "description": "Official Repo of paper \"KnowCoder: Coding Structured Knowledge into LLMs for Universal Information Extraction\". In the paper, we propose KnowCoder, the most powerful large language model so far for universal information extraction."
+        "name": "langchain4j",
+        "fullname": "langchain4j/langchain4j",
+        "url": "https://github.com/langchain4j/langchain4j",
+        "topics": [
+          "anthropic",
+          "chatgpt",
+          "chroma",
+          "embeddings",
+          "gemini",
+          "gpt",
+          "huggingface",
+          "java",
+          "langchain",
+          "llama",
+          "milvus",
+          "ollama",
+          "onnx",
+          "openai",
+          "openai-api",
+          "pgvector",
+          "pinecone",
+          "vector-database",
+          "weaviate"
+        ],
+        "description": "Java version of LangChain"
       },
       {
-        "name": "OmniGen2",
-        "fullname": "VectorSpaceLab/OmniGen2",
-        "url": "https://github.com/VectorSpaceLab/OmniGen2",
-        "description": "OmniGen2: Exploration to Advanced Multimodal Generation."
-      },
-      {
-        "name": "vjepa2",
-        "fullname": "VectorSpaceLab/vjepa2",
-        "url": "https://github.com/facebookresearch/vjepa2",
-        "description": "PyTorch code and models for VJEPA2 self-supervised learning from video."
-      },
-      {
-        "name": "ChartMimic",
-        "fullname": "ChartMimic/ChartMimic",
-        "url": "https://github.com/ChartMimic/ChartMimic",
-        "description": "[ICLR 2025] ChartMimic: Evaluating LMM’s Cross-Modal Reasoning Capability via Chart-to-Code Generation."
-      },
-      {
-        "name": "Self-Forcing",
-        "fullname": "guandeh17/Self-Forcing",
-        "url": "https://github.com/guandeh17/Self-Forcing",
-        "description": "Self Forcing trains autoregressive video diffusion models by simulating the inference process during training, performing autoregressive rollout with KV caching. It resolves the train-test distribution mismatch and enables real-time, streaming video generation on a single RTX 4090 while matching the quality of state-of-the-art diffusion models."
-      },
-      {
-        "name": "Zhongjing",
-        "fullname": "SupritYoung/Zhongjing",
-        "url": "https://github.com/SupritYoung/Zhongjing",
-        "description": "A Chinese medical ChatGPT based on LLaMa, training from large-scale pretrain corpus and multi-turn dialogue dataset."
+        "name": "async-openai",
+        "fullname": "64bit/async-openai",
+        "url": "https://github.com/64bit/async-openai",
+        "topics": [
+          "openai",
+          "rust"
+        ],
+        "description": "Rust library for OpenAI "
       }
     ],
     "AI Applications": [
@@ -4718,6 +5061,27 @@
   "Experimental / Fun Projects": {
     "__root__": [
       {
+        "name": "pysc2",
+        "fullname": "google-deepmind/pysc2",
+        "url": "https://github.com/google-deepmind/pysc2",
+        "topics": [
+          "blizzard-api",
+          "deepmind",
+          "machine-learning",
+          "reinforcement-learning",
+          "starcraft-ii",
+          "starcraft-ii-replays"
+        ],
+        "description": "StarCraft II Learning Environment"
+      },
+      {
+        "name": "GameAISDK",
+        "fullname": "Tencent/GameAISDK",
+        "url": "https://github.com/Tencent/GameAISDK",
+        "topics": [],
+        "description": "基于图像的游戏AI自动化框架"
+      },
+      {
         "name": "flame",
         "fullname": "flame-engine/flame",
         "url": "https://github.com/flame-engine/flame",
@@ -4760,7 +5124,7 @@
           "xterm-js"
         ],
         "description": "Virtual Machine for the Web"
-      }
+      },
       {
         "name": "FXGL",
         "fullname": "AlmasB/FXGL",

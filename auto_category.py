@@ -20,6 +20,7 @@ categories = {
     "Artificial Intelligence / Machine Learning": {
         "desc": "与 AI 和机器学习相关的项目",
         "subcategories": {
+            "Researches": "与AI相关的研究项目",
             "AI Frameworks": "AI模型框架，类似pytorch或tensorflow",
             "Object Detector": "目标检测相关的算法和模型",
             "AI Agents": "具备行动能力的 AI 智能体",
