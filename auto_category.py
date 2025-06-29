@@ -135,7 +135,7 @@ for proj in tqdm(projects, desc="分类项目"):
     print(f"项目 {proj['name']} 分类为: {cls}")
 
 
-output_file = "categories.json"
+output_file = "un_sorted_categories.json"
 
 with open(output_file, "w", encoding="utf-8") as f:
     json.dump(result, f, indent=2, ensure_ascii=False)

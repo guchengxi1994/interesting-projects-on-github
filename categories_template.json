@@ -1,0 +1,45 @@
+{
+    "Full-Stack / Web Development": {
+        "Database": [],
+        "Languages": [],
+        "Frameworks": [],
+        "__root__": []
+    },
+    "Artificial Intelligence / Machine Learning": {
+        "AI Frameworks": [],
+        "Object Detector": [],
+        "AI Agents": [],
+        "Large Models": [],
+        "AI Applications": [],
+        "__root__": []
+    },
+    "Frontend / UI / Mobile": {
+        "UI kit": [],
+        "Frameworks": [],
+        "Applications": [],
+        "__root__": []
+    },
+    "DevOps / Tools": {
+        "__root__": []
+    },
+    "Developer Productivity": {
+        "Dart/Flutter Tools": [],
+        "Easy Work Tools": [],
+        "__root__": []
+    },
+    "Experimental / Fun Projects": {
+        "__root__": []
+    },
+    "Mature Open Source Projects (CRM / ERP / CMS)": {
+        "CRM / ERP / CMS": [],
+        "Lowcode Platforms": [],
+        "__root__": []
+    },
+    "Guides / Handbooks / Tutorials": {
+        "__root__": []
+    },
+    "Datasets": {
+        "__root__": []
+    },
+    "未知分类": []
+}

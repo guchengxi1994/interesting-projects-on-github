@@ -2,17 +2,9 @@
   "Full-Stack / Web Development": {
     "Database": [
       {
-        "name": "Financial-Knowledge-Graphs",
-        "fullname": "jm199504/Financial-Knowledge-Graphs",
-        "url": "https://github.com/jm199504/Financial-Knowledge-Graphs",
-        "topics": [
-          "cypher",
-          "data-analysis",
-          "graph-database",
-          "neo4j",
-          "python"
-        ],
-        "description": "小型金融知识图谱构建流程（neo4j / python / cypher / KG）"
+        "name": "kuzu",
+        "url": "https://github.com/kuzudb/kuzu",
+        "description": "Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher."
       }
     ],
     "Languages": [],
@@ -20,128 +12,194 @@
     "__root__": []
   },
   "Artificial Intelligence / Machine Learning": {
-    "AI Frameworks": [],
-    "Object Detector": [],
-    "AI Agents": [],
-    "Large Models": [
+    "AI Frameworks": [
       {
-        "name": "LongWriter",
-        "fullname": "THUDM/LongWriter",
-        "url": "https://github.com/THUDM/LongWriter",
-        "topics": [
-          "fine-tuning",
-          "llm",
-          "long-context",
-          "long-text"
-        ],
-        "description": "[ICLR 2025] LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs"
+        "name": "MNN",
+        "url": "https://github.com/alibaba/MNN",
+        "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba."
       },
       {
-        "name": "openspg",
-        "fullname": "OpenSPG/openspg",
-        "url": "https://github.com/OpenSPG/openspg",
-        "topics": [
-          "kag",
-          "knowledge-augmented-generation",
-          "knowledge-graph",
-          "knowledge-reasoning",
-          "llm-kg-bidirectional-enhancement",
-          "spg"
-        ],
-        "description": "OpenSPG is a Knowledge Graph Engine developed by Ant Group in collaboration with OpenKG, based on the SPG (Semantic-enhanced Programmable Graph) framework.   Core Capabilities: 1) domain model constrained knowledge modeling, 2) facts and logic fused  representation, 3) natively support KAG..."
+        "name": "hub",
+        "url": "https://github.com/ultralytics/hub",
+        "description": "Ultralytics HUB tutorials and support."
+      }
+    ],
+    "Object Detector": [
+      {
+        "name": "D-FINE",
+        "url": "https://github.com/Peterande/D-FINE",
+        "description": "D-FINE is a powerful real-time object detector that redefines the bounding box regression task in DETRs as Fine-grained Distribution Refinement (FDR) and introduces Global Optimal Localization Self-Distillation (GO-LSD), achieving outstanding performance without introducing additional inference and training costs."
+      },
+      {
+        "name": "Rex-Thinker",
+        "url": "https://github.com/IDEA-Research/Rex-Thinker",
+        "description": "Rex-Thinker: Grounded Object Refering via Chain-of-Thought Reasoning."
+      }
+    ],
+    "AI Agents": [
+      {
+        "name": "gemini-cli",
+        "url": "https://github.com/google-gemini/gemini-cli",
+        "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+      },
+      {
+        "name": "n8n",
+        "url": "https://github.com/n8n-io/n8n",
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
+      },
+      {
+        "name": "openai-cs-agents-demo",
+        "url": "https://github.com/openai/openai-cs-agents-demo",
+        "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK."
+      },
+      {
+        "name": "agents-towards-production",
+        "url": "https://github.com/NirDiamant/agents-towards-production",
+        "description": "This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches."
+      }
+    ],
+    "Large Models": [
+      {
+        "name": "KnowCoder",
+        "url": "https://github.com/ICT-GoKnow/KnowCoder",
+        "description": "Official Repo of paper \"KnowCoder: Coding Structured Knowledge into LLMs for Universal Information Extraction\". In the paper, we propose KnowCoder, the most powerful large language model so far for universal information extraction."
+      },
+      {
+        "name": "OmniGen2",
+        "url": "https://github.com/VectorSpaceLab/OmniGen2",
+        "description": "OmniGen2: Exploration to Advanced Multimodal Generation."
+      },
+      {
+        "name": "vjepa2",
+        "url": "https://github.com/facebookresearch/vjepa2",
+        "description": "PyTorch code and models for VJEPA2 self-supervised learning from video."
+      },
+      {
+        "name": "ChartMimic",
+        "url": "https://github.com/ChartMimic/ChartMimic",
+        "description": "[ICLR 2025] ChartMimic: Evaluating LMM’s Cross-Modal Reasoning Capability via Chart-to-Code Generation."
+      },
+      {
+        "name": "Self-Forcing",
+        "url": "https://github.com/guandeh17/Self-Forcing",
+        "description": "Self Forcing trains autoregressive video diffusion models by simulating the inference process during training, performing autoregressive rollout with KV caching. It resolves the train-test distribution mismatch and enables real-time, streaming video generation on a single RTX 4090 while matching the quality of state-of-the-art diffusion models."
+      },
+      {
+        "name": "Zhongjing",
+        "url": "https://github.com/SupritYoung/Zhongjing",
+        "description": "A Chinese medical ChatGPT based on LLaMa, training from large-scale pretrain corpus and multi-turn dialogue dataset."
       }
     ],
     "AI Applications": [
       {
-        "name": "GOT-OCR2.0",
-        "fullname": "Ucas-HaoranWei/GOT-OCR2.0",
-        "url": "https://github.com/Ucas-HaoranWei/GOT-OCR2.0",
-        "topics": [],
-        "description": "Official code implementation of General OCR Theory:  Towards OCR-2.0 via a Unified End-to-end Model"
+        "name": "VideoChat",
+        "url": "https://github.com/Henry-23/VideoChat",
+        "description": "实时语音交互数字人，支持端到端语音方案（GLM-4-Voice - THG）和级联方案（ASR-LLM-TTS-THG）。可自定义形象与音色，无须训练，支持音色克隆，首包延迟低至3s。Real-time voice interactive digital human, supporting end-to-end voice solutions (GLM-4-Voice - THG) and cascaded solutions (ASR-LLM-TTS-THG). Customizable appearance and voice, supporting voice cloning, with initial package delay as low as 3s."
       },
       {
-        "name": "KnowledgeGraph",
-        "fullname": "myhhub/KnowledgeGraph",
-        "url": "https://github.com/myhhub/KnowledgeGraph",
-        "topics": [
-          "knowledge-graph",
-          "knowledge-management",
-          "named-entity-recognition",
-          "question-answering",
-          "relation-extraction"
-        ],
-        "description": "knowledge graph知识图谱,从零开始构建知识图谱"
+        "name": "echomimic_v2",
+        "url": "https://github.com/antgroup/echomimic_v2",
+        "description": "[CVPR 2025] EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation."
       },
       {
-        "name": "knowledge_graph",
-        "fullname": "rahulnyk/knowledge_graph",
-        "url": "https://github.com/rahulnyk/knowledge_graph",
-        "topics": [],
-        "description": "Convert any text to a graph of knowledge. This can be used for Graph Augmented Generation or Knowledge Graph based QnA"
+        "name": "Ultralight-Digital-Human",
+        "url": "https://github.com/anliyuan/Ultralight-Digital-Human",
+        "description": "一个超轻量级、可以在移动端实时运行的数字人模型."
       },
       {
-        "name": "Agriculture_KnowledgeGraph",
-        "fullname": "qq547276542/Agriculture_KnowledgeGraph",
-        "url": "https://github.com/qq547276542/Agriculture_KnowledgeGraph",
-        "topics": [
-          "knowledge-graph",
-          "named-entity-recognition",
-          "question-answering",
-          "relation-extraction"
-        ],
-        "description": "农业知识图谱(AgriKG)：农业领域的信息检索，命名实体识别，关系抽取，智能问答，辅助决策"
+        "name": "DH_live",
+        "url": "https://github.com/kleinlee/DH_live",
+        "description": "每个人都能用的数字人."
+      },
+      {
+        "name": "LiveTalking",
+        "url": "https://github.com/lipku/LiveTalking",
+        "description": "Real time interactive streaming digital human."
+      },
+      {
+        "name": "bisheng",
+        "url": "https://github.com/dataelement/bisheng",
+        "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more."
+      },
+      {
+        "name": "Comfyui_HeyGem",
+        "url": "https://github.com/billwuhao/Comfyui_HeyGem",
+        "description": "HeyGem Digital Human Node for ComfyUI."
       }
     ],
     "__root__": []
   },
   "Frontend / UI / Mobile": {
-    "UI kit": [],
+    "UI kit": [
+      {
+        "name": "info_popup",
+        "url": "https://github.com/SalihCanBinboga/info_popup",
+        "description": "The allows you to easily show a simple, customizable popup on your wrapped widget."
+      },
+      {
+        "name": "fluentui-system-icons",
+        "url": "https://github.com/microsoft/fluentui-system-icons",
+        "description": "Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft."
+      },
+      {
+        "name": "thermion",
+        "url": "https://github.com/nmfisher/thermion",
+        "description": "3D rendering toolkit for Dart and/or Flutter."
+      }
+    ],
     "Frameworks": [],
     "Applications": [],
-    "__root__": [
-      {
-        "name": "rtf.js",
-        "fullname": "tbluemel/rtf.js",
-        "url": "https://github.com/tbluemel/rtf.js",
-        "topics": [],
-        "description": "Render RTF documents in HTML."
-      }
-    ]
+    "__root__": []
   },
   "DevOps / Tools": {
     "__root__": []
   },
   "Developer Productivity": {
-    "Dart/Flutter Tools": [],
-    "Easy Work Tools": [],
+    "Dart/Flutter Tools": [
+      {
+        "name": "layerlens",
+        "url": "https://github.com/polina-c/layerlens",
+        "description": "Keep your code well structured."
+      }
+    ],
+    "Easy Work Tools": [
+      {
+        "name": "mermaid",
+        "url": "https://github.com/mermaid-js/mermaid",
+        "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown."
+      }
+    ],
     "__root__": []
   },
   "Experimental / Fun Projects": {
     "__root__": []
   },
   "Mature Open Source Projects (CRM / ERP / CMS)": {
-    "CRM / ERP / CMS": [],
+    "CRM / ERP / CMS": [
+      {
+        "name": "twenty",
+        "url": "https://github.com/twentyhq/twenty",
+        "description": "Building a modern alternative to Salesforce, powered by the community."
+      }
+    ],
     "Lowcode Platforms": [],
     "__root__": []
   },
   "Guides / Handbooks / Tutorials": {
-    "__root__": []
+    "__root__": [
+      {
+        "name": "data-engineer-handbook",
+        "url": "https://github.com/DataExpert-io/data-engineer-handbook",
+        "description": "This is a repo with links to everything you'd ever want to learn about data engineering."
+      }
+    ]
   },
   "Datasets": {
     "__root__": [
       {
-        "name": "MultiHop-RAG",
-        "fullname": "yixuantt/MultiHop-RAG",
-        "url": "https://github.com/yixuantt/MultiHop-RAG",
-        "topics": [],
-        "description": "Repository for \"MultiHop-RAG: A Dataset for Evaluating Retrieval-Augmented Generation Across Documents\" (COLM 2024)"
-      },
-      {
-        "name": "KnowledgeGraphData",
-        "fullname": "ownthink/KnowledgeGraphData",
-        "url": "https://github.com/ownthink/KnowledgeGraphData",
-        "topics": [],
-        "description": "史上最大规模1.4亿中文知识图谱开源下载"
+        "name": "Chinese-instruction-datasets",
+        "url": "https://github.com/xv44586/Chinese-instruction-datasets",
+        "description": "中文 Instruction tuning datasets."
       }
     ]
   },
