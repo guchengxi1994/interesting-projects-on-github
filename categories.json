@@ -2,17 +2,737 @@
   "Full-Stack / Web Development": {
     "Database": [
       {
+        "name": "ClickHouse",
+        "fullname": "ClickHouse/ClickHouse",
+        "url": "https://github.com/ClickHouse/ClickHouse",
+        "topics": [
+          "ai",
+          "analytics",
+          "big-data",
+          "clickhouse",
+          "cloud-native",
+          "cpp",
+          "database",
+          "dbms",
+          "distributed",
+          "embedded",
+          "hacktoberfest",
+          "lakehouse",
+          "mpp",
+          "olap",
+          "rust",
+          "self-hosted",
+          "sql"
+        ],
+        "description": "ClickHouse® is a real-time analytics database management system"
+      },
+      {
+        "name": "milvus",
+        "fullname": "milvus-io/milvus",
+        "url": "https://github.com/milvus-io/milvus",
+        "topics": [
+          "anns",
+          "cloud-native",
+          "diskann",
+          "distributed",
+          "embedding-database",
+          "embedding-similarity",
+          "embedding-store",
+          "faiss",
+          "golang",
+          "hnsw",
+          "image-search",
+          "llm",
+          "nearest-neighbor-search",
+          "rag",
+          "vector-database",
+          "vector-search",
+          "vector-similarity",
+          "vector-store"
+        ],
+        "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
+      },
+      {
+        "name": "datenlord",
+        "fullname": "datenlord/datenlord",
+        "url": "https://github.com/datenlord/datenlord",
+        "topics": [],
+        "description": "DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system"
+      },
+      {
+        "name": "nebula",
+        "fullname": "vesoft-inc/nebula",
+        "url": "https://github.com/vesoft-inc/nebula",
+        "topics": [
+          "big-data",
+          "cpp",
+          "database",
+          "distributed",
+          "distributed-systems",
+          "graph",
+          "graph-database",
+          "graphdb",
+          "hacktoberfest",
+          "nebula",
+          "nebula-graph",
+          "nebulagraph",
+          "raft",
+          "scalability"
+        ],
+        "description": "  A distributed, fast open-source graph database featuring horizontal scalability and high availability"
+      },
+      {
+        "name": "tikv",
+        "fullname": "tikv/tikv",
+        "url": "https://github.com/tikv/tikv",
+        "topics": [
+          "cncf",
+          "consensus",
+          "distributed-transactions",
+          "hacktoberfest",
+          "key-value",
+          "raft",
+          "rocksdb",
+          "rust",
+          "tidb",
+          "tikv"
+        ],
+        "description": "Distributed transactional key-value database, originally created to complement TiDB"
+      },
+      {
+        "name": "immudb",
+        "fullname": "codenotary/immudb",
+        "url": "https://github.com/codenotary/immudb",
+        "topics": [
+          "auditable",
+          "compliance",
+          "cryptographic",
+          "database",
+          "gdpr",
+          "go",
+          "immutable",
+          "immutable-database",
+          "key-value",
+          "merkle-tree",
+          "pci-dss",
+          "performance",
+          "sql",
+          "tamper-evident",
+          "tamperproof",
+          "timetravel",
+          "verification",
+          "verify",
+          "zero-trust"
+        ],
+        "description": "immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history"
+      },
+      {
+        "name": "sharedb",
+        "fullname": "share/sharedb",
+        "url": "https://github.com/share/sharedb",
+        "topics": [],
+        "description": "Realtime database backend based on Operational Transformation (OT)"
+      },
+      {
+        "name": "elasticsearch",
+        "fullname": "elastic/elasticsearch",
+        "url": "https://github.com/elastic/elasticsearch",
+        "topics": [
+          "elasticsearch",
+          "java",
+          "search-engine"
+        ],
+        "description": "Free and Open Source, Distributed, RESTful Search Engine"
+      },
+      {
+        "name": "influxdb",
+        "fullname": "influxdata/influxdb",
+        "url": "https://github.com/influxdata/influxdb",
+        "topics": [
+          "database",
+          "go",
+          "influxdb",
+          "metrics",
+          "monitoring",
+          "react",
+          "rust",
+          "time-series"
+        ],
+        "description": "Scalable datastore for metrics, events, and real-time analytics"
+      },
+      {
+        "name": "sembast.dart",
+        "fullname": "tekartik/sembast.dart",
+        "url": "https://github.com/tekartik/sembast.dart",
+        "topics": [],
+        "description": "Simple io database"
+      },
+      {
+        "name": "bbolt",
+        "fullname": "etcd-io/bbolt",
+        "url": "https://github.com/etcd-io/bbolt",
+        "topics": [],
+        "description": "An embedded key/value database for Go."
+      },
+      {
+        "name": "gel",
+        "fullname": "geldata/gel",
+        "url": "https://github.com/geldata/gel",
+        "topics": [
+          "database",
+          "edgedb",
+          "edgeql",
+          "gel",
+          "graph-relational",
+          "high-performance",
+          "relational-database"
+        ],
+        "description": "Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more."
+      },
+      {
+        "name": "starrocks",
+        "fullname": "StarRocks/starrocks",
+        "url": "https://github.com/StarRocks/starrocks",
+        "topics": [
+          "analytics",
+          "big-data",
+          "cloudnative",
+          "database",
+          "datalake",
+          "delta-lake",
+          "distributed-database",
+          "hudi",
+          "iceberg",
+          "join",
+          "lakehouse",
+          "lakehouse-platform",
+          "mpp",
+          "olap",
+          "real-time-analytics",
+          "real-time-updates",
+          "realtime-database",
+          "sql",
+          "star-schema",
+          "vectorized"
+        ],
+        "description": "The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project."
+      },
+      {
+        "name": "dragonfly",
+        "fullname": "dragonflydb/dragonfly",
+        "url": "https://github.com/dragonflydb/dragonfly",
+        "topics": [
+          "cache",
+          "cpp",
+          "database",
+          "fibers",
+          "in-memory",
+          "in-memory-database",
+          "key-value",
+          "keydb",
+          "memcached",
+          "message-broker",
+          "multi-threading",
+          "nosql",
+          "redis",
+          "valkey",
+          "vector-search"
+        ],
+        "description": "A modern replacement for Redis and Memcached"
+      },
+      {
+        "name": "foundationdb",
+        "fullname": "apple/foundationdb",
+        "url": "https://github.com/apple/foundationdb",
+        "topics": [
+          "acid",
+          "distributed-database",
+          "foundationdb",
+          "key-value-store",
+          "transactional"
+        ],
+        "description": "FoundationDB - the open source, distributed, transactional key-value store"
+      },
+      {
+        "name": "qdrant",
+        "fullname": "qdrant/qdrant",
+        "url": "https://github.com/qdrant/qdrant",
+        "topics": [
+          "ai-search",
+          "ai-search-engine",
+          "embeddings-similarity",
+          "hnsw",
+          "image-search",
+          "knn-algorithm",
+          "machine-learning",
+          "mlops",
+          "nearest-neighbor-search",
+          "neural-network",
+          "neural-search",
+          "recommender-system",
+          "search",
+          "search-engine",
+          "search-engines",
+          "similarity-search",
+          "vector-database",
+          "vector-search",
+          "vector-search-engine"
+        ],
+        "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/"
+      },
+      {
+        "name": "impala",
+        "fullname": "apache/impala",
+        "url": "https://github.com/apache/impala",
+        "topics": [
+          "impala"
+        ],
+        "description": "Apache Impala"
+      },
+      {
+        "name": "redb",
+        "fullname": "cberner/redb",
+        "url": "https://github.com/cberner/redb",
+        "topics": [
+          "rust"
+        ],
+        "description": "An embedded key-value database in pure Rust"
+      },
+      {
+        "name": "leveldb",
+        "fullname": "google/leveldb",
+        "url": "https://github.com/google/leveldb",
+        "topics": [],
+        "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values."
+      },
+      {
+        "name": "usearch",
+        "fullname": "unum-cloud/usearch",
+        "url": "https://github.com/unum-cloud/usearch",
+        "topics": [
+          "approximate-nearest-neighbor-search",
+          "clustering",
+          "database",
+          "faiss",
+          "full-text-search",
+          "fuzzy-search",
+          "image-search",
+          "kann",
+          "nearest-neighbor-search",
+          "recommender-system",
+          "search",
+          "search-engine",
+          "semantic-search",
+          "simd",
+          "similarity-search",
+          "text-search",
+          "vector-search",
+          "webassembly"
+        ],
+        "description": "Fast Open-Source Search & Clustering engine × for Vectors & Arbitrary Objects × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍"
+      },
+      {
+        "name": "Toshi",
+        "fullname": "toshi-search/Toshi",
+        "url": "https://github.com/toshi-search/Toshi",
+        "topics": [
+          "elasticsearch",
+          "indexing",
+          "rust",
+          "rust-lang",
+          "search",
+          "search-engine"
+        ],
+        "description": "A full-text search engine in rust"
+      },
+      {
+        "name": "meilisearch",
+        "fullname": "meilisearch/meilisearch",
+        "url": "https://github.com/meilisearch/meilisearch",
+        "topics": [
+          "ai",
+          "api",
+          "app-search",
+          "database",
+          "enterprise-search",
+          "faceting",
+          "full-text-search",
+          "fuzzy-search",
+          "geosearch",
+          "hybrid-search",
+          "instantsearch",
+          "search",
+          "search-as-you-type",
+          "search-engine",
+          "semantic-search",
+          "site-search",
+          "typo-tolerance",
+          "vector-database",
+          "vector-search",
+          "vectors"
+        ],
+        "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications."
+      },
+      {
+        "name": "bleve",
+        "fullname": "blevesearch/bleve",
+        "url": "https://github.com/blevesearch/bleve",
+        "topics": [],
+        "description": "A modern text/numeric/geo-spatial/vector indexing library for go"
+      },
+      {
+        "name": "simple",
+        "fullname": "wangfenjin/simple",
+        "url": "https://github.com/wangfenjin/simple",
+        "topics": [
+          "chinese",
+          "cpp14",
+          "fts",
+          "fts5",
+          "pinyin",
+          "sqlite",
+          "sqlite3",
+          "sqlite3-fts5",
+          "tokenizer"
+        ],
+        "description": "支持中文和拼音的 SQLite fts5 全文搜索扩展 ｜ A SQLite3 fts5 tokenizer which supports Chinese and PinYin"
+      },
+      {
+        "name": "duckdb",
+        "fullname": "duckdb/duckdb",
+        "url": "https://github.com/duckdb/duckdb",
+        "topics": [
+          "analytics",
+          "database",
+          "embedded-database",
+          "olap",
+          "sql"
+        ],
+        "description": "DuckDB is an analytical in-process SQL database management system"
+      },
+      {
+        "name": "scylladb",
+        "fullname": "scylladb/scylladb",
+        "url": "https://github.com/scylladb/scylladb",
+        "topics": [
+          "c-plus-plus",
+          "cassandra",
+          "cpp",
+          "database",
+          "nosql",
+          "scylla",
+          "seastar"
+        ],
+        "description": "NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB"
+      },
+      {
+        "name": "drawdb",
+        "fullname": "drawdb-io/drawdb",
+        "url": "https://github.com/drawdb-io/drawdb",
+        "topics": [
+          "database-schema",
+          "diagram-editor",
+          "editor",
+          "erd",
+          "erdiagram",
+          "hacktoberfest",
+          "indexeddb",
+          "javascript",
+          "mariadb",
+          "oracle-database",
+          "postgresql",
+          "react",
+          "sql",
+          "sql-server",
+          "sqlite",
+          "svg",
+          "tailwindcss"
+        ],
+        "description": "Free, simple, and intuitive online database diagram editor and SQL generator."
+      },
+      {
+        "name": "datafusion",
+        "fullname": "apache/datafusion",
+        "url": "https://github.com/apache/datafusion",
+        "topics": [
+          "arrow",
+          "big-data",
+          "dataframe",
+          "datafusion",
+          "olap",
+          "python",
+          "query-engine",
+          "rust",
+          "sql"
+        ],
+        "description": "Apache DataFusion SQL Query Engine"
+      },
+      {
+        "name": "paradedb",
+        "fullname": "paradedb/paradedb",
+        "url": "https://github.com/paradedb/paradedb",
+        "topics": [
+          "aggregations",
+          "analytics",
+          "big-data",
+          "bm25",
+          "database",
+          "elasticsearch",
+          "full-text-search",
+          "htap",
+          "hybrid-search",
+          "object-storage",
+          "olap",
+          "postgresql",
+          "real-time-analytics",
+          "similarity-search",
+          "sparse-vector",
+          "sql"
+        ],
+        "description": "ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads."
+      },
+      {
         "name": "kuzu",
         "url": "https://github.com/kuzudb/kuzu",
         "description": "Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher."
       }
     ],
     "Languages": [],
-    "Frameworks": [],
+    "Frameworks/SDKs": [
+      {
+        "name": "hudi",
+        "fullname": "apache/hudi",
+        "url": "https://github.com/apache/hudi",
+        "topics": [
+          "apacheflink",
+          "apachehudi",
+          "apachespark",
+          "bigdata",
+          "data-integration",
+          "datalake",
+          "hudi",
+          "incremental-processing",
+          "stream-processing"
+        ],
+        "description": "Upserts, Deletes And Incremental Processing on Big Data."
+      },
+      {
+        "name": "peewee",
+        "fullname": "coleifer/peewee",
+        "url": "https://github.com/coleifer/peewee",
+        "topics": [
+          "dank",
+          "gametight",
+          "peewee",
+          "python",
+          "sqlite"
+        ],
+        "description": "a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb"
+      },
+      {
+        "name": "sqlite3_simple",
+        "fullname": "SageMik/sqlite3_simple",
+        "url": "https://github.com/SageMik/sqlite3_simple",
+        "topics": [
+          "chinese",
+          "flutter",
+          "fts5",
+          "pinyin",
+          "sqlite3",
+          "tokenizer"
+        ],
+        "description": "基于 Simple (支持中文和拼音的 SQLite fts5 全文搜索扩展) 和 sqlite3.dart 的 Flutter 库，用于 SQLite 中文和拼音全文搜索 | A Flutter plugin for Full-Text Search of Chinese & PinYin in SQLite, based on Simple (A SQLite3 fts5 tokenizer which supports Chinese & PinYin) and sqlite3.dart"
+      },
+      {
+        "name": "mysql_async",
+        "fullname": "blackbeam/mysql_async",
+        "url": "https://github.com/blackbeam/mysql_async",
+        "topics": [],
+        "description": "Asyncronous Rust Mysql driver based on Tokio."
+      },
+      {
+        "name": "pravega",
+        "fullname": "pravega/pravega",
+        "url": "https://github.com/pravega/pravega",
+        "topics": [
+          "data-ingestion",
+          "distributed-storage",
+          "real-time-data",
+          "streaming",
+          "streaming-data"
+        ],
+        "description": "Pravega - Streaming as a new software defined storage primitive"
+      },
+      {
+        "name": "godis",
+        "fullname": "HDT3213/godis",
+        "url": "https://github.com/HDT3213/godis",
+        "topics": [
+          "cluster",
+          "go",
+          "godis",
+          "golang",
+          "kv-cache",
+          "redis",
+          "redis-cluster",
+          "redis-server"
+        ],
+        "description": "A Golang implemented Redis Server and Cluster. Go 语言实现的 Redis 服务器和分布式集群"
+      },
+      {
+        "name": "mongo-go-driver",
+        "fullname": "mongodb/mongo-go-driver",
+        "url": "https://github.com/mongodb/mongo-go-driver",
+        "topics": [
+          "database",
+          "driver",
+          "go",
+          "golang",
+          "golang-library",
+          "mongodb"
+        ],
+        "description": "The Official Golang driver for MongoDB"
+      },
+      {
+        "name": "redis-dart",
+        "fullname": "ra1u/redis-dart",
+        "url": "https://github.com/ra1u/redis-dart",
+        "topics": [
+          "dart",
+          "redis"
+        ],
+        "description": "fast redis protocol  parser and client"
+      },
+      {
+        "name": "whoosh",
+        "fullname": "whoosh-community/whoosh",
+        "url": "https://github.com/whoosh-community/whoosh",
+        "topics": [],
+        "description": "Whoosh is a fast, featureful full-text indexing and searching library implemented in pure Python."
+      },
+      {
+        "name": "sqlx",
+        "fullname": "launchbadge/sqlx",
+        "url": "https://github.com/launchbadge/sqlx",
+        "topics": [
+          "async",
+          "await",
+          "mariadb",
+          "mysql",
+          "postgres",
+          "postgresql",
+          "rust",
+          "sql",
+          "sqlite"
+        ],
+        "description": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite."
+      },
+      {
+        "name": "mysql1_dart",
+        "fullname": "adamlofts/mysql1_dart",
+        "url": "https://github.com/adamlofts/mysql1_dart",
+        "topics": [
+          "dart",
+          "mysql",
+          "mysql-driver"
+        ],
+        "description": "MySQL driver for Dart"
+      },
+      {
+        "name": "clickhouse-rs",
+        "fullname": "suharev7/clickhouse-rs",
+        "url": "https://github.com/suharev7/clickhouse-rs",
+        "topics": [
+          "clickhouse",
+          "clickhouse-client",
+          "rust",
+          "tokio"
+        ],
+        "description": "Asynchronous ClickHouse client library for Rust programming language."
+      },
+      {
+        "name": "opendal",
+        "fullname": "apache/opendal",
+        "url": "https://github.com/apache/opendal",
+        "topics": [
+          "azblob",
+          "gcs",
+          "hacktoberfest",
+          "redis",
+          "rust",
+          "s3",
+          "storage"
+        ],
+        "description": "Apache OpenDAL: One Layer, All Storage."
+      },
+      {
+        "name": "lucene",
+        "fullname": "apache/lucene",
+        "url": "https://github.com/apache/lucene",
+        "topics": [
+          "backend",
+          "information-retrieval",
+          "java",
+          "lucene",
+          "nosql",
+          "search",
+          "search-engine"
+        ],
+        "description": "Apache Lucene open-source search software"
+      }
+    ],
     "__root__": []
   },
   "Artificial Intelligence / Machine Learning": {
     "AI Frameworks": [
+      {
+        "name": "sqlite-vec",
+        "fullname": "asg017/sqlite-vec",
+        "url": "https://github.com/asg017/sqlite-vec",
+        "topics": [
+          "sqlite",
+          "sqlite-extension"
+        ],
+        "description": "A vector search SQLite extension that runs anywhere!"
+      },
+      {
+        "name": "sqlite-vss",
+        "fullname": "asg017/sqlite-vss",
+        "url": "https://github.com/asg017/sqlite-vss",
+        "topics": [
+          "faiss",
+          "sqlite",
+          "sqlite-extension",
+          "vector-search"
+        ],
+        "description": "A SQLite extension for efficient vector search, based on Faiss!"
+      },
+      {
+        "name": "infinity",
+        "fullname": "infiniflow/infinity",
+        "url": "https://github.com/infiniflow/infinity",
+        "topics": [
+          "ai-native",
+          "approximate-nearest-neighbor-search",
+          "bm25",
+          "cpp20",
+          "cpp20-modules",
+          "embedding",
+          "full-text-search",
+          "hnsw",
+          "hybrid-search",
+          "information-retrival",
+          "nearest-neighbor-search",
+          "rag",
+          "search-engine",
+          "tensor-database",
+          "vector",
+          "vector-database",
+          "vector-search",
+          "vectordatabase"
+        ],
+        "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text"
+      },
       {
         "name": "MNN",
         "url": "https://github.com/alibaba/MNN",
@@ -147,7 +867,141 @@
         "description": "3D rendering toolkit for Dart and/or Flutter."
       }
     ],
-    "Frameworks": [],
+    "Frameworks/SDKs": [
+      {
+        "name": "realm-dart",
+        "fullname": "realm/realm-dart",
+        "url": "https://github.com/realm/realm-dart",
+        "topics": [
+          "cross-platform",
+          "dart",
+          "database",
+          "flutter",
+          "mobile",
+          "nosql-database",
+          "object-oriented-da",
+          "realtime-database"
+        ],
+        "description": "Realm is a mobile database: a replacement for SQLite & ORMs. "
+      },
+      {
+        "name": "prisma-dart",
+        "fullname": "medz/prisma-dart",
+        "url": "https://github.com/medz/prisma-dart",
+        "topics": [
+          "cockroachdb",
+          "dart",
+          "flutter",
+          "mariadb",
+          "mongodb",
+          "mysql",
+          "orm",
+          "postgresql",
+          "prisma",
+          "sqlite",
+          "sqlserver"
+        ],
+        "description": "Prisma Client Dart is an auto-generated type-safe ORM. It uses Prisma Engine as the data access layer and is as consistent as possible with the Prisma Client JS/TS APIs."
+      },
+      {
+        "name": "isar",
+        "fullname": "isar/isar",
+        "url": "https://github.com/isar/isar",
+        "topics": [
+          "android",
+          "cross-platform",
+          "dart",
+          "database",
+          "flutter",
+          "ios",
+          "isar",
+          "web"
+        ],
+        "description": "Extremely fast, easy to use, and fully async NoSQL database for Flutter"
+      },
+      {
+        "name": "floor",
+        "fullname": "pinchbv/floor",
+        "url": "https://github.com/pinchbv/floor",
+        "topics": [
+          "dart",
+          "flutter",
+          "sqlite"
+        ],
+        "description": "The typesafe, reactive, and lightweight SQLite abstraction for your Flutter applications"
+      },
+      {
+        "name": "hive",
+        "fullname": "isar/hive",
+        "url": "https://github.com/isar/hive",
+        "topics": [
+          "dart",
+          "database",
+          "encryption",
+          "flutter",
+          "hive",
+          "key-value",
+          "nosql"
+        ],
+        "description": "Lightweight and blazing fast key-value database written in pure Dart."
+      },
+      {
+        "name": "sqlite3.dart",
+        "fullname": "simolus3/sqlite3.dart",
+        "url": "https://github.com/simolus3/sqlite3.dart",
+        "topics": [],
+        "description": "sqlite3 bindings for Dart"
+      },
+      {
+        "name": "sql.js",
+        "fullname": "sql-js/sql.js",
+        "url": "https://github.com/sql-js/sql.js",
+        "topics": [
+          "database",
+          "emscripten",
+          "javascript",
+          "sql",
+          "sqlite",
+          "wasm"
+        ],
+        "description": "A javascript library to run SQLite on the web.  "
+      },
+      {
+        "name": "objectbox-dart",
+        "fullname": "objectbox/objectbox-dart",
+        "url": "https://github.com/objectbox/objectbox-dart",
+        "topics": [
+          "android",
+          "cross-platform",
+          "dart",
+          "database",
+          "embedded",
+          "firebase",
+          "flutter",
+          "ios",
+          "mobile",
+          "nosql",
+          "offline-first",
+          "sustainable",
+          "sync"
+        ],
+        "description": "Flutter database for super-fast Dart object persistence"
+      },
+      {
+        "name": "drift",
+        "fullname": "simolus3/drift",
+        "url": "https://github.com/simolus3/drift",
+        "topics": [
+          "dart",
+          "dart-build-system",
+          "flutter",
+          "persistence",
+          "reactive",
+          "sqlite"
+        ],
+        "description": "Drift is an easy to use, reactive, typesafe persistence library for Dart & Flutter."
+      }
+    ],
     "Applications": [],
     "__root__": []
   },
@@ -163,6 +1017,33 @@
       }
     ],
     "Easy Work Tools": [
+      {
+        "name": "RedisFish",
+        "fullname": "hunter-ji/RedisFish",
+        "url": "https://github.com/hunter-ji/RedisFish",
+        "topics": [
+          "desktop-app",
+          "developer-tools",
+          "redis",
+          "redis-client",
+          "redis-gui",
+          "redis-gui-client"
+        ],
+        "description": "🌈A convenient, cross-platform, and content-focused redis GUI client. Maybe you will like it."
+      },
+      {
+        "name": "PyWxDump",
+        "fullname": "xaoyaoo/PyWxDump",
+        "url": "https://github.com/xaoyaoo/PyWxDump",
+        "topics": [
+          "pywxdump",
+          "wechat",
+          "wx",
+          "wxdump",
+          "wxexport"
+        ],
+        "description": "获取微信信息；读取数据库，本地查看聊天记录并导出为csv、html等格式用于AI训练，自动回复等。支持多账户信息获取，支持所有微信版本。"
+      },
       {
         "name": "mermaid",
         "url": "https://github.com/mermaid-js/mermaid",
