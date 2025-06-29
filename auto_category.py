@@ -25,6 +25,7 @@ categories = {
             "AI Agents": "具备行动能力的 AI 智能体",
             "Large Models": "大语言模型、多模态模型或大型预训练模型",
             "AI Applications": "基于 AI 的应用程序，如 AI 绘图、对话等",
+            "Tools":"封装的人工智能工具"
         },
     },
     "Frontend / UI / Mobile": {

@@ -2,6 +2,32 @@
   "Full-Stack / Web Development": {
     "Database": [
       {
+        "name": "infinity",
+        "fullname": "infiniflow/infinity",
+        "url": "https://github.com/infiniflow/infinity",
+        "topics": [
+          "ai-native",
+          "approximate-nearest-neighbor-search",
+          "bm25",
+          "cpp20",
+          "cpp20-modules",
+          "embedding",
+          "full-text-search",
+          "hnsw",
+          "hybrid-search",
+          "information-retrival",
+          "nearest-neighbor-search",
+          "rag",
+          "search-engine",
+          "tensor-database",
+          "vector",
+          "vector-database",
+          "vector-search",
+          "vectordatabase"
+        ],
+        "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text"
+      },
+      {
         "name": "ClickHouse",
         "fullname": "ClickHouse/ClickHouse",
         "url": "https://github.com/ClickHouse/ClickHouse",
@@ -493,12 +519,733 @@
       },
       {
         "name": "kuzu",
+        "fullname": "kuzudb/kuzu",
         "url": "https://github.com/kuzudb/kuzu",
         "description": "Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher."
       }
     ],
-    "Languages": [],
+    "Languages": [
+      {
+        "name": "assemblyscript",
+        "fullname": "AssemblyScript/assemblyscript",
+        "url": "https://github.com/AssemblyScript/assemblyscript",
+        "topics": [
+          "assemblyscript",
+          "compiler",
+          "typescript",
+          "wasm",
+          "webassembly"
+        ],
+        "description": "A TypeScript-like language for WebAssembly."
+      },
+      {
+        "name": "v",
+        "fullname": "vlang/v",
+        "url": "https://github.com/vlang/v",
+        "topics": [
+          "compiler",
+          "language",
+          "programming-language",
+          "v"
+        ],
+        "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io"
+      },
+      {
+        "name": "asteria",
+        "fullname": "lhmouse/asteria",
+        "url": "https://github.com/lhmouse/asteria",
+        "topics": [
+          "programming-language",
+          "scripting-language"
+        ],
+        "description": "The Asteria Programming Language"
+      },
+      {
+        "name": "rust",
+        "fullname": "rust-lang/rust",
+        "url": "https://github.com/rust-lang/rust",
+        "topics": [
+          "compiler",
+          "hacktoberfest",
+          "language",
+          "rust"
+        ],
+        "description": "Empowering everyone to build reliable and efficient software."
+      },
+      {
+        "name": "swift",
+        "fullname": "swiftlang/swift",
+        "url": "https://github.com/swiftlang/swift",
+        "topics": [],
+        "description": "The Swift Programming Language"
+      },
+      {
+        "name": "cup",
+        "fullname": "cup-lang/cup",
+        "url": "https://github.com/cup-lang/cup",
+        "topics": [
+          "compiler",
+          "cup",
+          "official"
+        ],
+        "description": "☕ Official Cup Programming Language Development Toolkit"
+      },
+      {
+        "name": "elixir",
+        "fullname": "elixir-lang/elixir",
+        "url": "https://github.com/elixir-lang/elixir",
+        "topics": [],
+        "description": "Elixir is a dynamic, functional language for building scalable and maintainable applications"
+      },
+      {
+        "name": "wenyan",
+        "fullname": "wenyan-lang/wenyan",
+        "url": "https://github.com/wenyan-lang/wenyan",
+        "topics": [
+          "classical-chinese",
+          "esoteric-language",
+          "programming-language",
+          "wenyan-lang"
+        ],
+        "description": "文言文編程語言 A programming language for the ancient Chinese."
+      },
+      {
+        "name": "pocketpy",
+        "fullname": "pocketpy/pocketpy",
+        "url": "https://github.com/pocketpy/pocketpy",
+        "topics": [
+          "c",
+          "c11",
+          "header-only",
+          "interpreter",
+          "language",
+          "programming-language",
+          "python",
+          "scripting-language",
+          "vm"
+        ],
+        "description": "Portable Python 3.x Interpreter in Modern C for Game Scripting"
+      },
+      {
+        "name": "crab",
+        "fullname": "crablang/crab",
+        "url": "https://github.com/crablang/crab",
+        "topics": [],
+        "description": "A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy! "
+      },
+      {
+        "name": "crystal",
+        "fullname": "crystal-lang/crystal",
+        "url": "https://github.com/crystal-lang/crystal",
+        "topics": [
+          "compiler",
+          "crystal",
+          "crystal-language",
+          "hacktoberfest",
+          "programming-language"
+        ],
+        "description": "The Crystal Programming Language"
+      },
+      {
+        "name": "Bend",
+        "fullname": "HigherOrderCO/Bend",
+        "url": "https://github.com/HigherOrderCO/Bend",
+        "topics": [],
+        "description": "A massively parallel, high-level programming language"
+      }
+    ],
     "Frameworks/SDKs": [
+      {
+        "name": "apollovm_dart",
+        "fullname": "ApolloVM/apollovm_dart",
+        "url": "https://github.com/ApolloVM/apollovm_dart",
+        "topics": [
+          "compiler",
+          "dart",
+          "java",
+          "parser",
+          "vm"
+        ],
+        "description": "ApolloVM is a portable VM (native, JS/Web, Flutter) that can parse, translate and run multiple languages, like Dart and Java."
+      },
+      {
+        "name": "gonum",
+        "fullname": "gonum/gonum",
+        "url": "https://github.com/gonum/gonum",
+        "topics": [
+          "data-analysis",
+          "go",
+          "golang",
+          "graph",
+          "matrix",
+          "scientific-computing",
+          "statistics"
+        ],
+        "description": "Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more"
+      },
+      {
+        "name": "GoMybatis",
+        "fullname": "zhuxiujia/GoMybatis",
+        "url": "https://github.com/zhuxiujia/GoMybatis",
+        "topics": [],
+        "description": "Go ORM Library.Have Powerful Features like transaction nesting, Optimistic Lock,Logical deletion and more. like mybatis for go golang"
+      },
+      {
+        "name": "go-python",
+        "fullname": "sbinet/go-python",
+        "url": "https://github.com/sbinet/go-python",
+        "topics": [
+          "cgo",
+          "go",
+          "golang",
+          "python2"
+        ],
+        "description": "naive go bindings to the CPython2 C-API"
+      },
+      {
+        "name": "miri",
+        "fullname": "rust-lang/miri",
+        "url": "https://github.com/rust-lang/miri",
+        "topics": [],
+        "description": "An interpreter for Rust's mid-level intermediate representation"
+      },
+      {
+        "name": "RustPython",
+        "fullname": "RustPython/RustPython",
+        "url": "https://github.com/RustPython/RustPython",
+        "topics": [
+          "compiler",
+          "hacktoberfest",
+          "interpreter",
+          "jit",
+          "language",
+          "python-language",
+          "python3",
+          "rust",
+          "wasm"
+        ],
+        "description": "A Python Interpreter written in Rust"
+      },
+      {
+        "name": "pyo3",
+        "fullname": "PyO3/pyo3",
+        "url": "https://github.com/PyO3/pyo3",
+        "topics": [
+          "binding",
+          "ffi",
+          "python",
+          "python-c-api",
+          "rust"
+        ],
+        "description": "Rust bindings for the Python interpreter"
+      },
+      {
+        "name": "rust-cpython",
+        "fullname": "dgrunwald/rust-cpython",
+        "url": "https://github.com/dgrunwald/rust-cpython",
+        "topics": [],
+        "description": "Rust <-> Python bindings"
+      },
+      {
+        "name": "sdk",
+        "fullname": "dart-lang/sdk",
+        "url": "https://github.com/dart-lang/sdk",
+        "topics": [
+          "dart",
+          "language",
+          "programming-language",
+          "sdk"
+        ],
+        "description": "The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more."
+      },
+      {
+        "name": "dateutil",
+        "fullname": "dateutil/dateutil",
+        "url": "https://github.com/dateutil/dateutil",
+        "topics": [
+          "datetime",
+          "library",
+          "parsing",
+          "python",
+          "time",
+          "timezones"
+        ],
+        "description": "Useful extensions to the standard Python datetime features"
+      },
+      {
+        "name": "xgo",
+        "fullname": "goplus/xgo",
+        "url": "https://github.com/goplus/xgo",
+        "topics": [
+          "ai-native",
+          "data-science",
+          "golang",
+          "goplus",
+          "low-code",
+          "programming-language",
+          "scientific-computing",
+          "stem",
+          "stem-education",
+          "xgo"
+        ],
+        "description": "XGo is the first AI-native programming language that integrates software engineering into a unified whole. Our vision is to enable everyone to become a builder of the world."
+      },
+      {
+        "name": "ironpython3",
+        "fullname": "IronLanguages/ironpython3",
+        "url": "https://github.com/IronLanguages/ironpython3",
+        "topics": [
+          "c-sharp",
+          "dlr",
+          "ironpython",
+          "python"
+        ],
+        "description": "Implementation of Python 3.x for .NET Framework that is built on top of the Dynamic Language Runtime."
+      },
+      {
+        "name": "gmsm",
+        "fullname": "tjfoc/gmsm",
+        "url": "https://github.com/tjfoc/gmsm",
+        "topics": [
+          "gm",
+          "golang",
+          "sm2",
+          "sm3",
+          "sm4"
+        ],
+        "description": "GM SM2/3/4 library based on Golang (基于Go语言的国密SM2/SM3/SM4算法库)"
+      },
+      {
+        "name": "complex",
+        "fullname": "rwl/complex",
+        "url": "https://github.com/rwl/complex",
+        "topics": [],
+        "description": "Complex number representation in Dart"
+      },
+      {
+        "name": "govaluate",
+        "fullname": "Knetic/govaluate",
+        "url": "https://github.com/Knetic/govaluate",
+        "topics": [
+          "evaluation",
+          "expression",
+          "go",
+          "parsing"
+        ],
+        "description": "Arbitrary expression evaluation for golang"
+      },
+      {
+        "name": "zig",
+        "fullname": "ziglang/zig",
+        "url": "https://github.com/ziglang/zig",
+        "topics": [
+          "compiler",
+          "language",
+          "zig"
+        ],
+        "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software."
+      },
+      {
+        "name": "merkletree",
+        "fullname": "cbergoon/merkletree",
+        "url": "https://github.com/cbergoon/merkletree",
+        "topics": [
+          "golang",
+          "hashtree",
+          "merkle-tree",
+          "tree"
+        ],
+        "description": "A Merkle Tree implementation written in Go."
+      },
+      {
+        "name": "sm_crypto",
+        "fullname": "greenking19/sm_crypto",
+        "url": "https://github.com/greenking19/sm_crypto",
+        "topics": [
+          "dart",
+          "flutter",
+          "sm3",
+          "sm4"
+        ],
+        "description": "Chinese national encryption algorithm SM2, SM3, SM4. Can output hex string or hex List<int>."
+      },
+      {
+        "name": "photon",
+        "fullname": "silvia-odwyer/photon",
+        "url": "https://github.com/silvia-odwyer/photon",
+        "topics": [
+          "hacktoberfest",
+          "image-manipulation",
+          "image-processing",
+          "rust",
+          "rust-library",
+          "wasm",
+          "webassembly"
+        ],
+        "description": "⚡ Rust/WebAssembly image processing library"
+      },
+      {
+        "name": "image",
+        "fullname": "image-rs/image",
+        "url": "https://github.com/image-rs/image",
+        "topics": [
+          "decoding-images",
+          "pixel",
+          "rust"
+        ],
+        "description": "Encoding and decoding images in Rust"
+      },
+      {
+        "name": "c-parser",
+        "fullname": "gvanrossum/c-parser",
+        "url": "https://github.com/gvanrossum/c-parser",
+        "topics": [],
+        "description": "A partial parser for C statements and expression"
+      },
+      {
+        "name": "nalgebra",
+        "fullname": "dimforge/nalgebra",
+        "url": "https://github.com/dimforge/nalgebra",
+        "topics": [
+          "algebra",
+          "linear-algebra",
+          "matrix",
+          "vector"
+        ],
+        "description": "Linear algebra library for Rust."
+      },
+      {
+        "name": "viper",
+        "fullname": "spf13/viper",
+        "url": "https://github.com/spf13/viper",
+        "topics": [],
+        "description": "Go configuration with fangs"
+      },
+      {
+        "name": "ezdxf",
+        "fullname": "mozman/ezdxf",
+        "url": "https://github.com/mozman/ezdxf",
+        "topics": [],
+        "description": "Python interface to DXF"
+      },
+      {
+        "name": "xpack",
+        "fullname": "xyz347/xpack",
+        "url": "https://github.com/xyz347/xpack",
+        "topics": [
+          "bson",
+          "cpp",
+          "json",
+          "mysql",
+          "sqlite",
+          "struct",
+          "xml",
+          "yaml"
+        ],
+        "description": "convert json/xml/bson to c++ struct"
+      },
+      {
+        "name": "vfs",
+        "fullname": "blang/vfs",
+        "url": "https://github.com/blang/vfs",
+        "topics": [
+          "golang",
+          "mocking",
+          "vfs",
+          "virtual-file-system"
+        ],
+        "description": "Virtual filesystem library written in golang"
+      },
+      {
+        "name": "napi-rs",
+        "fullname": "napi-rs/napi-rs",
+        "url": "https://github.com/napi-rs/napi-rs",
+        "topics": [
+          "javascript",
+          "napi",
+          "napi-rs",
+          "neon",
+          "node",
+          "node-api",
+          "nodejs",
+          "rust"
+        ],
+        "description": "A framework for building compiled Node.js add-ons in Rust via Node-API"
+      },
+      {
+        "name": "wabt",
+        "fullname": "WebAssembly/wabt",
+        "url": "https://github.com/WebAssembly/wabt",
+        "topics": [
+          "webassembly"
+        ],
+        "description": "The WebAssembly Binary Toolkit"
+      },
+      {
+        "name": "pyodide",
+        "fullname": "pyodide/pyodide",
+        "url": "https://github.com/pyodide/pyodide",
+        "topics": [
+          "python",
+          "webassembly"
+        ],
+        "description": "Pyodide is a Python distribution for the browser and Node.js based on WebAssembly"
+      },
+      {
+        "name": "NumCpp",
+        "fullname": "dpilger26/NumCpp",
+        "url": "https://github.com/dpilger26/NumCpp",
+        "topics": [
+          "algorithms",
+          "c-plus-plus",
+          "cpp",
+          "data-structures",
+          "mathematical-functions",
+          "numerical-analysis",
+          "numpy",
+          "python",
+          "scientific-computing"
+        ],
+        "description": "C++ implementation of the Python Numpy library"
+      },
+      {
+        "name": "grpc_requests",
+        "fullname": "grpc-requests/grpc_requests",
+        "url": "https://github.com/grpc-requests/grpc_requests",
+        "topics": [],
+        "description": "python grpc reflection client"
+      },
+      {
+        "name": "tika",
+        "fullname": "apache/tika",
+        "url": "https://github.com/apache/tika",
+        "topics": [
+          "content",
+          "extraction",
+          "java",
+          "metadata",
+          "tika"
+        ],
+        "description": "The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF)."
+      },
+      {
+        "name": "pdfcpu",
+        "fullname": "pdfcpu/pdfcpu",
+        "url": "https://github.com/pdfcpu/pdfcpu",
+        "topics": [
+          "go",
+          "golang",
+          "golang-library",
+          "pdf",
+          "pdf-files",
+          "pdf-lib",
+          "pdf-processor",
+          "pdflib",
+          "processor"
+        ],
+        "description": "A PDF processor written in Go."
+      },
+      {
+        "name": "fsnotify",
+        "fullname": "fsnotify/fsnotify",
+        "url": "https://github.com/fsnotify/fsnotify",
+        "topics": [],
+        "description": "Cross-platform filesystem notifications for Go."
+      },
+      {
+        "name": "ldap",
+        "fullname": "go-ldap/ldap",
+        "url": "https://github.com/go-ldap/ldap",
+        "topics": [],
+        "description": "Basic LDAP v3 functionality for the GO programming language."
+      },
+      {
+        "name": "zip-old",
+        "fullname": "zip-rs/zip-old",
+        "url": "https://github.com/zip-rs/zip-old",
+        "topics": [],
+        "description": "Zip implementation in Rust"
+      },
+      {
+        "name": "pugixml",
+        "fullname": "zeux/pugixml",
+        "url": "https://github.com/zeux/pugixml",
+        "topics": [
+          "dom",
+          "xml",
+          "xml-parser",
+          "xpath"
+        ],
+        "description": "Light-weight, simple and fast XML parser for C++ with XPath support"
+      },
+      {
+        "name": "aws-sdk-rust",
+        "fullname": "awslabs/aws-sdk-rust",
+        "url": "https://github.com/awslabs/aws-sdk-rust",
+        "topics": [
+          "aws",
+          "rust"
+        ],
+        "description": "AWS SDK for the Rust Programming Language"
+      },
+      {
+        "name": "lo",
+        "fullname": "samber/lo",
+        "url": "https://github.com/samber/lo",
+        "topics": [
+          "constraints",
+          "contract",
+          "filterable",
+          "foldable",
+          "functional",
+          "generics",
+          "go",
+          "golang",
+          "lodash",
+          "programming",
+          "typesafe"
+        ],
+        "description": "💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)"
+      },
+      {
+        "name": "wasm_run",
+        "fullname": "juancastillo0/wasm_run",
+        "url": "https://github.com/juancastillo0/wasm_run",
+        "topics": [
+          "binding-generator",
+          "compiler",
+          "component",
+          "dart",
+          "executor",
+          "flutter",
+          "interpreter",
+          "native",
+          "runtime",
+          "rust",
+          "wasm",
+          "wasmtime",
+          "web",
+          "webassembly",
+          "wit"
+        ],
+        "description": "A WebAssembly executor for Dart and Flutter applications. Uses Rust's wasmtime optimizing runtime or wasmi interpreter to parse and execute WASM and WAT files."
+      },
+      {
+        "name": "StringZilla",
+        "fullname": "ashvardanian/StringZilla",
+        "url": "https://github.com/ashvardanian/StringZilla",
+        "topics": [
+          "beautifulsoup",
+          "common-crawl",
+          "csv",
+          "dataset",
+          "html",
+          "information-retrieval",
+          "json",
+          "laion",
+          "ndjson",
+          "parser",
+          "pattern-recognition",
+          "simd",
+          "sorting-algorithms",
+          "string",
+          "string-manipulation",
+          "string-matching",
+          "string-parsing",
+          "string-search",
+          "substring"
+        ],
+        "description": "Up to 10x faster strings for C, C++, Python, Rust, Swift & Go, leveraging NEON, AVX2, AVX-512, SVE, & SWAR to accelerate search, hashing, sort, edit distances, and memory ops 🦖"
+      },
+      {
+        "name": "y-crdt",
+        "fullname": "y-crdt/y-crdt",
+        "url": "https://github.com/y-crdt/y-crdt",
+        "topics": [
+          "crdt",
+          "rust",
+          "yjs"
+        ],
+        "description": "Rust port of Yjs"
+      },
+      {
+        "name": "mono",
+        "fullname": "mono/mono",
+        "url": "https://github.com/mono/mono",
+        "topics": [
+          "android",
+          "csharp",
+          "dotnet",
+          "garbage-collector",
+          "ios",
+          "jit",
+          "runtime",
+          "xamarin"
+        ],
+        "description": "Mono open source ECMA CLI, C# and .NET implementation."
+      },
+      {
+        "name": "sqlite-vec",
+        "fullname": "asg017/sqlite-vec",
+        "url": "https://github.com/asg017/sqlite-vec",
+        "topics": [
+          "sqlite",
+          "sqlite-extension"
+        ],
+        "description": "A vector search SQLite extension that runs anywhere!"
+      },
+      {
+        "name": "sqlite-vss",
+        "fullname": "asg017/sqlite-vss",
+        "url": "https://github.com/asg017/sqlite-vss",
+        "topics": [
+          "faiss",
+          "sqlite",
+          "sqlite-extension",
+          "vector-search"
+        ],
+        "description": "A SQLite extension for efficient vector search, based on Faiss!"
+      },
+      {
+        "name": "odpi",
+        "fullname": "oracle/odpi",
+        "url": "https://github.com/oracle/odpi",
+        "topics": [],
+        "description": "ODPI-C: Oracle Database Programming Interface for Drivers and Applications"
+      },
+      {
+        "name": "sea-orm",
+        "fullname": "SeaQL/sea-orm",
+        "url": "https://github.com/SeaQL/sea-orm",
+        "topics": [
+          "database",
+          "hacktoberfest",
+          "loco",
+          "mariadb",
+          "mysql",
+          "orm",
+          "postgres",
+          "rust",
+          "sql",
+          "sqlite",
+          "sqlx",
+          "tokio"
+        ],
+        "description": "🐚 An async & dynamic ORM for Rust"
+      },
+      {
+        "name": "turso",
+        "fullname": "tursodatabase/turso",
+        "url": "https://github.com/tursodatabase/turso",
+        "topics": [
+          "database",
+          "embedded-database",
+          "sql",
+          "sqlite3",
+          "webassembly"
+        ],
+        "description": "Turso Database is a project to build the next evolution of SQLite."
+      },
       {
         "name": "hudi",
         "fullname": "apache/hudi",
@@ -684,96 +1431,86 @@
     "__root__": []
   },
   "Artificial Intelligence / Machine Learning": {
-    "AI Frameworks": [
+    "Tools": [
       {
-        "name": "sqlite-vec",
-        "fullname": "asg017/sqlite-vec",
-        "url": "https://github.com/asg017/sqlite-vec",
+        "name": "sensitive-word",
+        "fullname": "houbb/sensitive-word",
+        "url": "https://github.com/houbb/sensitive-word",
         "topics": [
-          "sqlite",
-          "sqlite-extension"
+          "dfa",
+          "dirty-word",
+          "filter",
+          "java",
+          "nlp",
+          "pinyin",
+          "search",
+          "sensitive",
+          "sensitive-word",
+          "sensitive-word-filter",
+          "string-matching",
+          "textfliter",
+          "trie-tree"
         ],
-        "description": "A vector search SQLite extension that runs anywhere!"
-      },
-      {
-        "name": "sqlite-vss",
-        "fullname": "asg017/sqlite-vss",
-        "url": "https://github.com/asg017/sqlite-vss",
-        "topics": [
-          "faiss",
-          "sqlite",
-          "sqlite-extension",
-          "vector-search"
-        ],
-        "description": "A SQLite extension for efficient vector search, based on Faiss!"
-      },
-      {
-        "name": "infinity",
-        "fullname": "infiniflow/infinity",
-        "url": "https://github.com/infiniflow/infinity",
-        "topics": [
-          "ai-native",
-          "approximate-nearest-neighbor-search",
-          "bm25",
-          "cpp20",
-          "cpp20-modules",
-          "embedding",
-          "full-text-search",
-          "hnsw",
-          "hybrid-search",
-          "information-retrival",
-          "nearest-neighbor-search",
-          "rag",
-          "search-engine",
-          "tensor-database",
-          "vector",
-          "vector-database",
-          "vector-search",
-          "vectordatabase"
-        ],
-        "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text"
-      },
-      {
-        "name": "MNN",
-        "url": "https://github.com/alibaba/MNN",
-        "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba."
+        "description": " 👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)"
       },
       {
         "name": "hub",
+        "fullname": "ultralytics/hub",
         "url": "https://github.com/ultralytics/hub",
         "description": "Ultralytics HUB tutorials and support."
+      }
+    ],
+    "AI Frameworks": [
+      {
+        "name": "MNN",
+        "fullname": "alibaba/MNN",
+        "url": "https://github.com/alibaba/MNN",
+        "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba."
       }
     ],
     "Object Detector": [
       {
         "name": "D-FINE",
+        "fullname": "Peterande/D-FINE",
         "url": "https://github.com/Peterande/D-FINE",
         "description": "D-FINE is a powerful real-time object detector that redefines the bounding box regression task in DETRs as Fine-grained Distribution Refinement (FDR) and introduces Global Optimal Localization Self-Distillation (GO-LSD), achieving outstanding performance without introducing additional inference and training costs."
       },
       {
         "name": "Rex-Thinker",
+        "fullname": "IDEA-Research/Rex-Thinker",
         "url": "https://github.com/IDEA-Research/Rex-Thinker",
         "description": "Rex-Thinker: Grounded Object Refering via Chain-of-Thought Reasoning."
       }
     ],
     "AI Agents": [
       {
+        "name": "python-sdk",
+        "fullname": "modelcontextprotocol/python-sdk",
+        "url": "https://github.com/modelcontextprotocol/python-sdk",
+        "topics": [],
+        "description": "The official Python SDK for Model Context Protocol servers and clients"
+      },
+      {
         "name": "gemini-cli",
+        "fullname": "google-gemini/gemini-cli",
         "url": "https://github.com/google-gemini/gemini-cli",
         "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
       },
       {
         "name": "n8n",
+        "fullname": "n8n-io/n8n",
         "url": "https://github.com/n8n-io/n8n",
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
       },
       {
         "name": "openai-cs-agents-demo",
+        "fullname": "OpenAI/openai-cs-agents-demo",
         "url": "https://github.com/openai/openai-cs-agents-demo",
         "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK."
       },
       {
         "name": "agents-towards-production",
+        "fullname": "NirDiamant/agents-towards-production",
         "url": "https://github.com/NirDiamant/agents-towards-production",
         "description": "This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches."
       }
@@ -781,68 +1518,108 @@
     "Large Models": [
       {
         "name": "KnowCoder",
+        "fullname": "ICT-GoKnow/KnowCoder",
         "url": "https://github.com/ICT-GoKnow/KnowCoder",
         "description": "Official Repo of paper \"KnowCoder: Coding Structured Knowledge into LLMs for Universal Information Extraction\". In the paper, we propose KnowCoder, the most powerful large language model so far for universal information extraction."
       },
       {
         "name": "OmniGen2",
+        "fullname": "VectorSpaceLab/OmniGen2",
         "url": "https://github.com/VectorSpaceLab/OmniGen2",
         "description": "OmniGen2: Exploration to Advanced Multimodal Generation."
       },
       {
         "name": "vjepa2",
+        "fullname": "VectorSpaceLab/vjepa2",
         "url": "https://github.com/facebookresearch/vjepa2",
         "description": "PyTorch code and models for VJEPA2 self-supervised learning from video."
       },
       {
         "name": "ChartMimic",
+        "fullname": "ChartMimic/ChartMimic",
         "url": "https://github.com/ChartMimic/ChartMimic",
         "description": "[ICLR 2025] ChartMimic: Evaluating LMM’s Cross-Modal Reasoning Capability via Chart-to-Code Generation."
       },
       {
         "name": "Self-Forcing",
+        "fullname": "guandeh17/Self-Forcing",
         "url": "https://github.com/guandeh17/Self-Forcing",
         "description": "Self Forcing trains autoregressive video diffusion models by simulating the inference process during training, performing autoregressive rollout with KV caching. It resolves the train-test distribution mismatch and enables real-time, streaming video generation on a single RTX 4090 while matching the quality of state-of-the-art diffusion models."
       },
       {
         "name": "Zhongjing",
+        "fullname": "SupritYoung/Zhongjing",
         "url": "https://github.com/SupritYoung/Zhongjing",
         "description": "A Chinese medical ChatGPT based on LLaMa, training from large-scale pretrain corpus and multi-turn dialogue dataset."
       }
     ],
     "AI Applications": [
       {
+        "name": "Chat2DB",
+        "fullname": "CodePhiliaX/Chat2DB",
+        "url": "https://github.com/CodePhiliaX/Chat2DB",
+        "topics": [
+          "ai",
+          "bi",
+          "chatgpt",
+          "clickhouse",
+          "clickhouse-client",
+          "database",
+          "datagrip",
+          "db2",
+          "dbeaver",
+          "gpt",
+          "hive",
+          "mysql",
+          "navicat",
+          "oracle",
+          "postgresql",
+          "redis",
+          "redis-client",
+          "sqlserver",
+          "text2sql"
+        ],
+        "description": "🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more."
+      },
+      {
         "name": "VideoChat",
+        "fullname": "Henry-23/VideoChat",
         "url": "https://github.com/Henry-23/VideoChat",
         "description": "实时语音交互数字人，支持端到端语音方案（GLM-4-Voice - THG）和级联方案（ASR-LLM-TTS-THG）。可自定义形象与音色，无须训练，支持音色克隆，首包延迟低至3s。Real-time voice interactive digital human, supporting end-to-end voice solutions (GLM-4-Voice - THG) and cascaded solutions (ASR-LLM-TTS-THG). Customizable appearance and voice, supporting voice cloning, with initial package delay as low as 3s."
       },
       {
         "name": "echomimic_v2",
+        "fullname": "antgroup/echomimic_v2",
         "url": "https://github.com/antgroup/echomimic_v2",
         "description": "[CVPR 2025] EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation."
       },
       {
         "name": "Ultralight-Digital-Human",
+        "fullname": "anliyuan/Ultralight-Digital-Human",
         "url": "https://github.com/anliyuan/Ultralight-Digital-Human",
         "description": "一个超轻量级、可以在移动端实时运行的数字人模型."
       },
       {
         "name": "DH_live",
+        "fullname": "kleinlee/DH_live",
         "url": "https://github.com/kleinlee/DH_live",
         "description": "每个人都能用的数字人."
       },
       {
         "name": "LiveTalking",
+        "fullname": "lipku/LiveTalking",
         "url": "https://github.com/lipku/LiveTalking",
         "description": "Real time interactive streaming digital human."
       },
       {
         "name": "bisheng",
+        "fullname": "dataelement/bisheng",
         "url": "https://github.com/dataelement/bisheng",
         "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more."
       },
       {
         "name": "Comfyui_HeyGem",
+        "fullname": "billwuhao/Comfyui_HeyGem",
         "url": "https://github.com/billwuhao/Comfyui_HeyGem",
         "description": "HeyGem Digital Human Node for ComfyUI."
       }
@@ -853,16 +1630,19 @@
     "UI kit": [
       {
         "name": "info_popup",
+        "fullname": "SalihCanBinboga/info_popup",
         "url": "https://github.com/SalihCanBinboga/info_popup",
         "description": "The allows you to easily show a simple, customizable popup on your wrapped widget."
       },
       {
         "name": "fluentui-system-icons",
+        "fullname": "microsoft/fluentui-system-icons",
         "url": "https://github.com/microsoft/fluentui-system-icons",
         "description": "Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft."
       },
       {
         "name": "thermion",
+        "fullname": "nmfisher/thermion",
         "url": "https://github.com/nmfisher/thermion",
         "description": "3D rendering toolkit for Dart and/or Flutter."
       }
@@ -1006,17 +1786,112 @@
     "__root__": []
   },
   "DevOps / Tools": {
-    "__root__": []
+    "__root__": [
+      {
+        "name": "deno",
+        "fullname": "denoland/deno",
+        "url": "https://github.com/denoland/deno",
+        "topics": [
+          "deno",
+          "javascript",
+          "rust",
+          "typescript"
+        ],
+        "description": "A modern runtime for JavaScript and TypeScript."
+      },
+      {
+        "name": "bun",
+        "fullname": "oven-sh/bun",
+        "url": "https://github.com/oven-sh/bun",
+        "topics": [
+          "bun",
+          "bundler",
+          "javascript",
+          "javascriptcore",
+          "jsx",
+          "nodejs",
+          "npm",
+          "react",
+          "transpiler",
+          "typescript",
+          "zig",
+          "ziglang"
+        ],
+        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
+      }
+    ]
   },
   "Developer Productivity": {
     "Dart/Flutter Tools": [
       {
         "name": "layerlens",
+        "fullname": "polina-c/layerlens",
         "url": "https://github.com/polina-c/layerlens",
         "description": "Keep your code well structured."
       }
     ],
     "Easy Work Tools": [
+      {
+        "name": "any-to-pdf",
+        "fullname": "suraj-singh12/any-to-pdf",
+        "url": "https://github.com/suraj-singh12/any-to-pdf",
+        "topics": [
+          "docx",
+          "excel",
+          "hacktoberfest",
+          "hacktoberfest2022",
+          "pdf",
+          "pdf-generation",
+          "pptx",
+          "python",
+          "text",
+          "tkinter"
+        ],
+        "description": "Convert text, Docs, Ppt, Excel, and images to pdf files easily."
+      },
+      {
+        "name": "go-jsonstruct",
+        "fullname": "twpayne/go-jsonstruct",
+        "url": "https://github.com/twpayne/go-jsonstruct",
+        "topics": [
+          "go",
+          "golang",
+          "json",
+          "json-schema",
+          "schema",
+          "struct",
+          "yaml"
+        ],
+        "description": "Generate Go structs from multiple JSON or YAML objects."
+      },
+      {
+        "name": "quicktype",
+        "fullname": "glideapps/quicktype",
+        "url": "https://github.com/glideapps/quicktype",
+        "topics": [
+          "cplusplus",
+          "csharp",
+          "elm",
+          "golang",
+          "graphql",
+          "java",
+          "json",
+          "json-schema",
+          "kotlin",
+          "objective-c",
+          "rust",
+          "swift",
+          "typescript"
+        ],
+        "description": "Generate types and converters from JSON, Schema, and GraphQL"
+      },
+      {
+        "name": "re2",
+        "fullname": "google/re2",
+        "url": "https://github.com/google/re2",
+        "topics": [],
+        "description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library."
+      },
       {
         "name": "RedisFish",
         "fullname": "hunter-ji/RedisFish",
@@ -1046,6 +1921,7 @@
       },
       {
         "name": "mermaid",
+        "fullname": "mermaid-js/mermaid",
         "url": "https://github.com/mermaid-js/mermaid",
         "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown."
       }
@@ -1053,12 +1929,105 @@
     "__root__": []
   },
   "Experimental / Fun Projects": {
-    "__root__": []
+    "__root__": [
+      {
+        "name": "Programming-Language-Benchmarks",
+        "fullname": "hanabi1224/Programming-Language-Benchmarks",
+        "url": "https://github.com/hanabi1224/Programming-Language-Benchmarks",
+        "topics": [
+          "benchmark",
+          "benchmarks",
+          "benchmarks-game",
+          "ci-job",
+          "crystal",
+          "csharp",
+          "go",
+          "golang",
+          "java",
+          "javascript",
+          "kotlin",
+          "kotlin-native",
+          "nim",
+          "rust",
+          "typescript",
+          "vlang",
+          "vue"
+        ],
+        "description": "Yet another implementation of computer language benchmarks game"
+      },
+      {
+        "name": "Nuitka",
+        "fullname": "Nuitka/Nuitka",
+        "url": "https://github.com/Nuitka/Nuitka",
+        "topics": [
+          "compiler",
+          "nuitka",
+          "packaging-tool",
+          "performance",
+          "programming",
+          "python",
+          "python-compiler"
+        ],
+        "description": "Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module. "
+      },
+      {
+        "name": "nom",
+        "fullname": "rust-bakery/nom",
+        "url": "https://github.com/rust-bakery/nom",
+        "topics": [
+          "byte-array",
+          "grammar",
+          "nom",
+          "parse",
+          "parser",
+          "parser-combinators",
+          "rust"
+        ],
+        "description": "Rust parser combinator framework"
+      },
+      {
+        "name": "wasmtime-py",
+        "fullname": "bytecodealliance/wasmtime-py",
+        "url": "https://github.com/bytecodealliance/wasmtime-py",
+        "topics": [
+          "python",
+          "wasm",
+          "wasmtime"
+        ],
+        "description": "Python WebAssembly runtime powered by Wasmtime"
+      },
+      {
+        "name": "pdfminer.six",
+        "fullname": "pdfminer/pdfminer.six",
+        "url": "https://github.com/pdfminer/pdfminer.six",
+        "topics": [
+          "parser",
+          "pdf",
+          "python"
+        ],
+        "description": "Community maintained fork of pdfminer - we fathom PDF"
+      },
+      {
+        "name": "quickjs",
+        "fullname": "bellard/quickjs",
+        "url": "https://github.com/bellard/quickjs",
+        "topics": [],
+        "description": "QuickJS是一个小型并且可嵌入的Javascript引擎，它支持ES2020规范，包括模块，异步生成器和代理器."
+      },
+      {
+        "name": "mako",
+        "fullname": "sqlalchemy/mako",
+        "url": "https://github.com/sqlalchemy/mako",
+        "topics": [],
+        "description": "Mako Templates for Python"
+      }
+    ]
   },
   "Mature Open Source Projects (CRM / ERP / CMS)": {
     "CRM / ERP / CMS": [
       {
         "name": "twenty",
+        "fullname": "twentyhq/twenty",
         "url": "https://github.com/twentyhq/twenty",
         "description": "Building a modern alternative to Salesforce, powered by the community."
       }
@@ -1069,7 +2038,44 @@
   "Guides / Handbooks / Tutorials": {
     "__root__": [
       {
+        "name": "docs",
+        "fullname": "dotnet/docs",
+        "url": "https://github.com/dotnet/docs",
+        "topics": [
+          "csharp",
+          "dotnet",
+          "dotnet-core",
+          "fsharp",
+          "hacktoberfest",
+          "visual-basic"
+        ],
+        "description": "This repository contains .NET Documentation."
+      },
+      {
+        "name": "Python",
+        "fullname": "TheAlgorithms/Python",
+        "url": "https://github.com/TheAlgorithms/Python",
+        "topics": [
+          "algorithm",
+          "algorithm-competitions",
+          "algorithms-implemented",
+          "algos",
+          "community-driven",
+          "education",
+          "hacktoberfest",
+          "interview",
+          "learn",
+          "practice",
+          "python",
+          "searches",
+          "sorting-algorithms",
+          "sorts"
+        ],
+        "description": "All Algorithms implemented in Python"
+      },
+      {
         "name": "data-engineer-handbook",
+        "fullname": "DataExpert-io/data-engineer-handbook",
         "url": "https://github.com/DataExpert-io/data-engineer-handbook",
         "description": "This is a repo with links to everything you'd ever want to learn about data engineering."
       }
@@ -1079,6 +2085,7 @@
     "__root__": [
       {
         "name": "Chinese-instruction-datasets",
+        "fullname": "xv44586/Chinese-instruction-datasets",
         "url": "https://github.com/xv44586/Chinese-instruction-datasets",
         "description": "中文 Instruction tuning datasets."
       }
