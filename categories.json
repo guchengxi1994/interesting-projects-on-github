@@ -2001,6 +2001,188 @@
   "Artificial Intelligence / Machine Learning": {
     "Researches": [
       {
+        "name": "graphrag",
+        "fullname": "microsoft/graphrag",
+        "url": "https://github.com/microsoft/graphrag",
+        "topics": [
+          "gpt",
+          "gpt-4",
+          "gpt4",
+          "graphrag",
+          "llm",
+          "llms",
+          "rag"
+        ],
+        "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system"
+      },
+      {
+        "name": "sapiens",
+        "fullname": "facebookresearch/sapiens",
+        "url": "https://github.com/facebookresearch/sapiens",
+        "topics": [],
+        "description": "High-resolution models for human tasks."
+      },
+      {
+        "name": "Liger-Kernel",
+        "fullname": "linkedin/Liger-Kernel",
+        "url": "https://github.com/linkedin/Liger-Kernel",
+        "topics": [
+          "finetuning",
+          "gemma2",
+          "llama",
+          "llama3",
+          "llm-training",
+          "llms",
+          "mistral",
+          "phi3",
+          "triton",
+          "triton-kernels"
+        ],
+        "description": "Efficient Triton Kernels for LLM Training"
+      },
+      {
+        "name": "LongWriter",
+        "fullname": "THUDM/LongWriter",
+        "url": "https://github.com/THUDM/LongWriter",
+        "topics": [
+          "fine-tuning",
+          "llm",
+          "long-context",
+          "long-text"
+        ],
+        "description": "[ICLR 2025] LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs"
+      },
+      {
+        "name": "FaceDetection-DSFD",
+        "fullname": "Tencent/FaceDetection-DSFD",
+        "url": "https://github.com/Tencent/FaceDetection-DSFD",
+        "topics": [],
+        "description": "腾讯优图高精度双分支人脸检测器"
+      },
+      {
+        "name": "BiSeNet",
+        "fullname": "CoinCheung/BiSeNet",
+        "url": "https://github.com/CoinCheung/BiSeNet",
+        "topics": [
+          "ade20k",
+          "bisenet",
+          "cityscapes",
+          "cocostuff",
+          "ncnn",
+          "openvino",
+          "pytorch",
+          "tensorrt",
+          "triton-inference-server"
+        ],
+        "description": "Add bisenetv2.  My implementation of BiSeNet"
+      },
+      {
+        "name": "Global-Flow-Local-Attention",
+        "fullname": "RenYurui/Global-Flow-Local-Attention",
+        "url": "https://github.com/RenYurui/Global-Flow-Local-Attention",
+        "topics": [
+          "cvpr2020",
+          "spatial-transformer-network"
+        ],
+        "description": "The source code for paper \"Deep Image Spatial Transformation for Person Image Generation\""
+      },
+      {
+        "name": "GroundingDINO",
+        "fullname": "IDEA-Research/GroundingDINO",
+        "url": "https://github.com/IDEA-Research/GroundingDINO",
+        "topics": [
+          "object-detection",
+          "open-world",
+          "open-world-detection",
+          "vision-language",
+          "vision-language-transformer"
+        ],
+        "description": "[ECCV 2024] Official implementation of the paper \"Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection\""
+      },
+      {
+        "name": "Image-Forgery-Detection-using-Deep-learning",
+        "fullname": "HXM14/Image-Forgery-Detection-using-Deep-learning",
+        "url": "https://github.com/HXM14/Image-Forgery-Detection-using-Deep-learning",
+        "topics": [
+          "copy-move",
+          "deep-learning",
+          "detect-tampring",
+          "ela",
+          "forgery",
+          "image-forgery-detection",
+          "models-traind",
+          "neural-network",
+          "pretraind-models",
+          "splicing"
+        ],
+        "description": "Image Forgery Detection using Deep learning Graduation project"
+      },
+      {
+        "name": "DEVIANT",
+        "fullname": "abhi1kumar/DEVIANT",
+        "url": "https://github.com/abhi1kumar/DEVIANT",
+        "topics": [
+          "3d-computer-vision",
+          "3d-object-detection",
+          "autonomous-driving",
+          "autonomous-vehicle",
+          "depth-equivariance",
+          "eccv",
+          "eccv-2022",
+          "eccv2022",
+          "equivariance",
+          "geometric-deep-learning",
+          "kitti-3d",
+          "monocular-3d-detection",
+          "monocular-3d-localization",
+          "nuscenes",
+          "object-detection",
+          "one-stage-detector",
+          "projective-geometry",
+          "projective-manifold",
+          "waymo"
+        ],
+        "description": "[ECCV 2022] Official PyTorch Code of DEVIANT: Depth Equivariant Network for Monocular 3D Object Detection"
+      },
+      {
+        "name": "Open-GroundingDino",
+        "fullname": "longzw1997/Open-GroundingDino",
+        "url": "https://github.com/longzw1997/Open-GroundingDino",
+        "topics": [
+          "object-detection",
+          "open-world",
+          "open-world-detection",
+          "vision-language"
+        ],
+        "description": "This is the third party implementation of the paper Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection."
+      },
+      {
+        "name": "RT-DETR",
+        "fullname": "lyuwenyu/RT-DETR",
+        "url": "https://github.com/lyuwenyu/RT-DETR",
+        "topics": [
+          "rtdetr",
+          "rtdetrv2"
+        ],
+        "description": "[CVPR 2024] Official RT-DETR (RTDETR paddle pytorch), Real-Time DEtection TRansformer, DETRs Beat YOLOs on Real-time Object Detection. 🔥 🔥 🔥 "
+      },
+      {
+        "name": "Swin-Transformer",
+        "fullname": "microsoft/Swin-Transformer",
+        "url": "https://github.com/microsoft/Swin-Transformer",
+        "topics": [
+          "ade20k",
+          "image-classification",
+          "imagenet",
+          "mask-rcnn",
+          "mscoco",
+          "object-detection",
+          "semantic-segmentation",
+          "swin-transformer"
+        ],
+        "description": "This is an official implementation for \"Swin Transformer: Hierarchical Vision Transformer using Shifted Windows\"."
+      },
+      {
         "name": "ComfyUI-GGUF",
         "fullname": "city96/ComfyUI-GGUF",
         "url": "https://github.com/city96/ComfyUI-GGUF",
@@ -2298,6 +2480,403 @@
     ],
     "Tools": [
       {
+        "name": "lancedb",
+        "fullname": "lancedb/lancedb",
+        "url": "https://github.com/lancedb/lancedb",
+        "topics": [
+          "approximate-nearest-neighbor-search",
+          "image-search",
+          "nearest-neighbor-search",
+          "recommender-system",
+          "search-engine",
+          "semantic-search",
+          "similarity-search",
+          "vector-database"
+        ],
+        "description": "Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less."
+      },
+      {
+        "name": "OmniParser",
+        "fullname": "microsoft/OmniParser",
+        "url": "https://github.com/microsoft/OmniParser",
+        "topics": [],
+        "description": "A simple screen parsing tool towards pure vision based GUI agent"
+      },
+      {
+        "name": "composio",
+        "fullname": "ComposioHQ/composio",
+        "url": "https://github.com/ComposioHQ/composio",
+        "topics": [
+          "agents",
+          "ai",
+          "ai-agents",
+          "aiagents",
+          "developer-tools",
+          "function-calling",
+          "gpt-4",
+          "gpt-4o",
+          "hacktoberfest",
+          "hacktoberfest2024",
+          "javascript",
+          "js",
+          "llm",
+          "llmops",
+          "python",
+          "typescript"
+        ],
+        "description": "Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling"
+      },
+      {
+        "name": "OneKE",
+        "fullname": "zjunlp/OneKE",
+        "url": "https://github.com/zjunlp/OneKE",
+        "topics": [
+          "agent",
+          "agents",
+          "artificial-intelligence",
+          "event-extraction",
+          "information-extraction",
+          "knowledge-extraction",
+          "knowledge-graph",
+          "large-language-models",
+          "multi-agent",
+          "named-entity-recognition",
+          "natural-language-processing",
+          "ner",
+          "oneke",
+          "openie",
+          "relation-extraction",
+          "schema"
+        ],
+        "description": "[WWW 2025] A Dockerized Schema-Guided LLM Agent-based Knowledge Extraction System."
+      },
+      {
+        "name": "qodo-cover",
+        "fullname": "qodo-ai/qodo-cover",
+        "url": "https://github.com/qodo-ai/qodo-cover",
+        "topics": [
+          "agents",
+          "ai",
+          "test-automation",
+          "testing"
+        ],
+        "description": "Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞"
+      },
+      {
+        "name": "ml-depth-pro",
+        "fullname": "apple/ml-depth-pro",
+        "url": "https://github.com/apple/ml-depth-pro",
+        "topics": [],
+        "description": "Depth Pro: Sharp Monocular Metric Depth in Less Than a Second."
+      },
+      {
+        "name": "cvat",
+        "fullname": "cvat-ai/cvat",
+        "url": "https://github.com/cvat-ai/cvat",
+        "topics": [
+          "annotation",
+          "annotation-tool",
+          "annotations",
+          "boundingbox",
+          "computer-vision",
+          "computer-vision-annotation",
+          "dataset",
+          "deep-learning",
+          "image-annotation",
+          "image-classification",
+          "image-labeling",
+          "image-labelling-tool",
+          "imagenet",
+          "labeling",
+          "labeling-tool",
+          "object-detection",
+          "pytorch",
+          "semantic-segmentation",
+          "tensorflow",
+          "video-annotation"
+        ],
+        "description": "Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale."
+      },
+      {
+        "name": "ybat",
+        "fullname": "drainingsun/ybat",
+        "url": "https://github.com/drainingsun/ybat",
+        "topics": [
+          "annotation-tool",
+          "annotator",
+          "bbox",
+          "bounding-boxes",
+          "yolo",
+          "yolo-9000",
+          "yolo-bbox-annotation",
+          "yolo-format",
+          "yolov2"
+        ],
+        "description": "Ybat - YOLO BBox Annotation Tool"
+      },
+      {
+        "name": "Rectlabel-support",
+        "fullname": "ryouchinsa/Rectlabel-support",
+        "url": "https://github.com/ryouchinsa/Rectlabel-support",
+        "topics": [
+          "annotation-tool",
+          "annotations",
+          "detection",
+          "detectron",
+          "faster-rcnn",
+          "image-annotation",
+          "image-classification",
+          "imagenet",
+          "label-images",
+          "labelling",
+          "mask-rcnn",
+          "object-detection",
+          "polygon",
+          "segmentation",
+          "ssd",
+          "tensorflow",
+          "tools",
+          "turicreate",
+          "video-annotation",
+          "yolo"
+        ],
+        "description": "RectLabel is an offline image annotation tool for object detection and segmentation."
+      },
+      {
+        "name": "insightface",
+        "fullname": "deepinsight/insightface",
+        "url": "https://github.com/deepinsight/insightface",
+        "topics": [
+          "age-estimation",
+          "arcface",
+          "face-alignment",
+          "face-detection",
+          "face-recognition",
+          "mxnet",
+          "oneflow",
+          "paddlepaddle",
+          "pytorch",
+          "retinaface"
+        ],
+        "description": "State-of-the-art 2D and 3D Face Analysis Project"
+      },
+      {
+        "name": "efficientdet-keras",
+        "fullname": "bubbliiiing/efficientdet-keras",
+        "url": "https://github.com/bubbliiiing/efficientdet-keras",
+        "topics": [],
+        "description": "这是一个efficientdet-keras的源码，可以用于训练自己的模型。"
+      },
+      {
+        "name": "Pytorch_Retinaface",
+        "fullname": "biubug6/Pytorch_Retinaface",
+        "url": "https://github.com/biubug6/Pytorch_Retinaface",
+        "topics": [],
+        "description": "Retinaface get 80.99% in widerface hard val using mobilenet0.25."
+      },
+      {
+        "name": "face-seg",
+        "fullname": "kampta/face-seg",
+        "url": "https://github.com/kampta/face-seg",
+        "topics": [],
+        "description": "Semantic segmentation for hair, face and background"
+      },
+      {
+        "name": "jetson-inference",
+        "fullname": "dusty-nv/jetson-inference",
+        "url": "https://github.com/dusty-nv/jetson-inference",
+        "topics": [
+          "caffe",
+          "computer-vision",
+          "deep-learning",
+          "digits",
+          "embedded",
+          "image-recognition",
+          "inference",
+          "jetson",
+          "jetson-nano",
+          "jetson-tx1",
+          "jetson-tx2",
+          "jetson-xavier",
+          "jetson-xavier-nx",
+          "machine-learning",
+          "nvidia",
+          "object-detection",
+          "robotics",
+          "segmentation",
+          "tensorrt",
+          "video-analytics"
+        ],
+        "description": "Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson."
+      },
+      {
+        "name": "face-parsing.PyTorch",
+        "fullname": "zllrunning/face-parsing.PyTorch",
+        "url": "https://github.com/zllrunning/face-parsing.PyTorch",
+        "topics": [
+          "bisenet",
+          "celeba-hq-dataset",
+          "face-parsing",
+          "face-segmentation",
+          "pytorch",
+          "semantic-segmentation"
+        ],
+        "description": "Using modified BiSeNet for face parsing in PyTorch"
+      },
+      {
+        "name": "openpose",
+        "fullname": "CMU-Perceptual-Computing-Lab/openpose",
+        "url": "https://github.com/CMU-Perceptual-Computing-Lab/openpose",
+        "topics": [
+          "caffe",
+          "computer-vision",
+          "cpp",
+          "cvpr-2017",
+          "deep-learning",
+          "face",
+          "foot-estimation",
+          "hand-estimation",
+          "human-behavior-understanding",
+          "human-pose",
+          "human-pose-estimation",
+          "keypoint-detection",
+          "keypoints",
+          "machine-learning",
+          "multi-person",
+          "opencv",
+          "openpose",
+          "pose",
+          "pose-estimation",
+          "real-time"
+        ],
+        "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation"
+      },
+      {
+        "name": "AlphaPose",
+        "fullname": "MVIG-SJTU/AlphaPose",
+        "url": "https://github.com/MVIG-SJTU/AlphaPose",
+        "topics": [
+          "accurate",
+          "alpha-pose",
+          "alphapose",
+          "crowdpose",
+          "full-body",
+          "gpu",
+          "human-computer-interaction",
+          "human-joints",
+          "human-pose-estimation",
+          "human-pose-tracking",
+          "human-tracking",
+          "keypoints",
+          "person-pose-estimation",
+          "pose-estimation",
+          "posetracking",
+          "pytorch",
+          "realtime",
+          "skeleton",
+          "tracking",
+          "whole-body"
+        ],
+        "description": "Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System"
+      },
+      {
+        "name": "forensic",
+        "fullname": "esimov/forensic",
+        "url": "https://github.com/esimov/forensic",
+        "topics": [
+          "computer-vision",
+          "dct",
+          "digital-signal-processing",
+          "forgery-detection",
+          "golang",
+          "image-forensics",
+          "image-processing"
+        ],
+        "description": "Copy-move image forgery detection library."
+      },
+      {
+        "name": "pimage",
+        "fullname": "rnazali/pimage",
+        "url": "https://github.com/rnazali/pimage",
+        "topics": [
+          "attack",
+          "copy-move",
+          "copy-paste",
+          "forensics",
+          "fraud",
+          "image",
+          "image-processing",
+          "python"
+        ],
+        "description": "Image copy-move detector"
+      },
+      {
+        "name": "osam",
+        "fullname": "wkentaro/osam",
+        "url": "https://github.com/wkentaro/osam",
+        "topics": [
+          "computer-vision",
+          "deep-learning",
+          "foundation-models",
+          "onnx",
+          "segment-anything"
+        ],
+        "description": "Get up and running with SAM, EfficientSAM, YOLO-World, and other promptable vision models locally."
+      },
+      {
+        "name": "supervision",
+        "fullname": "roboflow/supervision",
+        "url": "https://github.com/roboflow/supervision",
+        "topics": [
+          "classification",
+          "coco",
+          "computer-vision",
+          "deep-learning",
+          "hacktoberfest",
+          "image-processing",
+          "instance-segmentation",
+          "low-code",
+          "machine-learning",
+          "metrics",
+          "object-detection",
+          "oriented-bounding-box",
+          "pascal-voc",
+          "python",
+          "pytorch",
+          "tensorflow",
+          "tracking",
+          "video-processing",
+          "yolo"
+        ],
+        "description": "We write your reusable computer vision tools. 💜"
+      },
+      {
+        "name": "facefusion",
+        "fullname": "facefusion/facefusion",
+        "url": "https://github.com/facefusion/facefusion",
+        "topics": [
+          "ai",
+          "deep-fake",
+          "deepfake",
+          "face-swap",
+          "faceswap",
+          "lip-sync",
+          "lipsync"
+        ],
+        "description": "Industry leading face manipulation platform"
+      },
+      {
+        "name": "puck",
+        "fullname": "baidu/puck",
+        "url": "https://github.com/baidu/puck",
+        "topics": [
+          "ann",
+          "benchmark",
+          "search"
+        ],
+        "description": "Puck is a high-performance ANN search engine"
+      },
+      {
         "name": "opencv",
         "fullname": "opencv/opencv",
         "url": "https://github.com/opencv/opencv",
@@ -2377,6 +2956,116 @@
       }
     ],
     "AI Frameworks": [
+      {
+        "name": "gym",
+        "fullname": "openai/gym",
+        "url": "https://github.com/openai/gym",
+        "topics": [],
+        "description": "A toolkit for developing and comparing reinforcement learning algorithms."
+      },
+      {
+        "name": "darknet",
+        "fullname": "AlexeyAB/darknet",
+        "url": "https://github.com/AlexeyAB/darknet",
+        "topics": [
+          "computer-vision",
+          "deep-learning",
+          "deep-learning-tutorial",
+          "deep-neural-networks",
+          "dnn",
+          "neural-network",
+          "object-detection",
+          "scaled-yolov4",
+          "scaledyolov4",
+          "yolo",
+          "yolov3",
+          "yolov4"
+        ],
+        "description": "YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet )"
+      },
+      {
+        "name": "gocv",
+        "fullname": "hybridgroup/gocv",
+        "url": "https://github.com/hybridgroup/gocv",
+        "topics": [
+          "computer-vision",
+          "computervision",
+          "cuda",
+          "dnn",
+          "face-tracking",
+          "gocv",
+          "golang",
+          "image-processing",
+          "mjpeg",
+          "mjpeg-stream",
+          "object-classification",
+          "object-tracking",
+          "onnx",
+          "opencv",
+          "openvino",
+          "tensorflow",
+          "video",
+          "video-capture",
+          "yolo"
+        ],
+        "description": "Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO."
+      },
+      {
+        "name": "ultralytics",
+        "fullname": "ultralytics/ultralytics",
+        "url": "https://github.com/ultralytics/ultralytics",
+        "topics": [
+          "cli",
+          "computer-vision",
+          "deep-learning",
+          "hub",
+          "image-classification",
+          "instance-segmentation",
+          "machine-learning",
+          "object-detection",
+          "pose-estimation",
+          "python",
+          "pytorch",
+          "rotated-object-detection",
+          "segment-anything",
+          "tracking",
+          "ultralytics",
+          "yolo",
+          "yolo-world",
+          "yolo11",
+          "yolov10",
+          "yolov8"
+        ],
+        "description": "Ultralytics YOLO11 🚀"
+      },
+      {
+        "name": "mmdetection",
+        "fullname": "open-mmlab/mmdetection",
+        "url": "https://github.com/open-mmlab/mmdetection",
+        "topics": [
+          "cascade-rcnn",
+          "convnext",
+          "detr",
+          "fast-rcnn",
+          "faster-rcnn",
+          "glip",
+          "grounding-dino",
+          "instance-segmentation",
+          "mask-rcnn",
+          "object-detection",
+          "panoptic-segmentation",
+          "pytorch",
+          "retinanet",
+          "rtmdet",
+          "semisupervised-learning",
+          "ssd",
+          "swin-transformer",
+          "transformer",
+          "vision-transformer",
+          "yolo"
+        ],
+        "description": "OpenMMLab Detection Toolbox and Benchmark"
+      },
       {
         "name": "ai",
         "fullname": "vercel/ai",
@@ -2934,6 +3623,76 @@
     ],
     "Object Detector": [
       {
+        "name": "yolov5",
+        "fullname": "ultralytics/yolov5",
+        "url": "https://github.com/ultralytics/yolov5",
+        "topics": [
+          "coreml",
+          "deep-learning",
+          "ios",
+          "machine-learning",
+          "ml",
+          "object-detection",
+          "onnx",
+          "pytorch",
+          "tflite",
+          "ultralytics",
+          "yolo",
+          "yolov3",
+          "yolov5"
+        ],
+        "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite"
+      },
+      {
+        "name": "yolov7",
+        "fullname": "WongKinYiu/yolov7",
+        "url": "https://github.com/WongKinYiu/yolov7",
+        "topics": [
+          "darknet",
+          "pytorch",
+          "scaled-yolov4",
+          "yolor",
+          "yolov3",
+          "yolov4",
+          "yolov7"
+        ],
+        "description": "Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors"
+      },
+      {
+        "name": "ncnn-android-yolo11",
+        "fullname": "nihui/ncnn-android-yolo11",
+        "url": "https://github.com/nihui/ncnn-android-yolo11",
+        "topics": [
+          "android",
+          "classification",
+          "detection",
+          "ncnn",
+          "obb",
+          "pose-estimation",
+          "realtime",
+          "segmentation",
+          "yolo",
+          "yolo11"
+        ],
+        "description": "ncnn android yolo11 realtime detection, segmentation, pose estimation, classification and obb"
+      },
+      {
+        "name": "yolov9",
+        "fullname": "WongKinYiu/yolov9",
+        "url": "https://github.com/WongKinYiu/yolov9",
+        "topics": [
+          "yolov9"
+        ],
+        "description": "Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information"
+      },
+      {
+        "name": "yolov10",
+        "fullname": "THU-MIG/yolov10",
+        "url": "https://github.com/THU-MIG/yolov10",
+        "topics": [],
+        "description": "YOLOv10: Real-Time End-to-End Object Detection [NeurIPS 2024] "
+      },
+      {
         "name": "D-FINE",
         "fullname": "Peterande/D-FINE",
         "url": "https://github.com/Peterande/D-FINE",
@@ -2947,6 +3706,357 @@
       }
     ],
     "AI Agents": [
+      {
+        "name": "swarm",
+        "fullname": "openai/swarm",
+        "url": "https://github.com/openai/swarm",
+        "topics": [],
+        "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team."
+      },
+      {
+        "name": "openai-realtime-agents",
+        "fullname": "openai/openai-realtime-agents",
+        "url": "https://github.com/openai/openai-realtime-agents",
+        "topics": [],
+        "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API."
+      },
+      {
+        "name": "mastra",
+        "fullname": "mastra-ai/mastra",
+        "url": "https://github.com/mastra-ai/mastra",
+        "topics": [
+          "agents",
+          "ai",
+          "chatbots",
+          "evals",
+          "javascript",
+          "llm",
+          "mcp",
+          "nextjs",
+          "nodejs",
+          "reactjs",
+          "tts",
+          "typescript",
+          "workflows"
+        ],
+        "description": "The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama."
+      },
+      {
+        "name": "dify",
+        "fullname": "langgenius/dify",
+        "url": "https://github.com/langgenius/dify",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "agentic-framework",
+          "agentic-workflow",
+          "ai",
+          "automation",
+          "gemini",
+          "genai",
+          "gpt",
+          "gpt-4",
+          "llm",
+          "low-code",
+          "mcp",
+          "nextjs",
+          "no-code",
+          "openai",
+          "orchestration",
+          "python",
+          "rag",
+          "workflow"
+        ],
+        "description": "Production-ready platform for agentic workflow development."
+      },
+      {
+        "name": "owl",
+        "fullname": "camel-ai/owl",
+        "url": "https://github.com/camel-ai/owl",
+        "topics": [
+          "agent",
+          "artificial-intelligence",
+          "multi-agent-systems",
+          "task-automation",
+          "web-interaction"
+        ],
+        "description": "🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+      },
+      {
+        "name": "Archon",
+        "fullname": "coleam00/Archon",
+        "url": "https://github.com/coleam00/Archon",
+        "topics": [],
+        "description": "Archon is an AI agent that is able to create other AI agents using an advanced agentic coding workflow and framework knowledge base to unlock a new frontier of automated agents."
+      },
+      {
+        "name": "Second-Me",
+        "fullname": "mindverse/Second-Me",
+        "url": "https://github.com/mindverse/Second-Me",
+        "topics": [],
+        "description": "Train your AI self, amplify you, bridge the world"
+      },
+      {
+        "name": "openai-agents-python",
+        "fullname": "openai/openai-agents-python",
+        "url": "https://github.com/openai/openai-agents-python",
+        "topics": [
+          "agents",
+          "ai",
+          "framework",
+          "llm",
+          "openai",
+          "python"
+        ],
+        "description": "A lightweight, powerful framework for multi-agent workflows"
+      },
+      {
+        "name": "A2A",
+        "fullname": "a2aproject/A2A",
+        "url": "https://github.com/a2aproject/A2A",
+        "topics": [
+          "a2a",
+          "a2a-mcp",
+          "a2a-protocol",
+          "a2a-server",
+          "agents",
+          "generative-ai"
+        ],
+        "description": "An open protocol enabling communication and interoperability between opaque agentic applications."
+      },
+      {
+        "name": "browser-use",
+        "fullname": "browser-use/browser-use",
+        "url": "https://github.com/browser-use/browser-use",
+        "topics": [
+          "ai-agents",
+          "ai-tools",
+          "browser-automation",
+          "browser-use",
+          "llm",
+          "playwright",
+          "python"
+        ],
+        "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+      },
+      {
+        "name": "RD-Agent",
+        "fullname": "microsoft/RD-Agent",
+        "url": "https://github.com/microsoft/RD-Agent",
+        "topics": [
+          "agent",
+          "ai",
+          "automation",
+          "data-mining",
+          "data-science",
+          "development",
+          "llm",
+          "research"
+        ],
+        "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report"
+      },
+      {
+        "name": "suna",
+        "fullname": "kortix-ai/suna",
+        "url": "https://github.com/kortix-ai/suna",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "llm"
+        ],
+        "description": "Suna - Open Source Generalist AI Agent"
+      },
+      {
+        "name": "graphiti",
+        "fullname": "getzep/graphiti",
+        "url": "https://github.com/getzep/graphiti",
+        "topics": [
+          "agents",
+          "graph",
+          "llms",
+          "rag"
+        ],
+        "description": "Build Real-Time Knowledge Graphs for AI Agents"
+      },
+      {
+        "name": "SuperAGI",
+        "fullname": "TransformerOptimus/SuperAGI",
+        "url": "https://github.com/TransformerOptimus/SuperAGI",
+        "topics": [
+          "agents",
+          "agi",
+          "ai",
+          "artificial-general-intelligence",
+          "artificial-intelligence",
+          "autonomous-agents",
+          "gpt-4",
+          "hacktoberfest",
+          "llm",
+          "llmops",
+          "nextjs",
+          "openai",
+          "pinecone",
+          "python",
+          "superagi"
+        ],
+        "description": "<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably."
+      },
+      {
+        "name": "langflow",
+        "fullname": "langflow-ai/langflow",
+        "url": "https://github.com/langflow-ai/langflow",
+        "topics": [
+          "agents",
+          "chatgpt",
+          "generative-ai",
+          "large-language-models",
+          "multiagent",
+          "react-flow"
+        ],
+        "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows."
+      },
+      {
+        "name": "generative_agents",
+        "fullname": "joonspk-research/generative_agents",
+        "url": "https://github.com/joonspk-research/generative_agents",
+        "topics": [],
+        "description": "Generative Agents: Interactive Simulacra of Human Behavior"
+      },
+      {
+        "name": "magentic-ui",
+        "fullname": "microsoft/magentic-ui",
+        "url": "https://github.com/microsoft/magentic-ui",
+        "topics": [
+          "agents",
+          "ai",
+          "ai-ux",
+          "autogen",
+          "browser-use",
+          "computer-use-agent",
+          "cua",
+          "ui"
+        ],
+        "description": "A research prototype of a human-centered web agent"
+      },
+      {
+        "name": "agenticSeek",
+        "fullname": "Fosowl/agenticSeek",
+        "url": "https://github.com/Fosowl/agenticSeek",
+        "topics": [
+          "agentic-ai",
+          "agents",
+          "ai",
+          "autonomous-agents",
+          "deepseek-r1",
+          "llm",
+          "llm-agents",
+          "voice-assistant"
+        ],
+        "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake)"
+      },
+      {
+        "name": "cognee",
+        "fullname": "topoteretes/cognee",
+        "url": "https://github.com/topoteretes/cognee",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-memory",
+          "cognitive-architecture",
+          "cognitive-memory",
+          "contributions-welcome",
+          "good-first-issue",
+          "good-first-pr",
+          "graph-database",
+          "graph-rag",
+          "graphrag",
+          "help-wanted",
+          "knowledge",
+          "knowledge-graph",
+          "neo4j",
+          "open-source",
+          "openai",
+          "rag",
+          "vector-database"
+        ],
+        "description": "Memory for AI Agents in 5 lines of code"
+      },
+      {
+        "name": "Flowise",
+        "fullname": "FlowiseAI/Flowise",
+        "url": "https://github.com/FlowiseAI/Flowise",
+        "topics": [
+          "agentic-ai",
+          "agentic-workflow",
+          "agents",
+          "artificial-intelligence",
+          "chatbot",
+          "chatgpt",
+          "javascript",
+          "langchain",
+          "large-language-models",
+          "low-code",
+          "multiagent-systems",
+          "no-code",
+          "openai",
+          "rag",
+          "react",
+          "typescript",
+          "workflow-automation"
+        ],
+        "description": "Build AI Agents, Visually"
+      },
+      {
+        "name": "agno",
+        "fullname": "agno-agi/agno",
+        "url": "https://github.com/agno-agi/agno",
+        "topics": [
+          "agents",
+          "agi",
+          "ai",
+          "developer-tools",
+          "framework",
+          "python"
+        ],
+        "description": "Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning."
+      },
+      {
+        "name": "langgraph",
+        "fullname": "langchain-ai/langgraph",
+        "url": "https://github.com/langchain-ai/langgraph",
+        "topics": [],
+        "description": "Build resilient language agents as graphs."
+      },
+      {
+        "name": "MoA",
+        "fullname": "togethercomputer/MoA",
+        "url": "https://github.com/togethercomputer/MoA",
+        "topics": [],
+        "description": "Together Mixture-Of-Agents (MoA) –  65.1% on AlpacaEval with OSS models"
+      },
+      {
+        "name": "mem0",
+        "fullname": "mem0ai/mem0",
+        "url": "https://github.com/mem0ai/mem0",
+        "topics": [
+          "agent",
+          "ai",
+          "aiagent",
+          "application",
+          "chatbots",
+          "chatgpt",
+          "embeddings",
+          "llm",
+          "long-term-memory",
+          "memory",
+          "memory-management",
+          "python",
+          "rag",
+          "state-management",
+          "vector-database"
+        ],
+        "description": "Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management."
+      },
       {
         "name": "python-sdk",
         "fullname": "modelcontextprotocol/python-sdk",
@@ -3019,6 +4129,125 @@
       }
     ],
     "AI Applications": [
+      {
+        "name": "deer-flow",
+        "fullname": "bytedance/deer-flow",
+        "url": "https://github.com/bytedance/deer-flow",
+        "topics": [
+          "agent",
+          "agentic",
+          "agentic-framework",
+          "agentic-workflow",
+          "ai",
+          "ai-agents",
+          "bytedance",
+          "deep-research",
+          "langchain",
+          "langgraph",
+          "langmanus",
+          "llm",
+          "multi-agent",
+          "nodejs",
+          "podcast",
+          "python",
+          "typescript"
+        ],
+        "description": "DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community."
+      },
+      {
+        "name": "chat2graph",
+        "fullname": "TuGraph-family/chat2graph",
+        "url": "https://github.com/TuGraph-family/chat2graph",
+        "topics": [
+          "agent",
+          "chatbot",
+          "chatgpt",
+          "database",
+          "genai",
+          "graph",
+          "graphrag",
+          "knowledge-base",
+          "knowledge-graph",
+          "llm",
+          "multi-agent-system",
+          "multi-modal",
+          "nlp",
+          "rag",
+          "text2gql",
+          "text2sql",
+          "toolkit",
+          "tugraph",
+          "workflow"
+        ],
+        "description": "Chat2Graph: Graph Native Agentic System."
+      },
+      {
+        "name": "AutoGPT",
+        "fullname": "Significant-Gravitas/AutoGPT",
+        "url": "https://github.com/Significant-Gravitas/AutoGPT",
+        "topics": [
+          "ai",
+          "artificial-intelligence",
+          "autonomous-agents",
+          "gpt-4",
+          "llama-api",
+          "openai",
+          "python"
+        ],
+        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
+      },
+      {
+        "name": "letta",
+        "fullname": "letta-ai/letta",
+        "url": "https://github.com/letta-ai/letta",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "llm",
+          "llm-agent"
+        ],
+        "description": "Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management."
+      },
+      {
+        "name": "MetaGPT",
+        "fullname": "FoundationAgents/MetaGPT",
+        "url": "https://github.com/FoundationAgents/MetaGPT",
+        "topics": [
+          "agent",
+          "gpt",
+          "llm",
+          "metagpt",
+          "multi-agent"
+        ],
+        "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming"
+      },
+      {
+        "name": "DB-GPT",
+        "fullname": "eosphoros-ai/DB-GPT",
+        "url": "https://github.com/eosphoros-ai/DB-GPT",
+        "topics": [
+          "agents",
+          "bgi",
+          "database",
+          "deepseek",
+          "gpt",
+          "gpt-4",
+          "hacktoberfest",
+          "llm",
+          "private",
+          "rag",
+          "security",
+          "vicuna"
+        ],
+        "description": "AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents"
+      },
+      {
+        "name": "realtime-object-detector",
+        "fullname": "KernelErr/realtime-object-detector",
+        "url": "https://github.com/KernelErr/realtime-object-detector",
+        "topics": [],
+        "description": "Flutter real-time object detection App with Paddle-Lite and YOLO v3."
+      },
       {
         "name": "Chat2DB",
         "fullname": "CodePhiliaX/Chat2DB",
@@ -5615,6 +6844,81 @@
   "Experimental / Fun Projects": {
     "__root__": [
       {
+        "name": "SWE-agent",
+        "fullname": "SWE-agent/SWE-agent",
+        "url": "https://github.com/SWE-agent/SWE-agent",
+        "topics": [
+          "agent",
+          "agent-based-model",
+          "ai",
+          "cybersecurity",
+          "developer-tools",
+          "llm",
+          "lms"
+        ],
+        "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024] "
+      },
+      {
+        "name": "chatgpt-on-wechat",
+        "fullname": "zhayujie/chatgpt-on-wechat",
+        "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "chatgpt",
+          "claude-4",
+          "deepseek",
+          "dingtalk",
+          "feishu-bot",
+          "gemini",
+          "gpt-4",
+          "kimi",
+          "linkai",
+          "llm",
+          "mcp",
+          "multi-agent",
+          "openai",
+          "python3",
+          "qwen",
+          "rag",
+          "wechat",
+          "wechat-bot"
+        ],
+        "description": "基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择ChatGPT/Claude/DeepSeek/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。"
+      },
+      {
+        "name": "street-fighter-ai",
+        "fullname": "linyiLYi/street-fighter-ai",
+        "url": "https://github.com/linyiLYi/street-fighter-ai",
+        "topics": [],
+        "description": "This is an AI agent for Street Fighter II Champion Edition."
+      },
+      {
+        "name": "Graphite",
+        "fullname": "GraphiteEditor/Graphite",
+        "url": "https://github.com/GraphiteEditor/Graphite",
+        "topics": [
+          "2d-graphics",
+          "art",
+          "compositor",
+          "design",
+          "graphic-design",
+          "graphics-editor",
+          "image-generation",
+          "image-manipulation",
+          "image-processing",
+          "node-editor",
+          "node-graph",
+          "photo-editing",
+          "photo-editor",
+          "procedural",
+          "procedural-art",
+          "procedural-drawing",
+          "svg-editor",
+          "vector-editor"
+        ]
+      },
+      {
         "name": "pysc2",
         "fullname": "google-deepmind/pysc2",
         "url": "https://github.com/google-deepmind/pysc2",
@@ -5856,6 +7160,27 @@
   },
   "Guides / Handbooks / Tutorials": {
     "__root__": [
+      {
+        "name": "LLMs-from-scratch",
+        "fullname": "rasbt/LLMs-from-scratch",
+        "url": "https://github.com/rasbt/LLMs-from-scratch",
+        "topics": [
+          "ai",
+          "artificial-intelligence",
+          "chatgpt",
+          "deep-learning",
+          "from-scratch",
+          "gpt",
+          "language-model",
+          "large-language-models",
+          "llm",
+          "machine-learning",
+          "python",
+          "pytorch",
+          "transformer"
+        ],
+        "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step"
+      },
       {
         "name": "pytorch-tutorial",
         "fullname": "yunjey/pytorch-tutorial",
