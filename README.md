@@ -14,61 +14,53 @@ This repository is a curated collection of **interesting, inspiring, or technica
 
 ## 🔗 Quick Navigation
 
-### 🌐 Full-Stack / Web Development
-- [📦 Database](#full-stack-web-development-database)
-- [🔠 Languages](#full-stack-web-development-languages)
-- [🧱 Frameworks/SDKs](#full-stack-web-development-frameworkssdks)
-- [📁 __root__](#full-stack-web-development-__root__)
+### 📁 Infrastructure & Data
+- [📁 Database](#infrastructure-&-data-database)
+- [🔠 Languages](#infrastructure-&-data-languages)
+- [🧱 Frameworks & SDKs](#infrastructure-&-data-frameworks-&-sdks)
 
-### 🤖 Artificial Intelligence / Machine Learning
-- [📁 Researches](#artificial-intelligence-machine-learning-researches)
-- [📁 Tools](#artificial-intelligence-machine-learning-tools)
-- [🧱 AI Frameworks](#artificial-intelligence-machine-learning-ai-frameworks)
-- [⚙️ Object Detector](#artificial-intelligence-machine-learning-object-detector)
-- [🧠 AI Agents](#artificial-intelligence-machine-learning-ai-agents)
-- [🧠📦 Large Models](#artificial-intelligence-machine-learning-large-models)
-- [🤖📱 AI Applications](#artificial-intelligence-machine-learning-ai-applications)
-- [📁 __root__](#artificial-intelligence-machine-learning-__root__)
+### 📁 Artificial Intelligence & Machine Learning
+- [📁 Research](#artificial-intelligence-&-machine-learning-research)
+- [📁 AI Platforms & Tools](#artificial-intelligence-&-machine-learning-ai-platforms-&-tools)
+- [👁️ Computer Vision](#artificial-intelligence-&-machine-learning-computer-vision)
+- [💬 Natural Language Processing](#artificial-intelligence-&-machine-learning-natural-language-processing)
+- [🧠 AI Agents](#artificial-intelligence-&-machine-learning-ai-agents)
+- [🧠📦 Large Models](#artificial-intelligence-&-machine-learning-large-models)
+- [🤖📱 AI Applications](#artificial-intelligence-&-machine-learning-ai-applications)
 
-### 📱 Frontend / UI / Mobile
-- [📊 UI kit](#frontend-ui-mobile-ui-kit)
-- [🧱 Frameworks/SDKs](#frontend-ui-mobile-frameworkssdks)
-- [📱 Applications](#frontend-ui-mobile-applications)
-- [📁 __root__](#frontend-ui-mobile-__root__)
+### 📁 Frontend & Mobile Development
+- [🧩 UI Component Libraries](#frontend-&-mobile-development-ui-component-libraries)
+- [📁 Development Framework](#frontend-&-mobile-development-development-framework)
+- [🖥️ Frontend & Mobile Applications](#frontend-&-mobile-development-frontend-&-mobile-applications)
 
-### ⚙️ DevOps / Tools
-- [📁 __root__](#devops-tools-__root__)
+### 📁 Developer Tooling & DevOps
+- [📁 __root__](#developer-tooling-&-devops-__root__)
 
-### 🧰 Developer Productivity
-- [🦋 Dart/Flutter Tools](#developer-productivity-dartflutter-tools)
-- [🛠️ Easy Work Tools](#developer-productivity-easy-work-tools)
-- [📁 __root__](#developer-productivity-__root__)
+### 📁 Fun Projects
+- [📁 __root__](#fun-projects-__root__)
 
-### 🧪 Experimental / Fun Projects
-- [📁 __root__](#experimental-fun-projects-__root__)
+### 📁 Enterprise & Low-Code
+- [🏢 CRM / ERP / CMS](#enterprise-&-low-code-crm-erp-cms)
+- [📁 Lowcode Platforms](#enterprise-&-low-code-lowcode-platforms)
 
-### 🏢 Mature Open Source Projects (CRM / ERP / CMS)
-- [📦 CRM / ERP / CMS](#mature-open-source-projects-(crm-erp-cms)-crm-erp-cms)
-- [📦 Lowcode Platforms](#mature-open-source-projects-(crm-erp-cms)-lowcode-platforms)
-- [📁 __root__](#mature-open-source-projects-(crm-erp-cms)-__root__)
+### 📁 Learning Resources
+- [📁 __root__](#learning-resources-__root__)
 
-### 📘 Guides / Handbooks / Tutorials
-- [📁 __root__](#guides-handbooks-tutorials-__root__)
-
-### 📚 Datasets
+### 📁 Datasets
 - [📁 __root__](#datasets-__root__)
 
 ### 📁 未知分类
+- [📁 __root__](#未知分类-__root__)
 
 ---
 
 ## 📚 Categories
 
-### 🌐 Full-Stack / Web Development
+### 📁 Infrastructure & Data
 
-<a name="full-stack-web-development-database"></a>
+<a name="infrastructure-&-data-database"></a>
 <details>
-  <summary>📦 Database</summary>
+  <summary>📁 Database</summary>
 
   - [infiniflow/infinity](https://github.com/infiniflow/infinity) – The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text ![ai-native](https://img.shields.io/badge/ai--native-blue?style=flat-square) ![approximate-nearest-neighbor-search](https://img.shields.io/badge/approximate--nearest--neighbor--search-green?style=flat-square) ![bm25](https://img.shields.io/badge/bm25-orange?style=flat-square)
   - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) – ClickHouse® is a real-time analytics database management system ![ai](https://img.shields.io/badge/ai-blue?style=flat-square) ![analytics](https://img.shields.io/badge/analytics-green?style=flat-square) ![big-data](https://img.shields.io/badge/big--data-orange?style=flat-square)
@@ -103,7 +95,7 @@ This repository is a curated collection of **interesting, inspiring, or technica
   - [kuzudb/kuzu](https://github.com/kuzudb/kuzu) – Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
 </details>
 
-<a name="full-stack-web-development-languages"></a>
+<a name="infrastructure-&-data-languages"></a>
 <details>
   <summary>🔠 Languages</summary>
 
@@ -122,9 +114,9 @@ This repository is a curated collection of **interesting, inspiring, or technica
   - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) – A massively parallel, high-level programming language
 </details>
 
-<a name="full-stack-web-development-frameworkssdks"></a>
+<a name="infrastructure-&-data-frameworks-&-sdks"></a>
 <details>
-  <summary>🧱 Frameworks/SDKs</summary>
+  <summary>🧱 Frameworks & SDKs</summary>
 
   - [mtianyan/django-react-tyadmin](https://github.com/mtianyan/django-react-tyadmin) – 支持Python3.9,Django4! 类似 xadmin 的基于Model 快速生成前后台管理增删改查，筛选，搜索的后台管理自动化工具。Antd 界面好看现代化！前后端分离！无损二次开发！由Django Restful Framework 和 Ant Design Pro V4 驱动 ![admin](https://img.shields.io/badge/admin-blue?style=flat-square) ![antd-design-pro](https://img.shields.io/badge/antd--design--pro-green?style=flat-square) ![antdesign](https://img.shields.io/badge/antdesign-orange?style=flat-square)
   - [twitchtv/twirp](https://github.com/twitchtv/twirp) – A simple RPC framework with protobuf service definitions ![go](https://img.shields.io/badge/go-blue?style=flat-square) ![protobuf](https://img.shields.io/badge/protobuf-green?style=flat-square) ![rpc](https://img.shields.io/badge/rpc-orange?style=flat-square)
@@ -222,13 +214,12 @@ This repository is a curated collection of **interesting, inspiring, or technica
   - [apache/lucene](https://github.com/apache/lucene) – Apache Lucene open-source search software ![backend](https://img.shields.io/badge/backend-blue?style=flat-square) ![information-retrieval](https://img.shields.io/badge/information--retrieval-green?style=flat-square) ![java](https://img.shields.io/badge/java-orange?style=flat-square)
 </details>
 
-<a name="full-stack-web-development-__root__"></a>
 
-### 🤖 Artificial Intelligence / Machine Learning
+### 📁 Artificial Intelligence & Machine Learning
 
-<a name="artificial-intelligence-machine-learning-researches"></a>
+<a name="artificial-intelligence-&-machine-learning-research"></a>
 <details>
-  <summary>📁 Researches</summary>
+  <summary>📁 Research</summary>
 
   - [microsoft/graphrag](https://github.com/microsoft/graphrag) – A modular graph-based Retrieval-Augmented Generation (RAG) system ![gpt](https://img.shields.io/badge/gpt-blue?style=flat-square) ![gpt-4](https://img.shields.io/badge/gpt--4-green?style=flat-square) ![gpt4](https://img.shields.io/badge/gpt4-orange?style=flat-square)
   - [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) – High-resolution models for human tasks.
@@ -275,43 +266,9 @@ This repository is a curated collection of **interesting, inspiring, or technica
   - [SupritYoung/Zhongjing](https://github.com/SupritYoung/Zhongjing) – A Chinese medical ChatGPT based on LLaMa, training from large-scale pretrain corpus and multi-turn dialogue dataset.
 </details>
 
-<a name="artificial-intelligence-machine-learning-tools"></a>
+<a name="artificial-intelligence-&-machine-learning-ai-platforms-&-tools"></a>
 <details>
-  <summary>📁 Tools</summary>
-
-  - [lancedb/lancedb](https://github.com/lancedb/lancedb) – Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less. ![approximate-nearest-neighbor-search](https://img.shields.io/badge/approximate--nearest--neighbor--search-blue?style=flat-square) ![image-search](https://img.shields.io/badge/image--search-green?style=flat-square) ![nearest-neighbor-search](https://img.shields.io/badge/nearest--neighbor--search-orange?style=flat-square)
-  - [microsoft/OmniParser](https://github.com/microsoft/OmniParser) – A simple screen parsing tool towards pure vision based GUI agent
-  - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) – Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling ![agents](https://img.shields.io/badge/agents-blue?style=flat-square) ![ai](https://img.shields.io/badge/ai-green?style=flat-square) ![ai-agents](https://img.shields.io/badge/ai--agents-orange?style=flat-square)
-  - [zjunlp/OneKE](https://github.com/zjunlp/OneKE) – [WWW 2025] A Dockerized Schema-Guided LLM Agent-based Knowledge Extraction System. ![agent](https://img.shields.io/badge/agent-blue?style=flat-square) ![agents](https://img.shields.io/badge/agents-green?style=flat-square) ![artificial-intelligence](https://img.shields.io/badge/artificial--intelligence-orange?style=flat-square)
-  - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) – Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞 ![agents](https://img.shields.io/badge/agents-blue?style=flat-square) ![ai](https://img.shields.io/badge/ai-green?style=flat-square) ![test-automation](https://img.shields.io/badge/test--automation-orange?style=flat-square)
-  - [apple/ml-depth-pro](https://github.com/apple/ml-depth-pro) – Depth Pro: Sharp Monocular Metric Depth in Less Than a Second.
-  - [cvat-ai/cvat](https://github.com/cvat-ai/cvat) – Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale. ![annotation](https://img.shields.io/badge/annotation-blue?style=flat-square) ![annotation-tool](https://img.shields.io/badge/annotation--tool-green?style=flat-square) ![annotations](https://img.shields.io/badge/annotations-orange?style=flat-square)
-  - [drainingsun/ybat](https://github.com/drainingsun/ybat) – Ybat - YOLO BBox Annotation Tool ![annotation-tool](https://img.shields.io/badge/annotation--tool-blue?style=flat-square) ![annotator](https://img.shields.io/badge/annotator-green?style=flat-square) ![bbox](https://img.shields.io/badge/bbox-orange?style=flat-square)
-  - [ryouchinsa/Rectlabel-support](https://github.com/ryouchinsa/Rectlabel-support) – RectLabel is an offline image annotation tool for object detection and segmentation. ![annotation-tool](https://img.shields.io/badge/annotation--tool-blue?style=flat-square) ![annotations](https://img.shields.io/badge/annotations-green?style=flat-square) ![detection](https://img.shields.io/badge/detection-orange?style=flat-square)
-  - [deepinsight/insightface](https://github.com/deepinsight/insightface) – State-of-the-art 2D and 3D Face Analysis Project ![age-estimation](https://img.shields.io/badge/age--estimation-blue?style=flat-square) ![arcface](https://img.shields.io/badge/arcface-green?style=flat-square) ![face-alignment](https://img.shields.io/badge/face--alignment-orange?style=flat-square)
-  - [bubbliiiing/efficientdet-keras](https://github.com/bubbliiiing/efficientdet-keras) – 这是一个efficientdet-keras的源码，可以用于训练自己的模型。
-  - [biubug6/Pytorch_Retinaface](https://github.com/biubug6/Pytorch_Retinaface) – Retinaface get 80.99% in widerface hard val using mobilenet0.25.
-  - [kampta/face-seg](https://github.com/kampta/face-seg) – Semantic segmentation for hair, face and background
-  - [dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference) – Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson. ![caffe](https://img.shields.io/badge/caffe-blue?style=flat-square) ![computer-vision](https://img.shields.io/badge/computer--vision-green?style=flat-square) ![deep-learning](https://img.shields.io/badge/deep--learning-orange?style=flat-square)
-  - [zllrunning/face-parsing.PyTorch](https://github.com/zllrunning/face-parsing.PyTorch) – Using modified BiSeNet for face parsing in PyTorch ![bisenet](https://img.shields.io/badge/bisenet-blue?style=flat-square) ![celeba-hq-dataset](https://img.shields.io/badge/celeba--hq--dataset-green?style=flat-square) ![face-parsing](https://img.shields.io/badge/face--parsing-orange?style=flat-square)
-  - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) – OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation ![caffe](https://img.shields.io/badge/caffe-blue?style=flat-square) ![computer-vision](https://img.shields.io/badge/computer--vision-green?style=flat-square) ![cpp](https://img.shields.io/badge/cpp-orange?style=flat-square)
-  - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) – Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System ![accurate](https://img.shields.io/badge/accurate-blue?style=flat-square) ![alpha-pose](https://img.shields.io/badge/alpha--pose-green?style=flat-square) ![alphapose](https://img.shields.io/badge/alphapose-orange?style=flat-square)
-  - [esimov/forensic](https://github.com/esimov/forensic) – Copy-move image forgery detection library. ![computer-vision](https://img.shields.io/badge/computer--vision-blue?style=flat-square) ![dct](https://img.shields.io/badge/dct-green?style=flat-square) ![digital-signal-processing](https://img.shields.io/badge/digital--signal--processing-orange?style=flat-square)
-  - [rnazali/pimage](https://github.com/rnazali/pimage) – Image copy-move detector ![attack](https://img.shields.io/badge/attack-blue?style=flat-square) ![copy-move](https://img.shields.io/badge/copy--move-green?style=flat-square) ![copy-paste](https://img.shields.io/badge/copy--paste-orange?style=flat-square)
-  - [wkentaro/osam](https://github.com/wkentaro/osam) – Get up and running with SAM, EfficientSAM, YOLO-World, and other promptable vision models locally. ![computer-vision](https://img.shields.io/badge/computer--vision-blue?style=flat-square) ![deep-learning](https://img.shields.io/badge/deep--learning-green?style=flat-square) ![foundation-models](https://img.shields.io/badge/foundation--models-orange?style=flat-square)
-  - [roboflow/supervision](https://github.com/roboflow/supervision) – We write your reusable computer vision tools. 💜 ![classification](https://img.shields.io/badge/classification-blue?style=flat-square) ![coco](https://img.shields.io/badge/coco-green?style=flat-square) ![computer-vision](https://img.shields.io/badge/computer--vision-orange?style=flat-square)
-  - [facefusion/facefusion](https://github.com/facefusion/facefusion) – Industry leading face manipulation platform ![ai](https://img.shields.io/badge/ai-blue?style=flat-square) ![deep-fake](https://img.shields.io/badge/deep--fake-green?style=flat-square) ![deepfake](https://img.shields.io/badge/deepfake-orange?style=flat-square)
-  - [baidu/puck](https://github.com/baidu/puck) – Puck is a high-performance ANN search engine ![ann](https://img.shields.io/badge/ann-blue?style=flat-square) ![benchmark](https://img.shields.io/badge/benchmark-green?style=flat-square) ![search](https://img.shields.io/badge/search-orange?style=flat-square)
-  - [opencv/opencv](https://github.com/opencv/opencv) – Open Source Computer Vision Library ![c-plus-plus](https://img.shields.io/badge/c--plus--plus-blue?style=flat-square) ![computer-vision](https://img.shields.io/badge/computer--vision-green?style=flat-square) ![deep-learning](https://img.shields.io/badge/deep--learning-orange?style=flat-square)
-  - [davisking/dlib](https://github.com/davisking/dlib) – A toolkit for making real world machine learning and data analysis applications in C++ ![c-plus-plus](https://img.shields.io/badge/c--plus--plus-blue?style=flat-square) ![computer-vision](https://img.shields.io/badge/computer--vision-green?style=flat-square) ![deep-learning](https://img.shields.io/badge/deep--learning-orange?style=flat-square)
-  - [piskvorky/gensim](https://github.com/piskvorky/gensim) – Topic Modelling for Humans ![data-mining](https://img.shields.io/badge/data--mining-blue?style=flat-square) ![data-science](https://img.shields.io/badge/data--science-green?style=flat-square) ![document-similarity](https://img.shields.io/badge/document--similarity-orange?style=flat-square)
-  - [houbb/sensitive-word](https://github.com/houbb/sensitive-word) – 👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。) ![dfa](https://img.shields.io/badge/dfa-blue?style=flat-square) ![dirty-word](https://img.shields.io/badge/dirty--word-green?style=flat-square) ![filter](https://img.shields.io/badge/filter-orange?style=flat-square)
-  - [ultralytics/hub](https://github.com/ultralytics/hub) – Ultralytics HUB tutorials and support.
-</details>
-
-<a name="artificial-intelligence-machine-learning-ai-frameworks"></a>
-<details>
-  <summary>🧱 AI Frameworks</summary>
+  <summary>📁 AI Platforms & Tools</summary>
 
   - [openai/gym](https://github.com/openai/gym) – A toolkit for developing and comparing reinforcement learning algorithms.
   - [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet) – YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet ) ![computer-vision](https://img.shields.io/badge/computer--vision-blue?style=flat-square) ![deep-learning](https://img.shields.io/badge/deep--learning-green?style=flat-square) ![deep-learning-tutorial](https://img.shields.io/badge/deep--learning--tutorial-orange?style=flat-square)
@@ -352,11 +309,39 @@ This repository is a curated collection of **interesting, inspiring, or technica
   - [gtbluesky/onnxruntime_flutter](https://github.com/gtbluesky/onnxruntime_flutter) – A flutter plugin for OnnxRuntime provides an easy, flexible, and fast Dart API to integrate Onnx models in flutter apps across mobile and desktop platforms. ![dart](https://img.shields.io/badge/dart-blue?style=flat-square) ![ffi](https://img.shields.io/badge/ffi-green?style=flat-square) ![flutter](https://img.shields.io/badge/flutter-orange?style=flat-square)
   - [pykeio/ort](https://github.com/pykeio/ort) – Fast ML inference & training for ONNX models in Rust ![ai](https://img.shields.io/badge/ai-blue?style=flat-square) ![ai-training](https://img.shields.io/badge/ai--training-green?style=flat-square) ![fine-tuning](https://img.shields.io/badge/fine--tuning-orange?style=flat-square)
   - [alibaba/MNN](https://github.com/alibaba/MNN) – MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba.
+  - [lancedb/lancedb](https://github.com/lancedb/lancedb) – Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less. ![approximate-nearest-neighbor-search](https://img.shields.io/badge/approximate--nearest--neighbor--search-blue?style=flat-square) ![image-search](https://img.shields.io/badge/image--search-green?style=flat-square) ![nearest-neighbor-search](https://img.shields.io/badge/nearest--neighbor--search-orange?style=flat-square)
+  - [microsoft/OmniParser](https://github.com/microsoft/OmniParser) – A simple screen parsing tool towards pure vision based GUI agent
+  - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) – Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling ![agents](https://img.shields.io/badge/agents-blue?style=flat-square) ![ai](https://img.shields.io/badge/ai-green?style=flat-square) ![ai-agents](https://img.shields.io/badge/ai--agents-orange?style=flat-square)
+  - [zjunlp/OneKE](https://github.com/zjunlp/OneKE) – [WWW 2025] A Dockerized Schema-Guided LLM Agent-based Knowledge Extraction System. ![agent](https://img.shields.io/badge/agent-blue?style=flat-square) ![agents](https://img.shields.io/badge/agents-green?style=flat-square) ![artificial-intelligence](https://img.shields.io/badge/artificial--intelligence-orange?style=flat-square)
+  - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) – Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞 ![agents](https://img.shields.io/badge/agents-blue?style=flat-square) ![ai](https://img.shields.io/badge/ai-green?style=flat-square) ![test-automation](https://img.shields.io/badge/test--automation-orange?style=flat-square)
+  - [apple/ml-depth-pro](https://github.com/apple/ml-depth-pro) – Depth Pro: Sharp Monocular Metric Depth in Less Than a Second.
+  - [cvat-ai/cvat](https://github.com/cvat-ai/cvat) – Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale. ![annotation](https://img.shields.io/badge/annotation-blue?style=flat-square) ![annotation-tool](https://img.shields.io/badge/annotation--tool-green?style=flat-square) ![annotations](https://img.shields.io/badge/annotations-orange?style=flat-square)
+  - [drainingsun/ybat](https://github.com/drainingsun/ybat) – Ybat - YOLO BBox Annotation Tool ![annotation-tool](https://img.shields.io/badge/annotation--tool-blue?style=flat-square) ![annotator](https://img.shields.io/badge/annotator-green?style=flat-square) ![bbox](https://img.shields.io/badge/bbox-orange?style=flat-square)
+  - [ryouchinsa/Rectlabel-support](https://github.com/ryouchinsa/Rectlabel-support) – RectLabel is an offline image annotation tool for object detection and segmentation. ![annotation-tool](https://img.shields.io/badge/annotation--tool-blue?style=flat-square) ![annotations](https://img.shields.io/badge/annotations-green?style=flat-square) ![detection](https://img.shields.io/badge/detection-orange?style=flat-square)
+  - [deepinsight/insightface](https://github.com/deepinsight/insightface) – State-of-the-art 2D and 3D Face Analysis Project ![age-estimation](https://img.shields.io/badge/age--estimation-blue?style=flat-square) ![arcface](https://img.shields.io/badge/arcface-green?style=flat-square) ![face-alignment](https://img.shields.io/badge/face--alignment-orange?style=flat-square)
+  - [bubbliiiing/efficientdet-keras](https://github.com/bubbliiiing/efficientdet-keras) – 这是一个efficientdet-keras的源码，可以用于训练自己的模型。
+  - [biubug6/Pytorch_Retinaface](https://github.com/biubug6/Pytorch_Retinaface) – Retinaface get 80.99% in widerface hard val using mobilenet0.25.
+  - [kampta/face-seg](https://github.com/kampta/face-seg) – Semantic segmentation for hair, face and background
+  - [dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference) – Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson. ![caffe](https://img.shields.io/badge/caffe-blue?style=flat-square) ![computer-vision](https://img.shields.io/badge/computer--vision-green?style=flat-square) ![deep-learning](https://img.shields.io/badge/deep--learning-orange?style=flat-square)
+  - [zllrunning/face-parsing.PyTorch](https://github.com/zllrunning/face-parsing.PyTorch) – Using modified BiSeNet for face parsing in PyTorch ![bisenet](https://img.shields.io/badge/bisenet-blue?style=flat-square) ![celeba-hq-dataset](https://img.shields.io/badge/celeba--hq--dataset-green?style=flat-square) ![face-parsing](https://img.shields.io/badge/face--parsing-orange?style=flat-square)
+  - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) – OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation ![caffe](https://img.shields.io/badge/caffe-blue?style=flat-square) ![computer-vision](https://img.shields.io/badge/computer--vision-green?style=flat-square) ![cpp](https://img.shields.io/badge/cpp-orange?style=flat-square)
+  - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) – Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System ![accurate](https://img.shields.io/badge/accurate-blue?style=flat-square) ![alpha-pose](https://img.shields.io/badge/alpha--pose-green?style=flat-square) ![alphapose](https://img.shields.io/badge/alphapose-orange?style=flat-square)
+  - [esimov/forensic](https://github.com/esimov/forensic) – Copy-move image forgery detection library. ![computer-vision](https://img.shields.io/badge/computer--vision-blue?style=flat-square) ![dct](https://img.shields.io/badge/dct-green?style=flat-square) ![digital-signal-processing](https://img.shields.io/badge/digital--signal--processing-orange?style=flat-square)
+  - [rnazali/pimage](https://github.com/rnazali/pimage) – Image copy-move detector ![attack](https://img.shields.io/badge/attack-blue?style=flat-square) ![copy-move](https://img.shields.io/badge/copy--move-green?style=flat-square) ![copy-paste](https://img.shields.io/badge/copy--paste-orange?style=flat-square)
+  - [wkentaro/osam](https://github.com/wkentaro/osam) – Get up and running with SAM, EfficientSAM, YOLO-World, and other promptable vision models locally. ![computer-vision](https://img.shields.io/badge/computer--vision-blue?style=flat-square) ![deep-learning](https://img.shields.io/badge/deep--learning-green?style=flat-square) ![foundation-models](https://img.shields.io/badge/foundation--models-orange?style=flat-square)
+  - [roboflow/supervision](https://github.com/roboflow/supervision) – We write your reusable computer vision tools. 💜 ![classification](https://img.shields.io/badge/classification-blue?style=flat-square) ![coco](https://img.shields.io/badge/coco-green?style=flat-square) ![computer-vision](https://img.shields.io/badge/computer--vision-orange?style=flat-square)
+  - [facefusion/facefusion](https://github.com/facefusion/facefusion) – Industry leading face manipulation platform ![ai](https://img.shields.io/badge/ai-blue?style=flat-square) ![deep-fake](https://img.shields.io/badge/deep--fake-green?style=flat-square) ![deepfake](https://img.shields.io/badge/deepfake-orange?style=flat-square)
+  - [baidu/puck](https://github.com/baidu/puck) – Puck is a high-performance ANN search engine ![ann](https://img.shields.io/badge/ann-blue?style=flat-square) ![benchmark](https://img.shields.io/badge/benchmark-green?style=flat-square) ![search](https://img.shields.io/badge/search-orange?style=flat-square)
+  - [opencv/opencv](https://github.com/opencv/opencv) – Open Source Computer Vision Library ![c-plus-plus](https://img.shields.io/badge/c--plus--plus-blue?style=flat-square) ![computer-vision](https://img.shields.io/badge/computer--vision-green?style=flat-square) ![deep-learning](https://img.shields.io/badge/deep--learning-orange?style=flat-square)
+  - [davisking/dlib](https://github.com/davisking/dlib) – A toolkit for making real world machine learning and data analysis applications in C++ ![c-plus-plus](https://img.shields.io/badge/c--plus--plus-blue?style=flat-square) ![computer-vision](https://img.shields.io/badge/computer--vision-green?style=flat-square) ![deep-learning](https://img.shields.io/badge/deep--learning-orange?style=flat-square)
+  - [piskvorky/gensim](https://github.com/piskvorky/gensim) – Topic Modelling for Humans ![data-mining](https://img.shields.io/badge/data--mining-blue?style=flat-square) ![data-science](https://img.shields.io/badge/data--science-green?style=flat-square) ![document-similarity](https://img.shields.io/badge/document--similarity-orange?style=flat-square)
+  - [houbb/sensitive-word](https://github.com/houbb/sensitive-word) – 👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。) ![dfa](https://img.shields.io/badge/dfa-blue?style=flat-square) ![dirty-word](https://img.shields.io/badge/dirty--word-green?style=flat-square) ![filter](https://img.shields.io/badge/filter-orange?style=flat-square)
+  - [ultralytics/hub](https://github.com/ultralytics/hub) – Ultralytics HUB tutorials and support.
 </details>
 
-<a name="artificial-intelligence-machine-learning-object-detector"></a>
+<a name="artificial-intelligence-&-machine-learning-computer-vision"></a>
 <details>
-  <summary>⚙️ Object Detector</summary>
+  <summary>👁️ Computer Vision</summary>
 
   - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) – YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite ![coreml](https://img.shields.io/badge/coreml-blue?style=flat-square) ![deep-learning](https://img.shields.io/badge/deep--learning-green?style=flat-square) ![ios](https://img.shields.io/badge/ios-orange?style=flat-square)
   - [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) – Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors ![darknet](https://img.shields.io/badge/darknet-blue?style=flat-square) ![pytorch](https://img.shields.io/badge/pytorch-green?style=flat-square) ![scaled-yolov4](https://img.shields.io/badge/scaled--yolov4-orange?style=flat-square)
@@ -367,7 +352,13 @@ This repository is a curated collection of **interesting, inspiring, or technica
   - [IDEA-Research/Rex-Thinker](https://github.com/IDEA-Research/Rex-Thinker) – Rex-Thinker: Grounded Object Refering via Chain-of-Thought Reasoning.
 </details>
 
-<a name="artificial-intelligence-machine-learning-ai-agents"></a>
+<a name="artificial-intelligence-&-machine-learning-natural-language-processing"></a>
+<details>
+  <summary>💬 Natural Language Processing</summary>
+
+</details>
+
+<a name="artificial-intelligence-&-machine-learning-ai-agents"></a>
 <details>
   <summary>🧠 AI Agents</summary>
 
@@ -402,7 +393,7 @@ This repository is a curated collection of **interesting, inspiring, or technica
   - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) – This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.
 </details>
 
-<a name="artificial-intelligence-machine-learning-large-models"></a>
+<a name="artificial-intelligence-&-machine-learning-large-models"></a>
 <details>
   <summary>🧠📦 Large Models</summary>
 
@@ -410,7 +401,7 @@ This repository is a curated collection of **interesting, inspiring, or technica
   - [64bit/async-openai](https://github.com/64bit/async-openai) – Rust library for OpenAI ![openai](https://img.shields.io/badge/openai-blue?style=flat-square) ![rust](https://img.shields.io/badge/rust-green?style=flat-square)
 </details>
 
-<a name="artificial-intelligence-machine-learning-ai-applications"></a>
+<a name="artificial-intelligence-&-machine-learning-ai-applications"></a>
 <details>
   <summary>🤖📱 AI Applications</summary>
 
@@ -431,13 +422,12 @@ This repository is a curated collection of **interesting, inspiring, or technica
   - [billwuhao/Comfyui_HeyGem](https://github.com/billwuhao/Comfyui_HeyGem) – HeyGem Digital Human Node for ComfyUI.
 </details>
 
-<a name="artificial-intelligence-machine-learning-__root__"></a>
 
-### 📱 Frontend / UI / Mobile
+### 📁 Frontend & Mobile Development
 
-<a name="frontend-ui-mobile-ui-kit"></a>
+<a name="frontend-&-mobile-development-ui-component-libraries"></a>
 <details>
-  <summary>📊 UI kit</summary>
+  <summary>🧩 UI Component Libraries</summary>
 
   - [bluefireteam/photo_view](https://github.com/bluefireteam/photo_view) – 📸 Easy to use yet very customizable zoomable image widget for Flutter, Photo View provides a gesture sensitive zoomable widget. Photo View is largely used to show interacive images and other stuff such as SVG. ![flutter](https://img.shields.io/badge/flutter-blue?style=flat-square) ![gallery](https://img.shields.io/badge/gallery-green?style=flat-square) ![hacktoberfest](https://img.shields.io/badge/hacktoberfest-orange?style=flat-square)
   - [mzimmerm/flutter_charts](https://github.com/mzimmerm/flutter_charts) – Charts Library for Flutter, written in Dart with Flutter.
@@ -551,10 +541,11 @@ This repository is a curated collection of **interesting, inspiring, or technica
   - [caduandrade/davi_flutter](https://github.com/caduandrade/davi_flutter) – A full customized data view that builds the cells on demand. Focused on Web/Desktop Applications. Bidirectional scroll bars. ![data](https://img.shields.io/badge/data-blue?style=flat-square) ![dataview](https://img.shields.io/badge/dataview-green?style=flat-square) ![flutter](https://img.shields.io/badge/flutter-orange?style=flat-square)
 </details>
 
-<a name="frontend-ui-mobile-frameworkssdks"></a>
+<a name="frontend-&-mobile-development-development-framework"></a>
 <details>
-  <summary>🧱 Frameworks/SDKs</summary>
+  <summary>📁 Development Framework</summary>
 
+  - [flutter/flutter](https://github.com/flutter/flutter) – Flutter makes it easy and fast to build beautiful apps for mobile and beyond ![android](https://img.shields.io/badge/android-blue?style=flat-square) ![app-framework](https://img.shields.io/badge/app--framework-green?style=flat-square) ![cross-platform](https://img.shields.io/badge/cross--platform-orange?style=flat-square)
   - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) – Open Source realtime backend in 1 file ![authentication](https://img.shields.io/badge/authentication-blue?style=flat-square) ![backend](https://img.shields.io/badge/backend-green?style=flat-square) ![golang](https://img.shields.io/badge/golang-orange?style=flat-square)
   - [hlwhl/webview_cef](https://github.com/hlwhl/webview_cef) – WebView for Flutter Desktop Apps using CEF(Chromium Embedded Framework) [Work in Progress] ![cef](https://img.shields.io/badge/cef-blue?style=flat-square) ![flutter](https://img.shields.io/badge/flutter-green?style=flat-square) ![flutter-desktop](https://img.shields.io/badge/flutter--desktop-orange?style=flat-square)
   - [openkraken/kraken](https://github.com/openkraken/kraken) – A web standards-compliant, high-performance rendering engine based on Flutter. ![engine](https://img.shields.io/badge/engine-blue?style=flat-square) ![flutter](https://img.shields.io/badge/flutter-green?style=flat-square) ![kraken](https://img.shields.io/badge/kraken-orange?style=flat-square)
@@ -604,9 +595,9 @@ This repository is a curated collection of **interesting, inspiring, or technica
   - [simolus3/drift](https://github.com/simolus3/drift) – Drift is an easy to use, reactive, typesafe persistence library for Dart & Flutter. ![dart](https://img.shields.io/badge/dart-blue?style=flat-square) ![dart-build-system](https://img.shields.io/badge/dart--build--system-green?style=flat-square) ![flutter](https://img.shields.io/badge/flutter-orange?style=flat-square)
 </details>
 
-<a name="frontend-ui-mobile-applications"></a>
+<a name="frontend-&-mobile-development-frontend-&-mobile-applications"></a>
 <details>
-  <summary>📱 Applications</summary>
+  <summary>🖥️ Frontend & Mobile Applications</summary>
 
   - [kalcaddle/KodExplorer](https://github.com/kalcaddle/KodExplorer) – A web based file manager,web IDE / browser based code editor ![archive](https://img.shields.io/badge/archive-blue?style=flat-square) ![collaboration](https://img.shields.io/badge/collaboration-green?style=flat-square) ![docx](https://img.shields.io/badge/docx-orange?style=flat-square)
   - [opsre/go-ldap-admin](https://github.com/opsre/go-ldap-admin) – 🌉 基于Go+Vue实现的openLDAP后台管理项目 ![admin](https://img.shields.io/badge/admin-blue?style=flat-square) ![casbin](https://img.shields.io/badge/casbin-green?style=flat-square) ![element-ui](https://img.shields.io/badge/element--ui-orange?style=flat-square)
@@ -615,40 +606,12 @@ This repository is a curated collection of **interesting, inspiring, or technica
   - [AppFlowy-IO/appflowy-editor](https://github.com/AppFlowy-IO/appflowy-editor) – A highly customizable rich-text editor for Flutter. The AppFlowy Editor project for AppFlowy and beyond. ![flutter](https://img.shields.io/badge/flutter-blue?style=flat-square) ![flutter-apps](https://img.shields.io/badge/flutter--apps-green?style=flat-square) ![flutter-examples](https://img.shields.io/badge/flutter--examples-orange?style=flat-square)
 </details>
 
-<a name="frontend-ui-mobile-__root__"></a>
 
-### ⚙️ DevOps / Tools
+### 📁 Developer Tooling & DevOps
 
-<a name="devops-tools-__root__"></a>
-- [nylo-core/nylo](https://github.com/nylo-core/nylo) – Nylo is the fastest way to build your next Flutter mobile app. Streamline your projects with Nylo's opinionated approach to building Flutter apps. Develop your next idea  ⚡️ ![apps](https://img.shields.io/badge/apps-blue?style=flat-square) ![boilerplate](https://img.shields.io/badge/boilerplate-green?style=flat-square) ![dart](https://img.shields.io/badge/dart-orange?style=flat-square)
-- [juhaku/utoipa](https://github.com/juhaku/utoipa) – Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust ![auto-generated](https://img.shields.io/badge/auto--generated-blue?style=flat-square) ![compile-time](https://img.shields.io/badge/compile--time-green?style=flat-square) ![documentation](https://img.shields.io/badge/documentation-orange?style=flat-square)
-- [nameko/nameko](https://github.com/nameko/nameko) – Python framework for building microservices ![framework](https://img.shields.io/badge/framework-blue?style=flat-square) ![microservices](https://img.shields.io/badge/microservices-green?style=flat-square) ![nameko](https://img.shields.io/badge/nameko-orange?style=flat-square)
-- [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) – Peace of mind from prototype to production ![api-server](https://img.shields.io/badge/api--server-blue?style=flat-square) ![distributed](https://img.shields.io/badge/distributed-green?style=flat-square) ![elixir](https://img.shields.io/badge/elixir-orange?style=flat-square)
-- [grpc/grpc-dart](https://github.com/grpc/grpc-dart) – The Dart language implementation of gRPC. ![dart](https://img.shields.io/badge/dart-blue?style=flat-square) ![grpc](https://img.shields.io/badge/grpc-green?style=flat-square)
-- [plotly/dash](https://github.com/plotly/dash) – Data Apps & Dashboards for Python. No JavaScript Required. ![bioinformatics](https://img.shields.io/badge/bioinformatics-blue?style=flat-square) ![charting](https://img.shields.io/badge/charting-green?style=flat-square) ![dash](https://img.shields.io/badge/dash-orange?style=flat-square)
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) – Fullstack app framework for web, desktop, and mobile. ![android](https://img.shields.io/badge/android-blue?style=flat-square) ![css](https://img.shields.io/badge/css-green?style=flat-square) ![desktop](https://img.shields.io/badge/desktop-orange?style=flat-square)
-- [serverpod/serverpod](https://github.com/serverpod/serverpod) – Serverpod is a next-generation app and web server, explicitly built for the Flutter and Dart ecosystem.
-- [sanic-org/sanic](https://github.com/sanic-org/sanic) – Accelerate your web app development  | Build fast. Run fast. ![api-server](https://img.shields.io/badge/api--server-blue?style=flat-square) ![asgi](https://img.shields.io/badge/asgi-green?style=flat-square) ![asyncio](https://img.shields.io/badge/asyncio-orange?style=flat-square)
-- [sst/sst](https://github.com/sst/sst) – Build full-stack apps on your own infrastructure.
-- [0Chencc/CTFCrackTools](https://github.com/0Chencc/CTFCrackTools) – China's first CTFTools framework.中国国内首个CTF工具框架,旨在帮助CTFer快速攻克难关 ![ctf](https://img.shields.io/badge/ctf-blue?style=flat-square) ![ctf-tools](https://img.shields.io/badge/ctf--tools-green?style=flat-square) ![framework](https://img.shields.io/badge/framework-orange?style=flat-square)
-- [denoland/deno](https://github.com/denoland/deno) – A modern runtime for JavaScript and TypeScript. ![deno](https://img.shields.io/badge/deno-blue?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-green?style=flat-square) ![rust](https://img.shields.io/badge/rust-orange?style=flat-square)
-- [oven-sh/bun](https://github.com/oven-sh/bun) – Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one ![bun](https://img.shields.io/badge/bun-blue?style=flat-square) ![bundler](https://img.shields.io/badge/bundler-green?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-orange?style=flat-square)
-
-### 🧰 Developer Productivity
-
-<a name="developer-productivity-dartflutter-tools"></a>
+<a name="developer-tooling-&-devops-__root__"></a>
 <details>
-  <summary>🦋 Dart/Flutter Tools</summary>
-
-  - [flutter/flutter](https://github.com/flutter/flutter) – Flutter makes it easy and fast to build beautiful apps for mobile and beyond ![android](https://img.shields.io/badge/android-blue?style=flat-square) ![app-framework](https://img.shields.io/badge/app--framework-green?style=flat-square) ![cross-platform](https://img.shields.io/badge/cross--platform-orange?style=flat-square)
-  - [schultek/jaspr](https://github.com/schultek/jaspr) – Modern web framework for building websites in Dart. Supports SPAs, SSR and SSG. ![dart](https://img.shields.io/badge/dart-blue?style=flat-square) ![dart-web](https://img.shields.io/badge/dart--web-green?style=flat-square) ![flutter](https://img.shields.io/badge/flutter-orange?style=flat-square)
-  - [dridk/QJsonModel](https://github.com/dridk/QJsonModel) – Qt Json Tree Model ![c-plus-plus](https://img.shields.io/badge/c--plus--plus-blue?style=flat-square) ![json](https://img.shields.io/badge/json-green?style=flat-square) ![json-tree-model](https://img.shields.io/badge/json--tree--model-orange?style=flat-square)
-  - [polina-c/layerlens](https://github.com/polina-c/layerlens) – Keep your code well structured.
-</details>
-
-<a name="developer-productivity-easy-work-tools"></a>
-<details>
-  <summary>🛠️ Easy Work Tools</summary>
+  <summary>📁 __root__</summary>
 
   - [searxng/searxng](https://github.com/searxng/searxng) – SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. ![hacktoberfest](https://img.shields.io/badge/hacktoberfest-blue?style=flat-square) ![metasearch](https://img.shields.io/badge/metasearch-green?style=flat-square) ![metasearch-engine](https://img.shields.io/badge/metasearch--engine-orange?style=flat-square)
   - [AlistGo/alist](https://github.com/AlistGo/alist) – 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。 ![file-server](https://img.shields.io/badge/file--server-blue?style=flat-square) ![gin](https://img.shields.io/badge/gin-green?style=flat-square) ![golang](https://img.shields.io/badge/golang-orange?style=flat-square)
@@ -663,70 +626,105 @@ This repository is a curated collection of **interesting, inspiring, or technica
   - [mpflutter/mpflutter](https://github.com/mpflutter/mpflutter) – MPFlutter 是一个跨平台 Flutter 开发框架，可用于微信小程序以及 Web 应用开发。 ![dart](https://img.shields.io/badge/dart-blue?style=flat-square) ![flutter](https://img.shields.io/badge/flutter-green?style=flat-square)
   - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) – Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown.
   - [epam-cross-platform-lab/swagger-dart-code-generator](https://github.com/epam-cross-platform-lab/swagger-dart-code-generator) – Swagger/OpenAPI code generator based on Chopper and JsonAnnotation for Flutter
+  - [schultek/jaspr](https://github.com/schultek/jaspr) – Modern web framework for building websites in Dart. Supports SPAs, SSR and SSG. ![dart](https://img.shields.io/badge/dart-blue?style=flat-square) ![dart-web](https://img.shields.io/badge/dart--web-green?style=flat-square) ![flutter](https://img.shields.io/badge/flutter-orange?style=flat-square)
+  - [dridk/QJsonModel](https://github.com/dridk/QJsonModel) – Qt Json Tree Model ![c-plus-plus](https://img.shields.io/badge/c--plus--plus-blue?style=flat-square) ![json](https://img.shields.io/badge/json-green?style=flat-square) ![json-tree-model](https://img.shields.io/badge/json--tree--model-orange?style=flat-square)
+  - [polina-c/layerlens](https://github.com/polina-c/layerlens) – Keep your code well structured.
+  - [nylo-core/nylo](https://github.com/nylo-core/nylo) – Nylo is the fastest way to build your next Flutter mobile app. Streamline your projects with Nylo's opinionated approach to building Flutter apps. Develop your next idea  ⚡️ ![apps](https://img.shields.io/badge/apps-blue?style=flat-square) ![boilerplate](https://img.shields.io/badge/boilerplate-green?style=flat-square) ![dart](https://img.shields.io/badge/dart-orange?style=flat-square)
+  - [juhaku/utoipa](https://github.com/juhaku/utoipa) – Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust ![auto-generated](https://img.shields.io/badge/auto--generated-blue?style=flat-square) ![compile-time](https://img.shields.io/badge/compile--time-green?style=flat-square) ![documentation](https://img.shields.io/badge/documentation-orange?style=flat-square)
+  - [nameko/nameko](https://github.com/nameko/nameko) – Python framework for building microservices ![framework](https://img.shields.io/badge/framework-blue?style=flat-square) ![microservices](https://img.shields.io/badge/microservices-green?style=flat-square) ![nameko](https://img.shields.io/badge/nameko-orange?style=flat-square)
+  - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) – Peace of mind from prototype to production ![api-server](https://img.shields.io/badge/api--server-blue?style=flat-square) ![distributed](https://img.shields.io/badge/distributed-green?style=flat-square) ![elixir](https://img.shields.io/badge/elixir-orange?style=flat-square)
+  - [grpc/grpc-dart](https://github.com/grpc/grpc-dart) – The Dart language implementation of gRPC. ![dart](https://img.shields.io/badge/dart-blue?style=flat-square) ![grpc](https://img.shields.io/badge/grpc-green?style=flat-square)
+  - [plotly/dash](https://github.com/plotly/dash) – Data Apps & Dashboards for Python. No JavaScript Required. ![bioinformatics](https://img.shields.io/badge/bioinformatics-blue?style=flat-square) ![charting](https://img.shields.io/badge/charting-green?style=flat-square) ![dash](https://img.shields.io/badge/dash-orange?style=flat-square)
+  - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) – Fullstack app framework for web, desktop, and mobile. ![android](https://img.shields.io/badge/android-blue?style=flat-square) ![css](https://img.shields.io/badge/css-green?style=flat-square) ![desktop](https://img.shields.io/badge/desktop-orange?style=flat-square)
+  - [serverpod/serverpod](https://github.com/serverpod/serverpod) – Serverpod is a next-generation app and web server, explicitly built for the Flutter and Dart ecosystem.
+  - [sanic-org/sanic](https://github.com/sanic-org/sanic) – Accelerate your web app development  | Build fast. Run fast. ![api-server](https://img.shields.io/badge/api--server-blue?style=flat-square) ![asgi](https://img.shields.io/badge/asgi-green?style=flat-square) ![asyncio](https://img.shields.io/badge/asyncio-orange?style=flat-square)
+  - [sst/sst](https://github.com/sst/sst) – Build full-stack apps on your own infrastructure.
+  - [0Chencc/CTFCrackTools](https://github.com/0Chencc/CTFCrackTools) – China's first CTFTools framework.中国国内首个CTF工具框架,旨在帮助CTFer快速攻克难关 ![ctf](https://img.shields.io/badge/ctf-blue?style=flat-square) ![ctf-tools](https://img.shields.io/badge/ctf--tools-green?style=flat-square) ![framework](https://img.shields.io/badge/framework-orange?style=flat-square)
+  - [denoland/deno](https://github.com/denoland/deno) – A modern runtime for JavaScript and TypeScript. ![deno](https://img.shields.io/badge/deno-blue?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-green?style=flat-square) ![rust](https://img.shields.io/badge/rust-orange?style=flat-square)
+  - [oven-sh/bun](https://github.com/oven-sh/bun) – Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one ![bun](https://img.shields.io/badge/bun-blue?style=flat-square) ![bundler](https://img.shields.io/badge/bundler-green?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-orange?style=flat-square)
 </details>
 
-<a name="developer-productivity-__root__"></a>
 
-### 🧪 Experimental / Fun Projects
+### 📁 Fun Projects
 
-<a name="experimental-fun-projects-__root__"></a>
-- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) – SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024] ![agent](https://img.shields.io/badge/agent-blue?style=flat-square) ![agent-based-model](https://img.shields.io/badge/agent--based--model-green?style=flat-square) ![ai](https://img.shields.io/badge/ai-orange?style=flat-square)
-- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) – 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择ChatGPT/Claude/DeepSeek/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。 ![ai](https://img.shields.io/badge/ai-blue?style=flat-square) ![ai-agent](https://img.shields.io/badge/ai--agent-green?style=flat-square) ![chatgpt](https://img.shields.io/badge/chatgpt-orange?style=flat-square)
-- [linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) – This is an AI agent for Street Fighter II Champion Edition.
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) – No description. ![2d-graphics](https://img.shields.io/badge/2d--graphics-blue?style=flat-square) ![art](https://img.shields.io/badge/art-green?style=flat-square) ![compositor](https://img.shields.io/badge/compositor-orange?style=flat-square)
-- [google-deepmind/pysc2](https://github.com/google-deepmind/pysc2) – StarCraft II Learning Environment ![blizzard-api](https://img.shields.io/badge/blizzard--api-blue?style=flat-square) ![deepmind](https://img.shields.io/badge/deepmind-green?style=flat-square) ![machine-learning](https://img.shields.io/badge/machine--learning-orange?style=flat-square)
-- [Tencent/GameAISDK](https://github.com/Tencent/GameAISDK) – 基于图像的游戏AI自动化框架
-- [flame-engine/flame](https://github.com/flame-engine/flame) – A Flutter based game engine. ![dart](https://img.shields.io/badge/dart-blue?style=flat-square) ![flame](https://img.shields.io/badge/flame-green?style=flat-square) ![flutter](https://img.shields.io/badge/flutter-orange?style=flat-square)
-- [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) – Write interactive web app in script way. ![pywebio](https://img.shields.io/badge/pywebio-blue?style=flat-square)
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) – Virtual Machine for the Web ![cheerp](https://img.shields.io/badge/cheerp-blue?style=flat-square) ![cheerpx](https://img.shields.io/badge/cheerpx-green?style=flat-square) ![cpp](https://img.shields.io/badge/cpp-orange?style=flat-square)
-- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) – Java / JavaFX / Kotlin Game Library (Engine) ![2d](https://img.shields.io/badge/2d-blue?style=flat-square) ![2d-framework](https://img.shields.io/badge/2d--framework-green?style=flat-square) ![2d-game-engine](https://img.shields.io/badge/2d--game--engine-orange?style=flat-square)
-- [jMonkeyEngine/jmonkeyengine](https://github.com/jMonkeyEngine/jmonkeyengine) – A complete 3-D game development suite written in Java. ![game-engine-3d](https://img.shields.io/badge/game--engine--3d-blue?style=flat-square) ![hacktoberfest](https://img.shields.io/badge/hacktoberfest-green?style=flat-square) ![java](https://img.shields.io/badge/java-orange?style=flat-square)
-- [d3xvn/flutter_chess_board](https://github.com/d3xvn/flutter_chess_board) – A Chessboard widget for Flutter. ![chess](https://img.shields.io/badge/chess-blue?style=flat-square) ![chessboard](https://img.shields.io/badge/chessboard-green?style=flat-square) ![flutter](https://img.shields.io/badge/flutter-orange?style=flat-square)
-- [hanabi1224/Programming-Language-Benchmarks](https://github.com/hanabi1224/Programming-Language-Benchmarks) – Yet another implementation of computer language benchmarks game ![benchmark](https://img.shields.io/badge/benchmark-blue?style=flat-square) ![benchmarks](https://img.shields.io/badge/benchmarks-green?style=flat-square) ![benchmarks-game](https://img.shields.io/badge/benchmarks--game-orange?style=flat-square)
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) – Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module. ![compiler](https://img.shields.io/badge/compiler-blue?style=flat-square) ![nuitka](https://img.shields.io/badge/nuitka-green?style=flat-square) ![packaging-tool](https://img.shields.io/badge/packaging--tool-orange?style=flat-square)
-- [rust-bakery/nom](https://github.com/rust-bakery/nom) – Rust parser combinator framework ![byte-array](https://img.shields.io/badge/byte--array-blue?style=flat-square) ![grammar](https://img.shields.io/badge/grammar-green?style=flat-square) ![nom](https://img.shields.io/badge/nom-orange?style=flat-square)
-- [bytecodealliance/wasmtime-py](https://github.com/bytecodealliance/wasmtime-py) – Python WebAssembly runtime powered by Wasmtime ![python](https://img.shields.io/badge/python-blue?style=flat-square) ![wasm](https://img.shields.io/badge/wasm-green?style=flat-square) ![wasmtime](https://img.shields.io/badge/wasmtime-orange?style=flat-square)
-- [pdfminer/pdfminer.six](https://github.com/pdfminer/pdfminer.six) – Community maintained fork of pdfminer - we fathom PDF ![parser](https://img.shields.io/badge/parser-blue?style=flat-square) ![pdf](https://img.shields.io/badge/pdf-green?style=flat-square) ![python](https://img.shields.io/badge/python-orange?style=flat-square)
-- [bellard/quickjs](https://github.com/bellard/quickjs) – QuickJS是一个小型并且可嵌入的Javascript引擎，它支持ES2020规范，包括模块，异步生成器和代理器.
-- [sqlalchemy/mako](https://github.com/sqlalchemy/mako) – Mako Templates for Python
-- [umijs/mako](https://github.com/umijs/mako) – An extremely fast, production-grade web bundler based on Rust. ![bundler](https://img.shields.io/badge/bundler-blue?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-green?style=flat-square) ![mako](https://img.shields.io/badge/mako-orange?style=flat-square)
-
-### 🏢 Mature Open Source Projects (CRM / ERP / CMS)
-
-<a name="mature-open-source-projects-(crm-erp-cms)-crm-erp-cms"></a>
+<a name="fun-projects-__root__"></a>
 <details>
-  <summary>📦 CRM / ERP / CMS</summary>
+  <summary>📁 __root__</summary>
+
+  - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) – SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024] ![agent](https://img.shields.io/badge/agent-blue?style=flat-square) ![agent-based-model](https://img.shields.io/badge/agent--based--model-green?style=flat-square) ![ai](https://img.shields.io/badge/ai-orange?style=flat-square)
+  - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) – 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择ChatGPT/Claude/DeepSeek/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。 ![ai](https://img.shields.io/badge/ai-blue?style=flat-square) ![ai-agent](https://img.shields.io/badge/ai--agent-green?style=flat-square) ![chatgpt](https://img.shields.io/badge/chatgpt-orange?style=flat-square)
+  - [linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) – This is an AI agent for Street Fighter II Champion Edition.
+  - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) – No description. ![2d-graphics](https://img.shields.io/badge/2d--graphics-blue?style=flat-square) ![art](https://img.shields.io/badge/art-green?style=flat-square) ![compositor](https://img.shields.io/badge/compositor-orange?style=flat-square)
+  - [google-deepmind/pysc2](https://github.com/google-deepmind/pysc2) – StarCraft II Learning Environment ![blizzard-api](https://img.shields.io/badge/blizzard--api-blue?style=flat-square) ![deepmind](https://img.shields.io/badge/deepmind-green?style=flat-square) ![machine-learning](https://img.shields.io/badge/machine--learning-orange?style=flat-square)
+  - [Tencent/GameAISDK](https://github.com/Tencent/GameAISDK) – 基于图像的游戏AI自动化框架
+  - [flame-engine/flame](https://github.com/flame-engine/flame) – A Flutter based game engine. ![dart](https://img.shields.io/badge/dart-blue?style=flat-square) ![flame](https://img.shields.io/badge/flame-green?style=flat-square) ![flutter](https://img.shields.io/badge/flutter-orange?style=flat-square)
+  - [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) – Write interactive web app in script way. ![pywebio](https://img.shields.io/badge/pywebio-blue?style=flat-square)
+  - [leaningtech/webvm](https://github.com/leaningtech/webvm) – Virtual Machine for the Web ![cheerp](https://img.shields.io/badge/cheerp-blue?style=flat-square) ![cheerpx](https://img.shields.io/badge/cheerpx-green?style=flat-square) ![cpp](https://img.shields.io/badge/cpp-orange?style=flat-square)
+  - [AlmasB/FXGL](https://github.com/AlmasB/FXGL) – Java / JavaFX / Kotlin Game Library (Engine) ![2d](https://img.shields.io/badge/2d-blue?style=flat-square) ![2d-framework](https://img.shields.io/badge/2d--framework-green?style=flat-square) ![2d-game-engine](https://img.shields.io/badge/2d--game--engine-orange?style=flat-square)
+  - [jMonkeyEngine/jmonkeyengine](https://github.com/jMonkeyEngine/jmonkeyengine) – A complete 3-D game development suite written in Java. ![game-engine-3d](https://img.shields.io/badge/game--engine--3d-blue?style=flat-square) ![hacktoberfest](https://img.shields.io/badge/hacktoberfest-green?style=flat-square) ![java](https://img.shields.io/badge/java-orange?style=flat-square)
+  - [d3xvn/flutter_chess_board](https://github.com/d3xvn/flutter_chess_board) – A Chessboard widget for Flutter. ![chess](https://img.shields.io/badge/chess-blue?style=flat-square) ![chessboard](https://img.shields.io/badge/chessboard-green?style=flat-square) ![flutter](https://img.shields.io/badge/flutter-orange?style=flat-square)
+  - [hanabi1224/Programming-Language-Benchmarks](https://github.com/hanabi1224/Programming-Language-Benchmarks) – Yet another implementation of computer language benchmarks game ![benchmark](https://img.shields.io/badge/benchmark-blue?style=flat-square) ![benchmarks](https://img.shields.io/badge/benchmarks-green?style=flat-square) ![benchmarks-game](https://img.shields.io/badge/benchmarks--game-orange?style=flat-square)
+  - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) – Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module. ![compiler](https://img.shields.io/badge/compiler-blue?style=flat-square) ![nuitka](https://img.shields.io/badge/nuitka-green?style=flat-square) ![packaging-tool](https://img.shields.io/badge/packaging--tool-orange?style=flat-square)
+  - [rust-bakery/nom](https://github.com/rust-bakery/nom) – Rust parser combinator framework ![byte-array](https://img.shields.io/badge/byte--array-blue?style=flat-square) ![grammar](https://img.shields.io/badge/grammar-green?style=flat-square) ![nom](https://img.shields.io/badge/nom-orange?style=flat-square)
+  - [bytecodealliance/wasmtime-py](https://github.com/bytecodealliance/wasmtime-py) – Python WebAssembly runtime powered by Wasmtime ![python](https://img.shields.io/badge/python-blue?style=flat-square) ![wasm](https://img.shields.io/badge/wasm-green?style=flat-square) ![wasmtime](https://img.shields.io/badge/wasmtime-orange?style=flat-square)
+  - [pdfminer/pdfminer.six](https://github.com/pdfminer/pdfminer.six) – Community maintained fork of pdfminer - we fathom PDF ![parser](https://img.shields.io/badge/parser-blue?style=flat-square) ![pdf](https://img.shields.io/badge/pdf-green?style=flat-square) ![python](https://img.shields.io/badge/python-orange?style=flat-square)
+  - [bellard/quickjs](https://github.com/bellard/quickjs) – QuickJS是一个小型并且可嵌入的Javascript引擎，它支持ES2020规范，包括模块，异步生成器和代理器.
+  - [sqlalchemy/mako](https://github.com/sqlalchemy/mako) – Mako Templates for Python
+  - [umijs/mako](https://github.com/umijs/mako) – An extremely fast, production-grade web bundler based on Rust. ![bundler](https://img.shields.io/badge/bundler-blue?style=flat-square) ![javascript](https://img.shields.io/badge/javascript-green?style=flat-square) ![mako](https://img.shields.io/badge/mako-orange?style=flat-square)
+</details>
+
+
+### 📁 Enterprise & Low-Code
+
+<a name="enterprise-&-low-code-crm-erp-cms"></a>
+<details>
+  <summary>🏢 CRM / ERP / CMS</summary>
 
   - [twentyhq/twenty](https://github.com/twentyhq/twenty) – Building a modern alternative to Salesforce, powered by the community.
 </details>
 
-<a name="mature-open-source-projects-(crm-erp-cms)-lowcode-platforms"></a>
+<a name="enterprise-&-low-code-lowcode-platforms"></a>
 <details>
-  <summary>📦 Lowcode Platforms</summary>
+  <summary>📁 Lowcode Platforms</summary>
 
 </details>
 
-<a name="mature-open-source-projects-(crm-erp-cms)-__root__"></a>
 
-### 📘 Guides / Handbooks / Tutorials
+### 📁 Learning Resources
 
-<a name="guides-handbooks-tutorials-__root__"></a>
-- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) – Implement a ChatGPT-like LLM in PyTorch from scratch, step by step ![ai](https://img.shields.io/badge/ai-blue?style=flat-square) ![artificial-intelligence](https://img.shields.io/badge/artificial--intelligence-green?style=flat-square) ![chatgpt](https://img.shields.io/badge/chatgpt-orange?style=flat-square)
-- [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) – PyTorch Tutorial for Deep Learning Researchers ![deep-learning](https://img.shields.io/badge/deep--learning-blue?style=flat-square) ![neural-networks](https://img.shields.io/badge/neural--networks-green?style=flat-square) ![pytorch](https://img.shields.io/badge/pytorch-orange?style=flat-square)
-- [george518/PPGo_ApiAdmin](https://github.com/george518/PPGo_ApiAdmin) – go-API-manage ![api](https://img.shields.io/badge/api-blue?style=flat-square) ![beego](https://img.shields.io/badge/beego-green?style=flat-square) ![golang](https://img.shields.io/badge/golang-orange?style=flat-square)
-- [google/webauthndemo](https://github.com/google/webauthndemo) – An example Node.js Relying Party implementation of the WebAuthn specification ![authentication](https://img.shields.io/badge/authentication-blue?style=flat-square) ![authentication-backend](https://img.shields.io/badge/authentication--backend-green?style=flat-square) ![example](https://img.shields.io/badge/example-orange?style=flat-square)
-- [actix/examples](https://github.com/actix/examples) – Community showcase and examples of Actix Web ecosystem usage. ![actix](https://img.shields.io/badge/actix-blue?style=flat-square) ![actix-web](https://img.shields.io/badge/actix--web-green?style=flat-square) ![examples](https://img.shields.io/badge/examples-orange?style=flat-square)
-- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) – Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more. ![backend](https://img.shields.io/badge/backend-blue?style=flat-square) ![chakra-ui](https://img.shields.io/badge/chakra--ui-green?style=flat-square) ![docker](https://img.shields.io/badge/docker-orange?style=flat-square)
-- [dotnet/docs](https://github.com/dotnet/docs) – This repository contains .NET Documentation. ![csharp](https://img.shields.io/badge/csharp-blue?style=flat-square) ![dotnet](https://img.shields.io/badge/dotnet-green?style=flat-square) ![dotnet-core](https://img.shields.io/badge/dotnet--core-orange?style=flat-square)
-- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) – All Algorithms implemented in Python ![algorithm](https://img.shields.io/badge/algorithm-blue?style=flat-square) ![algorithm-competitions](https://img.shields.io/badge/algorithm--competitions-green?style=flat-square) ![algorithms-implemented](https://img.shields.io/badge/algorithms--implemented-orange?style=flat-square)
-- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) – This is a repo with links to everything you'd ever want to learn about data engineering.
+<a name="learning-resources-__root__"></a>
+<details>
+  <summary>📁 __root__</summary>
 
-### 📚 Datasets
+  - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) – Implement a ChatGPT-like LLM in PyTorch from scratch, step by step ![ai](https://img.shields.io/badge/ai-blue?style=flat-square) ![artificial-intelligence](https://img.shields.io/badge/artificial--intelligence-green?style=flat-square) ![chatgpt](https://img.shields.io/badge/chatgpt-orange?style=flat-square)
+  - [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) – PyTorch Tutorial for Deep Learning Researchers ![deep-learning](https://img.shields.io/badge/deep--learning-blue?style=flat-square) ![neural-networks](https://img.shields.io/badge/neural--networks-green?style=flat-square) ![pytorch](https://img.shields.io/badge/pytorch-orange?style=flat-square)
+  - [george518/PPGo_ApiAdmin](https://github.com/george518/PPGo_ApiAdmin) – go-API-manage ![api](https://img.shields.io/badge/api-blue?style=flat-square) ![beego](https://img.shields.io/badge/beego-green?style=flat-square) ![golang](https://img.shields.io/badge/golang-orange?style=flat-square)
+  - [google/webauthndemo](https://github.com/google/webauthndemo) – An example Node.js Relying Party implementation of the WebAuthn specification ![authentication](https://img.shields.io/badge/authentication-blue?style=flat-square) ![authentication-backend](https://img.shields.io/badge/authentication--backend-green?style=flat-square) ![example](https://img.shields.io/badge/example-orange?style=flat-square)
+  - [actix/examples](https://github.com/actix/examples) – Community showcase and examples of Actix Web ecosystem usage. ![actix](https://img.shields.io/badge/actix-blue?style=flat-square) ![actix-web](https://img.shields.io/badge/actix--web-green?style=flat-square) ![examples](https://img.shields.io/badge/examples-orange?style=flat-square)
+  - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) – Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more. ![backend](https://img.shields.io/badge/backend-blue?style=flat-square) ![chakra-ui](https://img.shields.io/badge/chakra--ui-green?style=flat-square) ![docker](https://img.shields.io/badge/docker-orange?style=flat-square)
+  - [dotnet/docs](https://github.com/dotnet/docs) – This repository contains .NET Documentation. ![csharp](https://img.shields.io/badge/csharp-blue?style=flat-square) ![dotnet](https://img.shields.io/badge/dotnet-green?style=flat-square) ![dotnet-core](https://img.shields.io/badge/dotnet--core-orange?style=flat-square)
+  - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) – All Algorithms implemented in Python ![algorithm](https://img.shields.io/badge/algorithm-blue?style=flat-square) ![algorithm-competitions](https://img.shields.io/badge/algorithm--competitions-green?style=flat-square) ![algorithms-implemented](https://img.shields.io/badge/algorithms--implemented-orange?style=flat-square)
+  - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) – This is a repo with links to everything you'd ever want to learn about data engineering.
+</details>
+
+
+### 📁 Datasets
 
 <a name="datasets-__root__"></a>
-- [xv44586/Chinese-instruction-datasets](https://github.com/xv44586/Chinese-instruction-datasets) – 中文 Instruction tuning datasets.
+<details>
+  <summary>📁 __root__</summary>
+
+  - [xv44586/Chinese-instruction-datasets](https://github.com/xv44586/Chinese-instruction-datasets) – 中文 Instruction tuning datasets.
+</details>
+
 
 ### 📁 未知分类
+
+<a name="未知分类-__root__"></a>
+<details>
+  <summary>📁 __root__</summary>
+
+</details>
 
 
 

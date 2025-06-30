@@ -8,32 +8,50 @@ OUTPUT_MD = "README.md"
 # 默认图标配置
 default_icons = {
     "Languages": "🔠",
-    "Frameworks": "🧱",
-    "Frameworks/SDKs": "🧱",
-    "Database": "📦",
-    "AI Frameworks": "🧱",
-    "Object Detector": "⚙️",
-    "AI Agents": "🧠",
+    "Databases": "📦",
+    "Frameworks & SDKs": "🧱",
+    "Storage Systems": "💾",
+    "Messaging & Streaming": "📨",
     "Large Models": "🧠📦",
+    "Computer Vision": "👁️",
+    "AI Agents": "🧠",
+    "Natural Language Processing": "💬",
+    "AI Tools & Frameworks": "🛠️🤖",
     "AI Applications": "🤖📱",
-    "UI kit": "📊",
-    "Applications": "📱",
-    "CRM / ERP / CMS": "📦",
-    "Lowcode Platforms": "📦",
-    "Dart/Flutter Tools": "🦋",
-    "Easy Work Tools": "🛠️",
-    "Datasets": "📚",
-    "DevOps / Tools": "⚙️",
-    "Experimental / Fun Projects": "🧪",
-    "Guides / Handbooks / Tutorials": "📘",
-    "Developer Productivity": "🧰",
-    "Frontend / UI / Mobile": "📱",
-    "Mature Open Source Projects (CRM / ERP / CMS)": "🏢",
-    "Full-Stack / Web Development": "🌐",
-    "Artificial Intelligence / Machine Learning": "🤖",
+    "Web Frameworks": "🌐",
+    "Mobile Development": "📱",
+    "Frontend & Mobile Applications": "🖥️",
+    "UI Component Libraries": "🧩",
+    "Build & Bundling": "📦",
+    "Testing & Quality": "✅",
+    "CI/CD & GitOps": "🔁",
+    "Observability": "📈",
+    "Cryptography": "🔐",
+    "Vulnerability Scanning": "🛡️",
+    "Identity & Access Management": "🧑‍💼",
+    "Secure Coding": "🧪",
+    "Smart Contracts": "📜",
+    "Blockchain Infrastructure": "⛓️",
+    "DeFi & NFTs": "💰",
+    "Web3 Tooling": "🧰",
+    "Game Engines": "🎮",
+    "Real-Time Rendering": "🖼️",
+    "Interactive Media": "🎨",
+    "Physics & Simulation": "🧲",
+    "CRM / ERP / CMS": "🏢",
+    "Low-Code Platforms": "📉",
+    "Business Intelligence": "📊",
+    "Workflow Automation": "🔄",
+    "Tutorials & Guides": "📘",
+    "Documentation": "📄",
+    "Best Practices & Cheat Sheets": "🧾",
+    "Courses & Workshops": "🎓",
+    "Machine Learning Datasets": "📚",
+    "Benchmark Suites": "📏",
+    "Domain-Specific Data": "📂",
+    "Synthetic Data": "🧬",
 }
 
-# 标签颜色配置，可自定义
 badge_colors = [
     "blue",
     "green",
@@ -48,7 +66,6 @@ badge_colors = [
 
 
 def anchor_name(title: str) -> str:
-    """生成 Markdown 锚点名称"""
     return (
         title.lower()
         .replace(" ", "-")
@@ -60,79 +77,57 @@ def anchor_name(title: str) -> str:
         .replace("--", "-")
     )
 
+
 def safe_badge_label(label: str) -> str:
-    """转义 Badge 标签，单个 - 替换为 --，其他字符正常 urlencode"""
-    # 先整体编码
-    encoded = quote_plus(label)
-    # 再把原始 - 替换为 --
-    safe = encoded.replace("-", "--")
-    return safe
+    return quote_plus(label).replace("-", "--")
+
 
 def render_topics(topics: list, max_length=3) -> str:
-    """使用 shields.io 生成标签 Badge"""
     if not topics:
         return ""
-
     badges = []
-    for i, topic in enumerate(topics[:max_length]):  # 最多展示10个
+    for i, topic in enumerate(topics[:max_length]):
         color = badge_colors[i % len(badge_colors)]
         safe_topic = safe_badge_label(topic)
-        badge = f"![{topic}](https://img.shields.io/badge/{safe_topic}-{color}?style=flat-square)"
-        badges.append(badge)
-
+        badges.append(
+            f"![{topic}](https://img.shields.io/badge/{safe_topic}-{color}?style=flat-square)"
+        )
     return " " + " ".join(badges)
 
 
 def generate_markdown(data: dict) -> str:
     md = ["---\n", "## 🔗 Quick Navigation\n"]
 
-    # Quick Navigation
-    for first_cat, subcats in data.items():
-        icon = default_icons.get(first_cat, "📁")
+    for first_cat, first_meta in data.items():
+        icon = "📁"
         md.append(f"### {icon} {first_cat}")
-        if isinstance(subcats, dict):
-            for second_cat in subcats:
-                icon2 = default_icons.get(second_cat, "📁")
-                anchor = anchor_name(f"{first_cat}-{second_cat}")
-                md.append(f"- [{icon2} {second_cat}](#{anchor})")
+        subcats = first_meta.get("subcategories", {})
+        for second_cat in subcats:
+            icon2 = default_icons.get(second_cat, "📁")
+            anchor = anchor_name(f"{first_cat}-{second_cat}")
+            md.append(f"- [{icon2} {second_cat}](#{anchor})")
         md.append("")
 
     md.append("---\n\n## 📚 Categories\n")
 
-    for first_cat, subcats in data.items():
-        icon = default_icons.get(first_cat, "📁")
+    for first_cat, first_meta in data.items():
+        icon = "📁"
         md.append(f"### {icon} {first_cat}\n")
+        subcats = first_meta.get("subcategories", {})
+        for second_cat, second_meta in subcats.items():
+            anchor = anchor_name(f"{first_cat}-{second_cat}")
+            icon2 = default_icons.get(second_cat, "📁")
+            md.append(f'<a name="{anchor}"></a>')
+            md.append(f"<details>\n  <summary>{icon2} {second_cat}</summary>\n")
+            for proj in second_meta.get("projects", []):
+                url = proj.get("url") or proj.get("html_url", "")
+                name = proj.get("fullname", proj.get("name", ""))
+                desc = (proj.get("description") or "").strip() or "No description."
+                topics = render_topics(proj.get("topics", []))
+                md.append(f"  - [{name}]({url}) – {desc}{topics}")
+            md.append("</details>\n")
 
-        if isinstance(subcats, dict):
-            for second_cat, projects in subcats.items():
-                anchor = anchor_name(f"{first_cat}-{second_cat}")
-                icon2 = default_icons.get(second_cat, "📁")
-
-                md.append(f'<a name="{anchor}"></a>')
-
-                if second_cat == "__root__":
-                    # 一级分类内的直接项目
-                    for proj in projects:
-                        url = proj.get("url") or proj.get("html_url", "")
-                        name = proj.get("fullname", proj.get("name", ""))
-                        desc = (
-                            proj.get("description") or ""
-                        ).strip() or "No description."
-                        topics = render_topics(proj.get("topics", []))
-                        md.append(f"- [{name}]({url}) – {desc}{topics}")
-                else:
-                    md.append(f"<details>\n  <summary>{icon2} {second_cat}</summary>\n")
-                    for proj in projects:
-                        url = proj.get("url") or proj.get("html_url", "")
-                        name = proj.get("fullname", proj.get("name", ""))
-                        desc = (
-                            proj.get("description") or ""
-                        ).strip() or "No description."
-                        topics = render_topics(proj.get("topics", []))
-                        md.append(f"  - [{name}]({url}) – {desc}{topics}")
-                    md.append("</details>\n")
-
-        md.append("")  # 分类之间空行
+        md.append("")
 
     return "\n".join(md)
 

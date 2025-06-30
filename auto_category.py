@@ -9,58 +9,169 @@ model = OpenAI(
 )
 
 categories = {
-    "Full-Stack / Web Development": {
-        "desc": "包含完整开发工具和框架，包括前后端与数据库",
+    "Artificial Intelligence & Machine Learning": {
+        "desc": "End-to-end AI/ML ecosystem: from foundational models to production-ready applications.",
         "subcategories": {
-            "Database": "数据库相关工具和引擎",
-            "Languages": "开发使用的主流语言",
-            "Frameworks/SDKs": "开发框架或者SDK，如前端或后端框架，例如springboot，flutter等",
+            "AI Agents": {
+                "desc": "Agents, tools, and environments for AI-powered agents."
+            },
+            "Research": {"desc": "Research papers, datasets, and code repositories."},
+            "Large Models": {
+                "desc": "Training frameworks, inference engines, and model hubs."
+            },
+            "Computer Vision": {
+                "desc": "Detection, segmentation, generation, and video understanding."
+            },
+            "Natural Language Processing": {
+                "desc": "Vector search, language understanding, and multimodal models."
+            },
+            "AI Platforms & Tools": {
+                "desc": "Libraries, SDKs, and MLOps pipelines for AI development."
+            },
+            "AI Applications": {
+                "desc": "Ready-to-deploy AI-powered solutions for chatbots, recommendation, and analytics."
+            },
         },
     },
-    "Artificial Intelligence / Machine Learning": {
-        "desc": "与 AI 和机器学习相关的项目",
+    "Frontend & Mobile Development": {
+        "desc": "User-facing experiences across web, mobile, and desktop environments.",
         "subcategories": {
-            "Researches": "与AI相关的研究项目",
-            "AI Frameworks": "AI模型框架，类似pytorch或tensorflow",
-            "Object Detector": "目标检测相关的算法和模型",
-            "AI Agents": "具备行动能力的 AI 智能体",
-            "Large Models": "大语言模型、多模态模型或大型预训练模型",
-            "AI Applications": "基于 AI 的应用程序，如 AI 绘图、对话等",
-            "Tools": "封装的人工智能工具",
+            "Development Framework": {
+                "desc": "React, Vue, Svelte, and full-stack meta-frameworks."
+            },
+            "Frontend & Mobile Applications": {
+                "desc": "some frontend applications"
+            },
+            "UI Component Libraries": {
+                "desc": "Design systems, component kits, and accessibility tools."
+            },
         },
     },
-    "Frontend / UI / Mobile": {
-        "desc": "前端界面、UI 库及移动端开发工具",
+    "Infrastructure & Data": {
+        "desc": "Core building blocks for any software system: databases, storage, messaging, and data infrastructure.",
         "subcategories": {
-            "UI kit": "用户界面组件库",
-            "Frameworks/SDKs": "前端/移动端生态框架，例如状态管理框架（riverpod），或者缓存框架（hive，isar）等",
-            "Applications": "前端或移动端应用模板或示例",
+            "Databases": {
+                "desc": "Relational, vector, graph, and time-series databases."
+            },
+            "Storage Systems": {
+                "desc": "Object storage, distributed filesystems, and data lakes."
+            },
+            "Messaging & Streaming": {
+                "desc": "Event buses, task queues, and stream-processing platforms."
+            },
+            "Frameworks & SDKs":{
+                "desc": "Frameworks and SDKs for building applications."
+            },
+            "Languages": {
+                "desc": "Development languages and tools."
+            }
         },
     },
-    "DevOps / Tools": {"desc": "DevOps、部署、构建和测试工具", "subcategories": {}},
-    "Developer Productivity": {
-        "desc": "提升开发效率的工具集",
+    "Developer Tooling & DevOps": {
+        "desc": "Toolchains that accelerate development, testing, deployment, and observability.",
         "subcategories": {
-            "Dart/Flutter Tools": "与 Dart 或 Flutter 相关的辅助工具",
-            "Easy Work Tools": "简化重复性工作的开发小工具",
+            "Build & Bundling": {
+                "desc": "Webpack, Vite, esbuild, and Rust-based compilers."
+            },
+            "Testing & Quality": {
+                "desc": "Unit, E2E, performance, and security testing suites."
+            },
+            "CI/CD & GitOps": {
+                "desc": "GitHub Actions, ArgoCD, and infrastructure-as-code."
+            },
+            "Observability": {
+                "desc": "Logging, metrics, tracing, and error-tracking platforms."
+            },
         },
     },
-    "Experimental / Fun Projects": {
-        "desc": "有趣或实验性的开源项目",
-        "subcategories": {},
-    },
-    "Mature Open Source Projects (CRM / ERP / CMS)": {
-        "desc": "成熟的大型开源系统",
+    "Security & Privacy": {
+        "desc": "Tooling and libraries for securing applications, data, and infrastructure.",
         "subcategories": {
-            "CRM / ERP / CMS": "客户管理、企业资源管理、内容管理系统",
-            "Lowcode Platforms": "低代码开发平台",
+            "Cryptography": {
+                "desc": "Encryption, hashing, and zero-knowledge proof libraries."
+            },
+            "Vulnerability Scanning": {
+                "desc": "SAST, DAST, and dependency-checking tools."
+            },
+            "Identity & Access Management": {
+                "desc": "OAuth2, OpenID Connect, and SSO solutions."
+            },
+            "Secure Coding": {
+                "desc": "Static analyzers, linters, and secret scanners."
+            },
         },
     },
-    "Guides / Handbooks / Tutorials": {
-        "desc": "教程、开发手册与学习资料",
-        "subcategories": {},
+    "Web3 & Blockchain": {
+        "desc": "Decentralized systems, smart contracts, and blockchain infrastructure.",
+        "subcategories": {
+            "Smart Contracts": {
+                "desc": "Solidity, Vyper, Rust (Solana), Move (Aptos)."
+            },
+            "Blockchain Infrastructure": {
+                "desc": "Nodes, wallets, and consensus clients."
+            },
+            "DeFi & NFTs": {"desc": "DEXs, lending protocols, and token standards."},
+            "Web3 Tooling": {"desc": "SDKs, explorers, and developer frameworks."},
+        },
     },
-    "Datasets": {"desc": "可用于训练或评估模型的数据集", "subcategories": {}},
+    "Fun Projects": {
+        "desc": "some fun projects, such as games, rendering, and more.",
+        "subcategories": {
+            "Game Engines": {"desc": "Unity, Unreal, Godot, and custom engines."},
+            "Real-Time Rendering": {"desc": "Vulkan, Metal, DirectX, and WebGPU."},
+            "Interactive Media": {
+                "desc": "VR/AR frameworks and creative coding tools."
+            },
+            "Physics & Simulation": {
+                "desc": "Physics engines and procedural generation."
+            },
+        },
+    },
+    "Enterprise & Low-Code": {
+        "desc": "Mature, production-grade systems for business automation.",
+        "subcategories": {
+            "CRM / ERP / CMS": {"desc": "Odoo, ERPNext, and mature CMS platforms."},
+            "Low-Code Platforms": {
+                "desc": "Appsmith, ToolJet, and internal-tool builders."
+            },
+            "Business Intelligence": {
+                "desc": "Metabase, Superset, and data-visualization suites."
+            },
+            "Workflow Automation": {
+                "desc": "Zapier alternatives and robotic-process automation."
+            },
+        },
+    },
+    "Learning Resources": {
+        "desc": "Tutorials, documentation, and community-driven knowledge bases.",
+        "subcategories": {
+            "Tutorials & Guides": {"desc": "Step-by-step project walkthroughs."},
+            "Documentation": {"desc": "Official docs, API references, and handbooks."},
+            "Best Practices & Cheat Sheets": {
+                "desc": "Wikis, cheatsheets, and proven engineering conventions."
+            },
+            "Courses & Workshops": {
+                "desc": "Interactive learning platforms and MOOCs."
+            },
+        },
+    },
+    "Datasets": {
+        "desc": "Curated collections of data for training, benchmarking, and research.",
+        "subcategories": {
+            "Machine Learning Datasets": {
+                "desc": "Image, text, audio, and multimodal corpora."
+            },
+            "Benchmark Suites": {
+                "desc": "Standardized evaluation datasets and leaderboards."
+            },
+            "Domain-Specific Data": {
+                "desc": "Finance, healthcare, geospatial, and IoT datasets."
+            },
+            "Synthetic Data": {
+                "desc": "Generated datasets for privacy-preserving research."
+            },
+        },
+    },
 }
 
 
@@ -69,40 +180,36 @@ projects = json.load(open("all_starred_simplified.json", "r", encoding="utf-8"))
 
 def classify_project(project, categories):
     prompt = f"""
-你是一个专业的“开源项目分类助手”，请根据以下信息，将项目准确归入最匹配的分类。
+你是一个开源项目分类助手，请根据每个项目的“名称、描述、主题（topics）”将其归入最匹配的分类中。
 
-【分类参考信息】
-以下是完整的分类体系，每个一级分类包含：
-- **分类说明（desc）**：用于辅助理解该分类的边界与适用范围；
-- **二级分类（subcategories）**：具体可选的分类标签，部分一级分类无需细分。
-
-分类体系如下：
+以下是完整的分类体系（包含一级分类描述和二级分类描述）：
 {json.dumps(categories, indent=2, ensure_ascii=False)}
 
-【分类规则】
+分类规则如下：
 
-1. 你**只能从上述所有“二级分类”中选择一个最匹配的分类名称（字符串）**，并返回该名称。
-2. 特殊情况：若项目属于以下一级分类之一，直接返回对应一级分类的名称（无需选择二级分类）：
-   - "DevOps / Tools"：与 DevOps、部署、构建、测试等相关
-   - "Experimental / Fun Projects"：有趣、实验性、探索性质的项目
-   - "Guides / Handbooks / Tutorials"：教程、手册、学习资料
-   - "Datasets"：用于训练或评估的数据集
-3. 分类判断标准：
-   - 优先根据 `topics` 字段判断；
-   - 其次参考 `name`（项目名称）；
-   - 再次参考 `description`（项目描述）；
-   - `topics` 为空数组 `[]` 时忽略该字段；
-   - `description` 为空字符串或 `null` 时忽略该字段；
-4. 在判断时，请**结合分类说明（desc）理解分类含义**，确保准确归类。
-5. 若无任何分类匹配，请返回固定字符串："无匹配，需人工确认"。
+1. 你必须从所有二级分类中选择一个最合适的分类，并**仅返回该分类名称字符串**。
+2. 但如果该项目明显只属于以下这些一级分类本身：
+   - "Developer Tooling & DevOps"
+   - "Security & Privacy"
+   - "Web3 & Blockchain"
+   - "Gaming & Graphics"
+   - "Learning Resources"
+   - "Datasets"
+   则可以直接返回一级分类名称（不选取其子类）。
+3. `topics` 若为空数组 (`[]`)，请忽略该字段；
+   `description` 若为空字符串或为 null，也请忽略；
+   仅在字段有内容时用于辅助判断。
+4. 优先根据 `topics` 判断，其次参考 `name` 和 `description`。
+5. 如果无法确定该项目属于任何分类，请返回："无匹配，需人工确认"。
 
-【项目信息】
-
+项目信息如下：
 - 名称: {project['name']}
 - 描述: {project['description']}
 - 主题: {project['topics']}
 
-请仅返回最终分类名称字符串，严禁附加任何解释、分析或格式内容。
+请注意：
+- **只返回最终分类名称字符串（例如："Large Models" 或 "Datasets"）**；
+- 不要附加任何解释、标点或额外内容。
 """
 
     completion = model.chat.completions.create(
