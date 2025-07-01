@@ -2016,6 +2016,296 @@
         "desc": "Research papers, datasets and new ideas.",
         "projects": [
           {
+            "name": "ChatDev",
+            "fullname": "OpenBMB/ChatDev",
+            "url": "https://github.com/OpenBMB/ChatDev",
+            "topics": [],
+            "description": "Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)"
+          },
+          {
+            "name": "Wonder3D",
+            "fullname": "xxlong0/Wonder3D",
+            "url": "https://github.com/xxlong0/Wonder3D",
+            "topics": [
+              "3d-aigc",
+              "3d-generation",
+              "3dgeneration",
+              "single-image-to-3d"
+            ],
+            "description": "Single Image to 3D using Cross-Domain Diffusion for 3D Generation"
+          },
+          {
+            "name": "Text-Classification---Fanfic-POV",
+            "fullname": "Kya-Allen/Text-Classification---Fanfic-POV",
+            "url": "https://github.com/Kya-Allen/Text-Classification---Fanfic-POV",
+            "topics": [],
+            "description": "Using Statistical/Machine Learning techniques and unstructured text data from Archive of Our Own (Ao3) to build a Point of view classifier. 93% accuracy so far"
+          },
+          {
+            "name": "classifier-multi-label",
+            "fullname": "hellonlp/classifier-multi-label",
+            "url": "https://github.com/hellonlp/classifier-multi-label",
+            "topics": [
+              "attention",
+              "bert",
+              "classifier-multi-label",
+              "cnn",
+              "multi-label",
+              "multi-label-classification",
+              "seq2seq",
+              "tensorflow",
+              "text-classification",
+              "text-classifier",
+              "textcnn"
+            ],
+            "description": "多标签文本分类，多标签分类，文本分类, multi-label, classifier, text classification, BERT, seq2seq，attention, multi-label-classification"
+          },
+          {
+            "name": "magic-animate",
+            "fullname": "magic-research/magic-animate",
+            "url": "https://github.com/magic-research/magic-animate",
+            "topics": [],
+            "description": "[CVPR 2024] Official repository for \"MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model\""
+          },
+          {
+            "name": "fasttext_classification_ch",
+            "fullname": "bnwei425/fasttext_classification_ch",
+            "url": "https://github.com/bnwei425/fasttext_classification_ch",
+            "topics": [],
+            "description": "使用fasttext进行中文文本分类"
+          },
+          {
+            "name": "MLCD-Seg",
+            "fullname": "deepglint/MLCD-Seg",
+            "url": "https://github.com/deepglint/MLCD-Seg",
+            "topics": [],
+            "description": "MLCD-Seg is a zero-shot segmentation model from DeepGlint."
+          },
+          {
+            "name": "memvid",
+            "fullname": "Olow304/memvid",
+            "url": "https://github.com/Olow304/memvid",
+            "topics": [
+              "ai",
+              "context",
+              "embedded",
+              "faiss",
+              "knowledge-base",
+              "knowledge-graph",
+              "llm",
+              "machine-learning",
+              "memory",
+              "nlp",
+              "offline-first",
+              "opencv",
+              "python",
+              "rag",
+              "retrieval-augmented-generation",
+              "semantic-search",
+              "vector-database",
+              "video-processing"
+            ],
+            "description": "Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed."
+          },
+          {
+            "name": "search_with_lepton",
+            "fullname": "leptonai/search_with_lepton",
+            "url": "https://github.com/leptonai/search_with_lepton",
+            "topics": [
+              "ai",
+              "ai-applications",
+              "leptonai",
+              "llm"
+            ],
+            "description": "Building a quick conversation-based search demo with Lepton AI."
+          },
+          {
+            "name": "magika",
+            "fullname": "google/magika",
+            "url": "https://github.com/google/magika",
+            "topics": [
+              "deep-learning",
+              "filetype",
+              "keras-classification-models",
+              "keras-models",
+              "mime-types"
+            ],
+            "description": "Detect file content types with deep learning"
+          },
+          {
+            "name": "storm",
+            "fullname": "stanford-oval/storm",
+            "url": "https://github.com/stanford-oval/storm",
+            "topics": [
+              "agentic-rag",
+              "deep-research",
+              "emnlp2024",
+              "knowledge-curation",
+              "large-language-models",
+              "naacl",
+              "nlp",
+              "report-generation",
+              "retrieval-augmented-generation"
+            ],
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations."
+          },
+          {
+            "name": "hallo",
+            "fullname": "fudan-generative-vision/hallo",
+            "url": "https://github.com/fudan-generative-vision/hallo",
+            "topics": [
+              "face-animation",
+              "image-animation",
+              "video-animation"
+            ],
+            "description": "Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation"
+          },
+          {
+            "name": "sam2",
+            "fullname": "facebookresearch/sam2",
+            "url": "https://github.com/facebookresearch/sam2",
+            "topics": [],
+            "description": "The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model."
+          },
+          {
+            "name": "flux",
+            "fullname": "black-forest-labs/flux",
+            "url": "https://github.com/black-forest-labs/flux",
+            "topics": [],
+            "description": "Official inference repo for FLUX.1 models"
+          },
+          {
+            "name": "knowledge_graph",
+            "fullname": "rahulnyk/knowledge_graph",
+            "url": "https://github.com/rahulnyk/knowledge_graph",
+            "topics": [],
+            "description": "Convert any text to a graph of knowledge. This can be used for Graph Augmented Generation or Knowledge Graph based QnA"
+          },
+          {
+            "name": "openspg",
+            "fullname": "OpenSPG/openspg",
+            "url": "https://github.com/OpenSPG/openspg",
+            "topics": [
+              "kag",
+              "knowledge-augmented-generation",
+              "knowledge-graph",
+              "knowledge-reasoning",
+              "llm-kg-bidirectional-enhancement",
+              "spg"
+            ],
+            "description": "OpenSPG is a Knowledge Graph Engine developed by Ant Group in collaboration with OpenKG, based on the SPG (Semantic-enhanced Programmable Graph) framework.   Core Capabilities: 1) domain model constrained knowledge modeling, 2) facts and logic fused  representation, 3) natively support KAG..."
+          },
+          {
+            "name": "Open-Sora-Plan",
+            "fullname": "PKU-YuanGroup/Open-Sora-Plan",
+            "url": "https://github.com/PKU-YuanGroup/Open-Sora-Plan",
+            "topics": [],
+            "description": "This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project."
+          },
+          {
+            "name": "g1",
+            "fullname": "bklieger-groq/g1",
+            "url": "https://github.com/bklieger-groq/g1",
+            "topics": [],
+            "description": "g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains"
+          },
+          {
+            "name": "LightRAG",
+            "fullname": "HKUDS/LightRAG",
+            "url": "https://github.com/HKUDS/LightRAG",
+            "topics": [
+              "genai",
+              "gpt",
+              "gpt-4",
+              "graphrag",
+              "knowledge-graph",
+              "large-language-models",
+              "llm",
+              "rag",
+              "retrieval-augmented-generation"
+            ],
+            "description": "\"LightRAG: Simple and Fast Retrieval-Augmented Generation\""
+          },
+          {
+            "name": "lingua",
+            "fullname": "facebookresearch/lingua",
+            "url": "https://github.com/facebookresearch/lingua",
+            "topics": [],
+            "description": "Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs."
+          },
+          {
+            "name": "TPA",
+            "fullname": "tensorgi/TPA",
+            "url": "https://github.com/tensorgi/TPA",
+            "topics": [
+              "deep-learning",
+              "foundation-models",
+              "large-language-models",
+              "llms",
+              "model-architectures",
+              "pretraining"
+            ],
+            "description": "The official implementation of TPA: Tensor ProducT ATTenTion Transformer (T6) (https://arxiv.org/abs/2501.06425)"
+          },
+          {
+            "name": "MiniRAG",
+            "fullname": "HKUDS/MiniRAG",
+            "url": "https://github.com/HKUDS/MiniRAG",
+            "topics": [
+              "large-language-models",
+              "rag",
+              "retrieval-augmented-generation"
+            ],
+            "description": "\"MiniRAG: Making RAG Simpler with Small and Free Language Models\""
+          },
+          {
+            "name": "open-r1",
+            "fullname": "huggingface/open-r1",
+            "url": "https://github.com/huggingface/open-r1",
+            "topics": [],
+            "description": "Fully open reproduction of DeepSeek-R1"
+          },
+          {
+            "name": "YuE",
+            "fullname": "multimodal-art-projection/YuE",
+            "url": "https://github.com/multimodal-art-projection/YuE",
+            "topics": [
+              "ai",
+              "audio-generation",
+              "deep-learning",
+              "foundation-models",
+              "gpt",
+              "huggingface",
+              "llama",
+              "llms",
+              "music-generation",
+              "style-transfers",
+              "voice-cloning"
+            ],
+            "description": "YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open"
+          },
+          {
+            "name": "LLaVA",
+            "fullname": "haotian-liu/LLaVA",
+            "url": "https://github.com/haotian-liu/LLaVA",
+            "topics": [
+              "chatbot",
+              "chatgpt",
+              "foundation-models",
+              "gpt-4",
+              "instruction-tuning",
+              "llama",
+              "llama-2",
+              "llama2",
+              "llava",
+              "multi-modality",
+              "multimodal",
+              "vision-language-model",
+              "visual-language-learning"
+            ],
+            "description": "[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond."
+          },
+          {
             "name": "graphrag",
             "fullname": "microsoft/graphrag",
             "url": "https://github.com/microsoft/graphrag",
@@ -2497,6 +2787,573 @@
       "AI Platforms & Tools": {
         "desc": "Libraries, SDKs, and MLOps pipelines for AI development.",
         "projects": [
+          {
+            "name": "scorecardpy",
+            "fullname": "ShichenXie/scorecardpy",
+            "url": "https://github.com/ShichenXie/scorecardpy",
+            "topics": [
+              "binning",
+              "credit-scoring",
+              "python",
+              "release",
+              "scorecard",
+              "woe",
+              "woebinning"
+            ],
+            "description": "Scorecard Development in python, 评分卡"
+          },
+          {
+            "name": "Scorecard-Bundle",
+            "fullname": "Lantianzz/Scorecard-Bundle",
+            "url": "https://github.com/Lantianzz/Scorecard-Bundle",
+            "topics": [
+              "chimerge",
+              "credit-scorecard",
+              "feature-discretization",
+              "model-evaluation",
+              "scorecard-bundle",
+              "scorecared",
+              "woe"
+            ],
+            "description": "A High-level Scorecard Modeling API  | 评分卡建模尽在于此"
+          },
+          {
+            "name": "toad",
+            "fullname": "amphibian-dev/toad",
+            "url": "https://github.com/amphibian-dev/toad",
+            "topics": [
+              "credit-risk",
+              "credit-scoring",
+              "data-analysis",
+              "financial-analysis",
+              "python3",
+              "scorecard",
+              "toad"
+            ],
+            "description": "ESC Team's credit scorecard tools."
+          },
+          {
+            "name": "promptflow",
+            "fullname": "microsoft/promptflow",
+            "url": "https://github.com/microsoft/promptflow",
+            "topics": [
+              "ai",
+              "ai-application-development",
+              "ai-applications",
+              "chatgpt",
+              "gpt",
+              "llm",
+              "prompt",
+              "prompt-engineering"
+            ],
+            "description": "Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring."
+          },
+          {
+            "name": "gpt-crawler",
+            "fullname": "BuilderIO/gpt-crawler",
+            "url": "https://github.com/BuilderIO/gpt-crawler",
+            "topics": [
+              "ai"
+            ],
+            "description": "Crawl a site to generate knowledge files to create your own custom GPT from a URL"
+          },
+          {
+            "name": "Text_Classification",
+            "fullname": "kk7nc/Text_Classification",
+            "url": "https://github.com/kk7nc/Text_Classification",
+            "topics": [
+              "boosting-algorithms",
+              "conditional-random-fields",
+              "convolutional-neural-networks",
+              "decision-trees",
+              "deep-belief-network",
+              "deep-learning",
+              "deep-neural-network",
+              "dimensionality-reduction",
+              "document-classification",
+              "hierarchical-attention-networks",
+              "k-nearest-neighbours",
+              "logistic-regression",
+              "naive-bayes-classifier",
+              "nlp-machine-learning",
+              "random-forest",
+              "recurrent-neural-networks",
+              "rocchio-algorithm",
+              "support-vector-machines",
+              "text-classification",
+              "text-processing"
+            ],
+            "description": "Text Classification Algorithms: A Survey"
+          },
+          {
+            "name": "zerox",
+            "fullname": "getomni-ai/zerox",
+            "url": "https://github.com/getomni-ai/zerox",
+            "topics": [
+              "ocr",
+              "pdf"
+            ],
+            "description": "OCR & Document Extraction using vision models"
+          },
+          {
+            "name": "litellm",
+            "fullname": "BerriAI/litellm",
+            "url": "https://github.com/BerriAI/litellm",
+            "topics": [
+              "ai-gateway",
+              "anthropic",
+              "azure-openai",
+              "bedrock",
+              "gateway",
+              "langchain",
+              "litellm",
+              "llm",
+              "llm-gateway",
+              "llmops",
+              "mcp-gateway",
+              "openai",
+              "openai-proxy",
+              "vertex-ai"
+            ],
+            "description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]"
+          },
+          {
+            "name": "memobase",
+            "fullname": "memodb-io/memobase",
+            "url": "https://github.com/memodb-io/memobase",
+            "topics": [
+              "ai-companion",
+              "ai-memory",
+              "chatgpt",
+              "llm-application",
+              "llm-memory",
+              "long-term-memory",
+              "memory",
+              "rag",
+              "retrieval",
+              "user-memory"
+            ],
+            "description": "Profile-Based Long-Term Memory for AI Applications"
+          },
+          {
+            "name": "motorhead",
+            "fullname": "getmetal/motorhead",
+            "url": "https://github.com/getmetal/motorhead",
+            "topics": [
+              "llmops",
+              "llms",
+              "machine-learning",
+              "ml",
+              "mlops",
+              "rust"
+            ],
+            "description": "🧠 Motorhead is a memory and information retrieval server for LLMs."
+          },
+          {
+            "name": "chatterbox",
+            "fullname": "resemble-ai/chatterbox",
+            "url": "https://github.com/resemble-ai/chatterbox",
+            "topics": [],
+            "description": "SoTA open-source TTS"
+          },
+          {
+            "name": "PyPOTS",
+            "fullname": "WenjieDu/PyPOTS",
+            "url": "https://github.com/WenjieDu/PyPOTS",
+            "topics": [
+              "anomaly-detection",
+              "classification",
+              "clustering",
+              "data-mining",
+              "deep-learning",
+              "forecasting",
+              "generation",
+              "imputation",
+              "machine-learning",
+              "missing-values",
+              "pytorch",
+              "time-series"
+            ],
+            "description": "A Python toolkit/library for reality-centric machine/deep learning and data mining on partially-observed time series, including SOTA neural network models for scientific analysis tasks of imputation/classification/clustering/forecasting/anomaly detection/cleaning on incomplete industrial (irregularly-sampled) multivariate TS with NaN missing values"
+          },
+          {
+            "name": "google_ml_kit_flutter",
+            "fullname": "flutter-ml/google_ml_kit_flutter",
+            "url": "https://github.com/flutter-ml/google_ml_kit_flutter",
+            "topics": [
+              "hactoberfest"
+            ],
+            "description": "A flutter plugin that implements Google's standalone ML Kit"
+          },
+          {
+            "name": "vosk-api",
+            "fullname": "alphacep/vosk-api",
+            "url": "https://github.com/alphacep/vosk-api",
+            "topics": [
+              "android",
+              "asr",
+              "deep-learning",
+              "deep-neural-networks",
+              "deepspeech",
+              "google-speech-to-text",
+              "ios",
+              "kaldi",
+              "offline",
+              "privacy",
+              "python",
+              "raspberry-pi",
+              "speaker-identification",
+              "speaker-verification",
+              "speech-recognition",
+              "speech-to-text",
+              "speech-to-text-android",
+              "stt",
+              "voice-recognition",
+              "vosk"
+            ],
+            "description": "Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node"
+          },
+          {
+            "name": "popup-translation",
+            "fullname": "fzdwx/popup-translation",
+            "url": "https://github.com/fzdwx/popup-translation",
+            "topics": [
+              "fanyi",
+              "rust",
+              "tauri",
+              "translation",
+              "webview"
+            ],
+            "description": " Recommended to use [openai-translator](https://github.com/openai-translator/openai-translator) A desktop popup translation tool."
+          },
+          {
+            "name": "GPT-SoVITS",
+            "fullname": "RVC-Boss/GPT-SoVITS",
+            "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+            "topics": [
+              "text-to-speech",
+              "tts",
+              "vits",
+              "voice-clone",
+              "voice-cloneai",
+              "voice-cloning"
+            ],
+            "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)"
+          },
+          {
+            "name": "plate",
+            "fullname": "udecode/plate",
+            "url": "https://github.com/udecode/plate",
+            "topics": [
+              "ai",
+              "mcp",
+              "react",
+              "shadcn-ui",
+              "slate",
+              "typescript",
+              "wysiwyg"
+            ],
+            "description": "Rich-text editor with AI, MCP, and shadcn/ui"
+          },
+          {
+            "name": "llamafile",
+            "fullname": "Mozilla-Ocho/llamafile",
+            "url": "https://github.com/Mozilla-Ocho/llamafile",
+            "topics": [],
+            "description": "Distribute and run LLMs with a single file."
+          },
+          {
+            "name": "fabric",
+            "fullname": "danielmiessler/fabric",
+            "url": "https://github.com/danielmiessler/fabric",
+            "topics": [
+              "ai",
+              "augmentation",
+              "flourishing",
+              "life",
+              "work"
+            ],
+            "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere."
+          },
+          {
+            "name": "Steganalysis",
+            "fullname": "librauee/Steganalysis",
+            "url": "https://github.com/librauee/Steganalysis",
+            "topics": [],
+            "description": "🦄Python 实现LSB算法进行信息隐藏  包含空域与变换域 JPEG信息隐藏算法  对PDF文件进行信息隐藏  基于卷积神经网络的隐写分析 Matlab SRM、SCA隐写分析 "
+          },
+          {
+            "name": "langchain-rust",
+            "fullname": "Abraxas-365/langchain-rust",
+            "url": "https://github.com/Abraxas-365/langchain-rust",
+            "topics": [
+              "langchain",
+              "llm",
+              "llms",
+              "openai",
+              "rust"
+            ],
+            "description": "🦜️🔗LangChain for Rust, the easiest way to write LLM-based programs in Rust"
+          },
+          {
+            "name": "langchain_dart",
+            "fullname": "davidmigloz/langchain_dart",
+            "url": "https://github.com/davidmigloz/langchain_dart",
+            "topics": [
+              "ai",
+              "dart",
+              "flutter",
+              "generative-ai",
+              "llms",
+              "nlp"
+            ],
+            "description": "Build LLM-powered Dart/Flutter applications."
+          },
+          {
+            "name": "facechain",
+            "fullname": "modelscope/facechain",
+            "url": "https://github.com/modelscope/facechain",
+            "topics": [],
+            "description": "FaceChain is a deep-learning toolchain for generating your Digital-Twin."
+          },
+          {
+            "name": "omniparse",
+            "fullname": "adithya-s-k/omniparse",
+            "url": "https://github.com/adithya-s-k/omniparse",
+            "topics": [
+              "ingestion-api",
+              "ocr",
+              "omniparser",
+              "parse-server",
+              "parser-library",
+              "vision-transformer",
+              "web-crawler",
+              "whisper-api"
+            ],
+            "description": "Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks"
+          },
+          {
+            "name": "cake",
+            "fullname": "evilsocket/cake",
+            "url": "https://github.com/evilsocket/cake",
+            "topics": [],
+            "description": "Distributed LLM and StableDiffusion inference for mobile, desktop and server."
+          },
+          {
+            "name": "MinerU",
+            "fullname": "opendatalab/MinerU",
+            "url": "https://github.com/opendatalab/MinerU",
+            "topics": [
+              "ai4science",
+              "document-analysis",
+              "extract-data",
+              "layout-analysis",
+              "ocr",
+              "parser",
+              "pdf",
+              "pdf-converter",
+              "pdf-extractor-llm",
+              "pdf-extractor-pretrain",
+              "pdf-extractor-rag",
+              "pdf-parser",
+              "python"
+            ],
+            "description": "A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。"
+          },
+          {
+            "name": "lance",
+            "fullname": "lancedb/lance",
+            "url": "https://github.com/lancedb/lance",
+            "topics": [
+              "apache-arrow",
+              "computer-vision",
+              "data-analysis",
+              "data-analytics",
+              "data-centric",
+              "data-format",
+              "data-science",
+              "dataops",
+              "deep-learning",
+              "duckdb",
+              "embeddings",
+              "llms",
+              "machine-learning",
+              "mlops",
+              "python",
+              "rust"
+            ],
+            "description": "Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming.."
+          },
+          {
+            "name": "HivisionIDPhotos",
+            "fullname": "Zeyi-Lin/HivisionIDPhotos",
+            "url": "https://github.com/Zeyi-Lin/HivisionIDPhotos",
+            "topics": [
+              "cnn",
+              "demo",
+              "docker",
+              "face-recognition",
+              "fastapi",
+              "gradio",
+              "idphoto",
+              "machine-learning",
+              "matting",
+              "mtcnn",
+              "tools",
+              "unet"
+            ],
+            "description": "⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。"
+          },
+          {
+            "name": "similarity",
+            "fullname": "shibing624/similarity",
+            "url": "https://github.com/shibing624/similarity",
+            "topics": [
+              "java",
+              "nlp",
+              "semantic",
+              "sentiment",
+              "sim-scores",
+              "similarity"
+            ],
+            "description": "similarity: Text similarity calculation Toolkit for Java. 文本相似度计算工具包，java编写，可用于文本相似度计算、情感分析等任务，开箱即用。"
+          },
+          {
+            "name": "llama.cpp",
+            "fullname": "ggml-org/llama.cpp",
+            "url": "https://github.com/ggml-org/llama.cpp",
+            "topics": [
+              "ggml",
+              "llama"
+            ],
+            "description": "LLM inference in C/C++"
+          },
+          {
+            "name": "mistral.rs",
+            "fullname": "EricLBuehler/mistral.rs",
+            "url": "https://github.com/EricLBuehler/mistral.rs",
+            "topics": [
+              "llm",
+              "rust"
+            ],
+            "description": "Blazingly fast LLM inference."
+          },
+          {
+            "name": "RWKV-Runner",
+            "fullname": "josStorer/RWKV-Runner",
+            "url": "https://github.com/josStorer/RWKV-Runner",
+            "topics": [
+              "api",
+              "api-client",
+              "chatgpt",
+              "llm",
+              "rwkv",
+              "tool",
+              "wails"
+            ],
+            "description": "A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use."
+          },
+          {
+            "name": "Firefly",
+            "fullname": "yangjianxin1/Firefly",
+            "url": "https://github.com/yangjianxin1/Firefly",
+            "topics": [
+              "alpaca",
+              "aquila",
+              "baichuan",
+              "chatglm",
+              "gemma",
+              "gpt",
+              "internlm",
+              "llama",
+              "llama2",
+              "llama3",
+              "llm",
+              "lora",
+              "minicpm",
+              "mistral",
+              "mixtral",
+              "peft",
+              "qlora",
+              "qwen",
+              "qwen2",
+              "zephyr"
+            ],
+            "description": "Firefly: 大模型训练工具，支持训练Qwen2.5、Qwen2、Yi1.5、Phi-3、Llama3、Gemma、MiniCPM、Yi、Deepseek、Orion、Xverse、Mixtral-8x7B、Zephyr、Mistral、Baichuan2、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya2、Vicuna、Bloom等大模型"
+          },
+          {
+            "name": "Jlama",
+            "fullname": "tjake/Jlama",
+            "url": "https://github.com/tjake/Jlama",
+            "topics": [
+              "ai",
+              "genai",
+              "gpt",
+              "huggingface",
+              "java",
+              "llama",
+              "llm",
+              "openai",
+              "simd",
+              "transformers"
+            ],
+            "description": "Jlama is a modern LLM inference engine for Java"
+          },
+          {
+            "name": "mmagic",
+            "fullname": "open-mmlab/mmagic",
+            "url": "https://github.com/open-mmlab/mmagic",
+            "topics": [
+              "aigc",
+              "computer-vision",
+              "deep-learning",
+              "diffusion",
+              "diffusion-models",
+              "generative-adversarial-network",
+              "generative-ai",
+              "image-editing",
+              "image-generation",
+              "image-processing",
+              "image-synthesis",
+              "inpainting",
+              "matting",
+              "pytorch",
+              "super-resolution",
+              "text2image",
+              "video-frame-interpolation",
+              "video-interpolation",
+              "video-super-resolution"
+            ],
+            "description": "OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generation, image/video restoration/enhancement, etc."
+          },
+          {
+            "name": "modelscope",
+            "fullname": "modelscope/modelscope",
+            "url": "https://github.com/modelscope/modelscope",
+            "topics": [
+              "cv",
+              "deep-learning",
+              "machine-learning",
+              "multi-modal",
+              "nlp",
+              "python",
+              "science",
+              "speech"
+            ],
+            "description": "ModelScope: bring the notion of Model-as-a-Service to life."
+          },
+          {
+            "name": "describe-anything",
+            "fullname": "NVlabs/describe-anything",
+            "url": "https://github.com/NVlabs/describe-anything",
+            "topics": [
+              "describe-anything",
+              "detailed-localized-captioning",
+              "large-multimodal-models",
+              "vision-language-model"
+            ],
+            "description": "Implementation for Describe Anything: Detailed Localized Image and Video Captioning"
+          },
           {
             "name": "gym",
             "fullname": "openai/gym",
@@ -3642,6 +4499,36 @@
         "desc": "Detection, segmentation, generation, and video understanding.",
         "projects": [
           {
+            "name": "RapidOCR",
+            "fullname": "RapidAI/RapidOCR",
+            "url": "https://github.com/RapidAI/RapidOCR",
+            "topics": [
+              "chineseocr",
+              "crnn",
+              "dbnet",
+              "easyocr",
+              "ocr",
+              "onnxocr",
+              "onnxruntime",
+              "openvino",
+              "paddleocr",
+              "rapidocr",
+              "rapidocronnxruntime"
+            ],
+            "description": "📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, PaddlePaddle and PyTorch."
+          },
+          {
+            "name": "RapidOrientation",
+            "fullname": "RapidAI/RapidOrientation",
+            "url": "https://github.com/RapidAI/RapidOrientation",
+            "topics": [
+              "classification",
+              "ppstructure",
+              "table-recognition"
+            ],
+            "description": "文档方向分类"
+          },
+          {
             "name": "yolov5",
             "fullname": "ultralytics/yolov5",
             "url": "https://github.com/ultralytics/yolov5",
@@ -4117,8 +5004,376 @@
         ]
       },
       "Large Models": {
-        "desc": "TODO",
+        "desc": "Training frameworks, inference engines, and model hubs.",
         "projects": [
+          {
+            "name": "MiniCPM",
+            "fullname": "OpenBMB/MiniCPM",
+            "url": "https://github.com/OpenBMB/MiniCPM",
+            "topics": [],
+            "description": "MiniCPM4: Ultra-Efficient LLMs on End Devices, achieving 5+ speedup on typical end-side chips"
+          },
+          {
+            "name": "MiniCPM-o",
+            "fullname": "OpenBMB/MiniCPM-o",
+            "url": "https://github.com/OpenBMB/MiniCPM-o",
+            "topics": [
+              "minicpm",
+              "minicpm-v",
+              "multi-modal"
+            ],
+            "description": "MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone"
+          },
+          {
+            "name": "CodeT5",
+            "fullname": "salesforce/CodeT5",
+            "url": "https://github.com/salesforce/CodeT5",
+            "topics": [
+              "code-generation",
+              "code-intelligence",
+              "code-understanding",
+              "language-model",
+              "large-language-models"
+            ],
+            "description": "Home of CodeT5: Open Code LLMs for Code Understanding and Generation"
+          },
+          {
+            "name": "NeMo",
+            "fullname": "NVIDIA/NeMo",
+            "url": "https://github.com/NVIDIA/NeMo",
+            "topics": [
+              "asr",
+              "deeplearning",
+              "generative-ai",
+              "large-language-models",
+              "machine-translation",
+              "multimodal",
+              "neural-networks",
+              "speaker-diariazation",
+              "speaker-recognition",
+              "speech-synthesis",
+              "speech-translation",
+              "tts"
+            ],
+            "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)"
+          },
+          {
+            "name": "stable-diffusion",
+            "fullname": "CompVis/stable-diffusion",
+            "url": "https://github.com/CompVis/stable-diffusion",
+            "topics": [],
+            "description": "A latent text-to-image diffusion model"
+          },
+          {
+            "name": "CodeGen",
+            "fullname": "salesforce/CodeGen",
+            "url": "https://github.com/salesforce/CodeGen",
+            "topics": [
+              "codex",
+              "generativemodel",
+              "languagemodel",
+              "llm",
+              "programsynthesis",
+              "tpu-acceleration"
+            ],
+            "description": "CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex."
+          },
+          {
+            "name": "llama2.c",
+            "fullname": "karpathy/llama2.c",
+            "url": "https://github.com/karpathy/llama2.c",
+            "topics": [],
+            "description": "Inference Llama 2 in one file of pure C"
+          },
+          {
+            "name": "InternLM",
+            "fullname": "InternLM/InternLM",
+            "url": "https://github.com/InternLM/InternLM",
+            "topics": [
+              "chatbot",
+              "chinese",
+              "fine-tuning-llm",
+              "flash-attention",
+              "gpt",
+              "large-language-model",
+              "llm",
+              "long-context",
+              "pretrained-models",
+              "rlhf"
+            ],
+            "description": "Official release of InternLM series (InternLM, InternLM2, InternLM2.5, InternLM3)."
+          },
+          {
+            "name": "CPM-Bee",
+            "fullname": "OpenBMB/CPM-Bee",
+            "url": "https://github.com/OpenBMB/CPM-Bee",
+            "topics": [],
+            "description": "百亿参数的中英文双语基座大模型"
+          },
+          {
+            "name": "LaWGPT",
+            "fullname": "pengxiao-song/LaWGPT",
+            "url": "https://github.com/pengxiao-song/LaWGPT",
+            "topics": [],
+            "description": " 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型"
+          },
+          {
+            "name": "MiniGPT-4",
+            "fullname": "Vision-CAIR/MiniGPT-4",
+            "url": "https://github.com/Vision-CAIR/MiniGPT-4",
+            "topics": [],
+            "description": "Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)"
+          },
+          {
+            "name": "ChatGLM3",
+            "fullname": "THUDM/ChatGLM3",
+            "url": "https://github.com/THUDM/ChatGLM3",
+            "topics": [],
+            "description": "ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型"
+          },
+          {
+            "name": "Llama-Chinese",
+            "fullname": "LlamaFamily/Llama-Chinese",
+            "url": "https://github.com/LlamaFamily/Llama-Chinese",
+            "topics": [
+              "agent",
+              "llama",
+              "llama4",
+              "llm",
+              "pretraining",
+              "rl"
+            ],
+            "description": "Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用"
+          },
+          {
+            "name": "ChatGLM-6B",
+            "fullname": "THUDM/ChatGLM-6B",
+            "url": "https://github.com/THUDM/ChatGLM-6B",
+            "topics": [],
+            "description": "ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型"
+          },
+          {
+            "name": "PowerInfer",
+            "fullname": "SJTU-IPADS/PowerInfer",
+            "url": "https://github.com/SJTU-IPADS/PowerInfer",
+            "topics": [
+              "large-language-models",
+              "llama",
+              "llm",
+              "llm-inference",
+              "local-inference"
+            ],
+            "description": "High-speed Large Language Model Serving for Local Deployment"
+          },
+          {
+            "name": "unicom",
+            "fullname": "deepglint/unicom",
+            "url": "https://github.com/deepglint/unicom",
+            "topics": [
+              "embodied-artificial-intelligence",
+              "laion400m",
+              "large-language-models",
+              "large-sacle-pretrained-model",
+              "multimodal-large-language-models",
+              "vision-transformer"
+            ],
+            "description": "Large-Scale Visual Representation Model"
+          },
+          {
+            "name": "lawyer-llama",
+            "fullname": "AndrewZhe/lawyer-llama",
+            "url": "https://github.com/AndrewZhe/lawyer-llama",
+            "topics": [
+              "alpaca",
+              "large-language-models",
+              "legal-ai",
+              "llama",
+              "llm",
+              "nlp",
+              "plm",
+              "pretrained-language-model",
+              "pretrained-models"
+            ],
+            "description": "中文法律LLaMA (LLaMA for Chinese legel domain)"
+          },
+          {
+            "name": "Phi2-mini-Chinese",
+            "fullname": "charent/Phi2-mini-Chinese",
+            "url": "https://github.com/charent/Phi2-mini-Chinese",
+            "topics": [
+              "language-model",
+              "phi-2",
+              "retrieval-augmented-generation",
+              "text-generation"
+            ],
+            "description": "Phi2-Chinese-0.2B 从0开始训练自己的Phi2中文小模型，支持接入langchain加载本地知识库做检索增强生成RAG。Training your own Phi2 small chat model from scratch."
+          },
+          {
+            "name": "ChatLM-mini-Chinese",
+            "fullname": "charent/ChatLM-mini-Chinese",
+            "url": "https://github.com/charent/ChatLM-mini-Chinese",
+            "topics": [
+              "chatbot",
+              "language-model",
+              "t5-model",
+              "text-generation"
+            ],
+            "description": "中文对话0.2B小模型（ChatLM-Chinese-0.2B），开源所有数据集来源、数据清洗、tokenizer训练、模型预训练、SFT指令微调、RLHF优化等流程的全部代码。支持下游任务sft微调，给出三元组信息抽取微调示例。"
+          },
+          {
+            "name": "DISC-LawLLM",
+            "fullname": "FudanDISC/DISC-LawLLM",
+            "url": "https://github.com/FudanDISC/DISC-LawLLM",
+            "topics": [
+              "domain-llm",
+              "legal-intelligence",
+              "legal-llm",
+              "nlp"
+            ],
+            "description": "[中文法律大模型] DISC-LawLLM: an intelligent legal system powered by large language models (LLMs) to provide a wide range of legal services. "
+          },
+          {
+            "name": "ChatLaw",
+            "fullname": "PKU-YuanGroup/ChatLaw",
+            "url": "https://github.com/PKU-YuanGroup/ChatLaw",
+            "topics": [],
+            "description": "ChatLaw：A Powerful LLM Tailored for Chinese Legal. 中文法律大模型"
+          },
+          {
+            "name": "llama3",
+            "fullname": "meta-llama/llama3",
+            "url": "https://github.com/meta-llama/llama3",
+            "topics": [],
+            "description": "The official Meta Llama 3 GitHub site"
+          },
+          {
+            "name": "MGM",
+            "fullname": "dvlab-research/MGM",
+            "url": "https://github.com/dvlab-research/MGM",
+            "topics": [
+              "generation",
+              "large-language-models",
+              "vision-language-model"
+            ],
+            "description": "Official repo for \"Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models\""
+          },
+          {
+            "name": "vllm",
+            "fullname": "vllm-project/vllm",
+            "url": "https://github.com/vllm-project/vllm",
+            "topics": [
+              "amd",
+              "cuda",
+              "deepseek",
+              "gpt",
+              "hpu",
+              "inference",
+              "inferentia",
+              "llama",
+              "llm",
+              "llm-serving",
+              "llmops",
+              "mlops",
+              "model-serving",
+              "pytorch",
+              "qwen",
+              "rocm",
+              "tpu",
+              "trainium",
+              "transformer",
+              "xpu"
+            ],
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs"
+          },
+          {
+            "name": "ms-swift",
+            "fullname": "modelscope/ms-swift",
+            "url": "https://github.com/modelscope/ms-swift",
+            "topics": [
+              "deepseek-r1",
+              "deploy",
+              "embedding",
+              "grpo",
+              "internvl",
+              "liger",
+              "llama",
+              "llama4",
+              "llm",
+              "lora",
+              "megatron",
+              "multimodal",
+              "omni",
+              "open-r1",
+              "peft",
+              "qwen2-vl",
+              "qwen3",
+              "qwen3-moe",
+              "rft",
+              "sft"
+            ],
+            "description": "Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 500+ LLMs (Qwen3, Qwen3-MoE, Llama4, InternLM3, DeepSeek-R1, ...) and 200+ MLLMs (Qwen2.5-VL, Qwen2.5-Omni, Qwen2-Audio, Ovis2, InternVL3, Llava, GLM4v, Phi4, ...) (AAAI 2025)."
+          },
+          {
+            "name": "LLaMA-Factory",
+            "fullname": "hiyouga/LLaMA-Factory",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "topics": [
+              "agent",
+              "ai",
+              "deepseek",
+              "fine-tuning",
+              "gemma",
+              "gpt",
+              "instruction-tuning",
+              "large-language-models",
+              "llama",
+              "llama3",
+              "llm",
+              "lora",
+              "moe",
+              "nlp",
+              "peft",
+              "qlora",
+              "quantization",
+              "qwen",
+              "rlhf",
+              "transformers"
+            ],
+            "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)"
+          },
+          {
+            "name": "llm-chain",
+            "fullname": "sobelio/llm-chain",
+            "url": "https://github.com/sobelio/llm-chain",
+            "topics": [
+              "chatgpt",
+              "langchain",
+              "llama",
+              "llm",
+              "openai",
+              "rust",
+              "text-summary"
+            ],
+            "description": "`llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks"
+          },
+          {
+            "name": "cambrian",
+            "fullname": "cambrian-mllm/cambrian",
+            "url": "https://github.com/cambrian-mllm/cambrian",
+            "topics": [
+              "chatbot",
+              "clip",
+              "computer-vision",
+              "dino",
+              "instruction-tuning",
+              "large-language-models",
+              "llms",
+              "mllm",
+              "multimodal-large-language-models",
+              "representation-learning"
+            ],
+            "description": "Cambrian-1 is a family of multimodal LLMs with a vision-centric design."
+          },
           {
             "name": "langchain4j",
             "fullname": "langchain4j/langchain4j",
@@ -4159,8 +5414,317 @@
         ]
       },
       "AI Applications": {
-        "desc": "TODO",
+        "desc": "Ready-to-deploy AI-powered solutions for chatbots, recommendation, and analytics.",
         "projects": [
+          {
+            "name": "FreeAskInternet",
+            "fullname": "nashsu/FreeAskInternet",
+            "url": "https://github.com/nashsu/FreeAskInternet",
+            "topics": [],
+            "description": "FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use. "
+          },
+          {
+            "name": "nisaba",
+            "fullname": "alybun/nisaba",
+            "url": "https://github.com/alybun/nisaba",
+            "topics": [
+              "ai",
+              "ai-bots",
+              "ai-chatbot",
+              "bot",
+              "chatbot",
+              "go",
+              "golang",
+              "irc",
+              "irc-bot",
+              "llama",
+              "llamafile",
+              "llm",
+              "machine-learning",
+              "natural-language-processing",
+              "nlp-chatbot"
+            ],
+            "description": "Create an IRC chat bot powered by AI, using llamafile, in minutes."
+          },
+          {
+            "name": "MaxKB",
+            "fullname": "1Panel-dev/MaxKB",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "topics": [
+              "chatbot",
+              "deepseek-r1",
+              "knowledgebase",
+              "langchain",
+              "llama3",
+              "llm",
+              "maxkb",
+              "mcp-server",
+              "ollama",
+              "pgvector",
+              "qwen3",
+              "rag"
+            ],
+            "description": "💬 MaxKB is an open-source AI assistant for enterprise. It seamlessly integrates RAG pipelines, supports robust workflows, and provides MCP tool-use capabilities."
+          },
+          {
+            "name": "openui",
+            "fullname": "wandb/openui",
+            "url": "https://github.com/wandb/openui",
+            "topics": [
+              "ai",
+              "generative-ai",
+              "html-css-javascript",
+              "tailwindcss"
+            ],
+            "description": "OpenUI let's you describe UI using your imagination, then see it rendered live."
+          },
+          {
+            "name": "Scrapegraph-ai",
+            "fullname": "ScrapeGraphAI/Scrapegraph-ai",
+            "url": "https://github.com/ScrapeGraphAI/Scrapegraph-ai",
+            "topics": [
+              "ai",
+              "ai-scraping",
+              "automated-scraper",
+              "crawler",
+              "html-to-markdown",
+              "llm",
+              "markdown",
+              "rag",
+              "scraping",
+              "scraping-python",
+              "web-crawler",
+              "web-crawlers",
+              "web-scraping"
+            ],
+            "description": "Python scraper based on AI"
+          },
+          {
+            "name": "ragflow",
+            "fullname": "infiniflow/ragflow",
+            "url": "https://github.com/infiniflow/ragflow",
+            "topics": [
+              "agent",
+              "agents",
+              "ai",
+              "ai-search",
+              "chatbot",
+              "chatgpt",
+              "deep-learning",
+              "deepseek",
+              "deepseek-r1",
+              "document-parser",
+              "document-understanding",
+              "graphrag",
+              "llm",
+              "nlp",
+              "ollama",
+              "pdf-to-text",
+              "rag",
+              "retrieval-augmented-generation",
+              "table-structure-recognition",
+              "text2sql"
+            ],
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding."
+          },
+          {
+            "name": "ChatGPT",
+            "fullname": "lencx/ChatGPT",
+            "url": "https://github.com/lencx/ChatGPT",
+            "topics": [
+              "ai",
+              "app",
+              "application",
+              "chatgpt",
+              "desktop-app",
+              "gpt",
+              "gpt-3",
+              "linux",
+              "macos",
+              "notes-app",
+              "openai",
+              "rust",
+              "tauri",
+              "webview",
+              "windows"
+            ],
+            "description": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)"
+          },
+          {
+            "name": "FastGPT",
+            "fullname": "labring/FastGPT",
+            "url": "https://github.com/labring/FastGPT",
+            "topics": [
+              "agent",
+              "claude",
+              "deepseek",
+              "llm",
+              "mcp",
+              "nextjs",
+              "openai",
+              "qwen",
+              "rag",
+              "workflow"
+            ],
+            "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration."
+          },
+          {
+            "name": "open-webui",
+            "fullname": "open-webui/open-webui",
+            "url": "https://github.com/open-webui/open-webui",
+            "topics": [
+              "ai",
+              "llm",
+              "llm-ui",
+              "llm-webui",
+              "llms",
+              "mcp",
+              "ollama",
+              "ollama-webui",
+              "open-webui",
+              "openai",
+              "openapi",
+              "rag",
+              "self-hosted",
+              "ui",
+              "webui"
+            ],
+            "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+          },
+          {
+            "name": "pixels2flutter",
+            "fullname": "davidmigloz/pixels2flutter",
+            "url": "https://github.com/davidmigloz/pixels2flutter",
+            "topics": [
+              "flutter",
+              "gpt-4-vision",
+              "llms",
+              "openai"
+            ],
+            "description": "Convert a screenshot to a working Flutter app."
+          },
+          {
+            "name": "omi",
+            "fullname": "BasedHardware/omi",
+            "url": "https://github.com/BasedHardware/omi",
+            "topics": [
+              "ai",
+              "app",
+              "bci",
+              "c",
+              "flutter",
+              "friend",
+              "mobile",
+              "necklace",
+              "nextjs",
+              "omi",
+              "personas",
+              "python",
+              "smartglasses",
+              "summary",
+              "transcription",
+              "wearable"
+            ],
+            "description": "AI wearables. Put it on, speak, transcribe, automatically"
+          },
+          {
+            "name": "DiffSynth-Studio",
+            "fullname": "modelscope/DiffSynth-Studio",
+            "url": "https://github.com/modelscope/DiffSynth-Studio",
+            "topics": [],
+            "description": "Enjoy the magic of Diffusion models!"
+          },
+          {
+            "name": "Deep-Live-Cam",
+            "fullname": "hacksider/Deep-Live-Cam",
+            "url": "https://github.com/hacksider/Deep-Live-Cam",
+            "topics": [
+              "ai",
+              "ai-deep-fake",
+              "ai-face",
+              "ai-webcam",
+              "artificial-intelligence",
+              "deep-fake",
+              "deepfake",
+              "deepfake-webcam",
+              "faceswap",
+              "fake-webcam",
+              "gan",
+              "real-time-deepfake",
+              "realtime",
+              "realtime-deepfake",
+              "realtime-face-changer",
+              "video-deepfake",
+              "webcam",
+              "webcamera"
+            ],
+            "description": "real time face swap and one-click video deepfake with only a single image"
+          },
+          {
+            "name": "kotaemon",
+            "fullname": "Cinnamon/kotaemon",
+            "url": "https://github.com/Cinnamon/kotaemon",
+            "topics": [
+              "chatbot",
+              "llms",
+              "open-source",
+              "rag"
+            ],
+            "description": "An open-source RAG-based tool for chatting with your documents."
+          },
+          {
+            "name": "lobe-chat",
+            "fullname": "lobehub/lobe-chat",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "topics": [
+              "agent",
+              "ai",
+              "artifacts",
+              "chat",
+              "chatgpt",
+              "claude",
+              "deepseek",
+              "deepseek-r1",
+              "function-calling",
+              "gemini",
+              "gpt",
+              "knowledge-base",
+              "mcp",
+              "nextjs",
+              "ollama",
+              "openai",
+              "rag"
+            ],
+            "description": "🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modal (Plugins / Artifacts / MCP) and thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application."
+          },
+          {
+            "name": "gpt4all",
+            "fullname": "nomic-ai/gpt4all",
+            "url": "https://github.com/nomic-ai/gpt4all",
+            "topics": [
+              "ai-chat",
+              "llm-inference"
+            ],
+            "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use."
+          },
+          {
+            "name": "BELLE",
+            "fullname": "LianjiaTech/BELLE",
+            "url": "https://github.com/LianjiaTech/BELLE",
+            "topics": [
+              "bloom",
+              "chinese-nlp",
+              "gpt-evaluation",
+              "gpt-q",
+              "instruct-finetune",
+              "instruct-gpt",
+              "instruction-set",
+              "llama",
+              "lora",
+              "open-models"
+            ],
+            "description": "BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）"
+          },
           {
             "name": "deer-flow",
             "fullname": "bytedance/deer-flow",
@@ -6921,9 +8485,49 @@
   "Fun Projects": {
     "desc": "some fun projects, such as games, rendering, and more.",
     "subcategories": {
-      "__root__": {
+      "all": {
         "desc": "TODO",
         "projects": [
+          {
+            "name": "MaaAssistantArknights",
+            "fullname": "MaaAssistantArknights/MaaAssistantArknights",
+            "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+            "topics": [
+              "arknights",
+              "computer-vision",
+              "maa"
+            ],
+            "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients."
+          },
+          {
+            "name": "dota2bot-OpenHyperAI",
+            "fullname": "forest0xia/dota2bot-OpenHyperAI",
+            "url": "https://github.com/forest0xia/dota2bot-OpenHyperAI",
+            "topics": [
+              "dota2",
+              "dota2-bot"
+            ],
+            "description": "A beta Dota2 Bot Script aims to provide better bot game experience"
+          },
+          {
+            "name": "WeChatMsg",
+            "fullname": "LC044/WeChatMsg",
+            "url": "https://github.com/LC044/WeChatMsg",
+            "topics": [
+              "chatgpt",
+              "llms",
+              "pyqt",
+              "wechat"
+            ],
+            "description": null
+          },
+          {
+            "name": "npc_neural_training",
+            "fullname": "RafaelBarbosatec/npc_neural_training",
+            "url": "https://github.com/RafaelBarbosatec/npc_neural_training",
+            "topics": [],
+            "description": "Simple implementation of the training of NPC using Neural Network perceptron and Bonfire."
+          },
           {
             "name": "SWE-agent",
             "fullname": "SWE-agent/SWE-agent",
@@ -7262,6 +8866,92 @@
         "desc": "Step-by-step project walkthroughs.",
         "projects": [
           {
+            "name": "gallery",
+            "fullname": "google-ai-edge/gallery",
+            "url": "https://github.com/google-ai-edge/gallery",
+            "topics": [],
+            "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally."
+          },
+          {
+            "name": "awesome-chatgpt-prompts-zh",
+            "fullname": "PlexPt/awesome-chatgpt-prompts-zh",
+            "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
+            "topics": [
+              "chat-gpt",
+              "chatgpt",
+              "chatgpt3",
+              "chatgpt4",
+              "gpt"
+            ],
+            "description": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。"
+          },
+          {
+            "name": "RAG_Techniques",
+            "fullname": "NirDiamant/RAG_Techniques",
+            "url": "https://github.com/NirDiamant/RAG_Techniques",
+            "topics": [
+              "ai",
+              "langchain",
+              "llama-index",
+              "llm",
+              "llms",
+              "opeani",
+              "python",
+              "rag",
+              "tutorials"
+            ],
+            "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses."
+          },
+          {
+            "name": "KnowledgeGraph",
+            "fullname": "myhhub/KnowledgeGraph",
+            "url": "https://github.com/myhhub/KnowledgeGraph",
+            "topics": [
+              "knowledge-graph",
+              "knowledge-management",
+              "named-entity-recognition",
+              "question-answering",
+              "relation-extraction"
+            ],
+            "description": "knowledge graph知识图谱,从零开始构建知识图谱"
+          },
+          {
+            "name": "MINI_LLM",
+            "fullname": "jiahe7ay/MINI_LLM",
+            "url": "https://github.com/jiahe7ay/MINI_LLM",
+            "topics": [],
+            "description": "This is a repository used by individuals to experiment and reproduce the pre-training process of LLM."
+          },
+          {
+            "name": "minimind",
+            "fullname": "jingyaogong/minimind",
+            "url": "https://github.com/jingyaogong/minimind",
+            "topics": [
+              "artificial-intelligence",
+              "large-language-model"
+            ],
+            "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!"
+          },
+          {
+            "name": "MLLM-Finetuning-Demo",
+            "fullname": "BUAADreamer/MLLM-Finetuning-Demo",
+            "url": "https://github.com/BUAADreamer/MLLM-Finetuning-Demo",
+            "topics": [
+              "finetune-llm",
+              "huggingface-datasets",
+              "llama-factory",
+              "llava",
+              "lora",
+              "mllm",
+              "paligemma",
+              "pretraining",
+              "supervised-finetuning",
+              "transformers",
+              "yi-vl"
+            ],
+            "description": "使用LLaMA-Factory微调多模态大语言模型的示例代码  Demo of Finetuning Multimodal LLM with LLaMA-Factory"
+          },
+          {
             "name": "LLMs-from-scratch",
             "fullname": "rasbt/LLMs-from-scratch",
             "url": "https://github.com/rasbt/LLMs-from-scratch",
@@ -7327,6 +9017,80 @@
       "Documentation": {
         "desc": "Official docs, API references, and handbooks.",
         "projects": [
+          {
+            "name": "ML-For-Beginners",
+            "fullname": "microsoft/ML-For-Beginners",
+            "url": "https://github.com/microsoft/ML-For-Beginners",
+            "topics": [
+              "data-science",
+              "education",
+              "machine-learning",
+              "machine-learning-algorithms",
+              "machinelearning",
+              "machinelearning-python",
+              "microsoft-for-beginners",
+              "ml",
+              "python",
+              "r",
+              "scikit-learn",
+              "scikit-learn-python"
+            ],
+            "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all"
+          },
+          {
+            "name": "generative-ai-for-beginners",
+            "fullname": "microsoft/generative-ai-for-beginners",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "topics": [
+              "ai",
+              "azure",
+              "chatgpt",
+              "dall-e",
+              "generative-ai",
+              "generativeai",
+              "gpt",
+              "language-model",
+              "llms",
+              "microsoft-for-beginners",
+              "openai",
+              "prompt-engineering",
+              "semantic-search",
+              "transformers"
+            ],
+            "description": "21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/"
+          },
+          {
+            "name": "GPTs",
+            "fullname": "linexjlin/GPTs",
+            "url": "https://github.com/linexjlin/GPTs",
+            "topics": [],
+            "description": "leaked prompts of GPTs"
+          },
+          {
+            "name": "awesome-chatgpt-prompts",
+            "fullname": "f/awesome-chatgpt-prompts",
+            "url": "https://github.com/f/awesome-chatgpt-prompts",
+            "topics": [
+              "bots",
+              "chatbot",
+              "chatgpt",
+              "chatgpt-api",
+              "language"
+            ],
+            "description": "This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better."
+          },
+          {
+            "name": "Agriculture_KnowledgeGraph",
+            "fullname": "qq547276542/Agriculture_KnowledgeGraph",
+            "url": "https://github.com/qq547276542/Agriculture_KnowledgeGraph",
+            "topics": [
+              "knowledge-graph",
+              "named-entity-recognition",
+              "question-answering",
+              "relation-extraction"
+            ],
+            "description": "农业知识图谱(AgriKG)：农业领域的信息检索，命名实体识别，关系抽取，智能问答，辅助决策"
+          },
           {
             "name": "PPGo_ApiAdmin",
             "fullname": "george518/PPGo_ApiAdmin",
