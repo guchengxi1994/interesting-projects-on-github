@@ -8054,7 +8054,7 @@
   "Developer Tooling & DevOps": {
     "desc": "Toolchains that accelerate development, testing, deployment, and observability.",
     "subcategories": {
-      "__root__": {
+      "all": {
         "desc": "TODO",
         "projects": [
           {
