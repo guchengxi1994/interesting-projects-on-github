@@ -34,7 +34,7 @@ This repository is a curated collection of **interesting, inspiring, or technica
 - [🖥️ Frontend & Mobile Applications](#frontend-&-mobile-development-frontend-&-mobile-applications)
 
 ### 📁 Developer Tooling & DevOps
-- [📁 __root__](#developer-tooling-&-devops-__root__)
+- [📁 all](#developer-tooling-&-devops-all)
 
 ### 📁 Security & Privacy
 - [🔐 Cryptography](#security-&-privacy-cryptography)
@@ -735,9 +735,9 @@ This repository is a curated collection of **interesting, inspiring, or technica
 
 ### 📁 Developer Tooling & DevOps
 
-<a name="developer-tooling-&-devops-__root__"></a>
+<a name="developer-tooling-&-devops-all"></a>
 <details>
-  <summary>📁 __root__</summary>
+  <summary>📁 all</summary>
 
   - [searxng/searxng](https://github.com/searxng/searxng) – SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. ![hacktoberfest](https://img.shields.io/badge/hacktoberfest-blue?style=flat-square) ![metasearch](https://img.shields.io/badge/metasearch-green?style=flat-square) ![metasearch-engine](https://img.shields.io/badge/metasearch--engine-orange?style=flat-square)
   - [AlistGo/alist](https://github.com/AlistGo/alist) – 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。 ![file-server](https://img.shields.io/badge/file--server-blue?style=flat-square) ![gin](https://img.shields.io/badge/gin-green?style=flat-square) ![golang](https://img.shields.io/badge/golang-orange?style=flat-square)
