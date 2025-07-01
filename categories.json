@@ -5924,6 +5924,1501 @@
         "desc": "Design systems, component kits, and accessibility tools.",
         "projects": [
           {
+            "name": "Babylon.js",
+            "fullname": "BabylonJS/Babylon.js",
+            "url": "https://github.com/BabylonJS/Babylon.js",
+            "topics": [
+              "3d",
+              "babylon",
+              "game-development",
+              "game-engine",
+              "game-engine-3d",
+              "typescript",
+              "webaudio",
+              "webgl",
+              "webgl2",
+              "webgpu",
+              "webvr",
+              "webxr"
+            ],
+            "description": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework."
+          },
+          {
+            "name": "three_js",
+            "fullname": "Knightro63/three_js",
+            "url": "https://github.com/Knightro63/three_js",
+            "topics": [],
+            "description": "A dart conversion of three.js. "
+          },
+          {
+            "name": "tray-item-rs",
+            "fullname": "olback/tray-item-rs",
+            "url": "https://github.com/olback/tray-item-rs",
+            "topics": [
+              "hacktoberfest",
+              "icon",
+              "linux",
+              "macos",
+              "tray",
+              "tray-icon",
+              "tray-menu",
+              "windows"
+            ],
+            "description": "Multi-platform Tray Indicator"
+          },
+          {
+            "name": "flutter_math",
+            "fullname": "simpleclub/flutter_math",
+            "url": "https://github.com/simpleclub/flutter_math",
+            "topics": [],
+            "description": "Fork of flutter_math addressing compatibility problems while flutter_math is not being maintained."
+          },
+          {
+            "name": "rtf.js",
+            "fullname": "tbluemel/rtf.js",
+            "url": "https://github.com/tbluemel/rtf.js",
+            "topics": [],
+            "description": "Render RTF documents in HTML."
+          },
+          {
+            "name": "fledger",
+            "fullname": "ineiti/fledger",
+            "url": "https://github.com/ineiti/fledger",
+            "topics": [
+              "blockchain",
+              "browser",
+              "ledger",
+              "wasm",
+              "webrtc"
+            ],
+            "description": "Fair Fun Fast Ledger in the browser - starting with the network using WebRTC data."
+          },
+          {
+            "name": "WinToast",
+            "fullname": "mohabouje/WinToast",
+            "url": "https://github.com/mohabouje/WinToast",
+            "topics": [
+              "event-handlers",
+              "modern-features",
+              "notifications",
+              "toast-notifications",
+              "toast-templates",
+              "windows",
+              "windows-10",
+              "windows-uwp"
+            ],
+            "description": "WinToast is a lightly library written in C++ which brings a complete integration of the modern toast notifications of Windows 8 & Windows 10.  Toast notifications allows your app to inform the users about relevant information and timely events that they should see and take action upon inside your app, such as a new instant message, a new friend request, breaking news, or a calendar event."
+          },
+          {
+            "name": "Motion-Tab-Bar",
+            "fullname": "therezacuet/Motion-Tab-Bar",
+            "url": "https://github.com/therezacuet/Motion-Tab-Bar",
+            "topics": [
+              "android",
+              "android-library",
+              "appbar",
+              "bottomnavigationview",
+              "dart",
+              "dart-library",
+              "dart-package",
+              "dartlang",
+              "flutter",
+              "flutter-apps",
+              "flutter-demo",
+              "flutter-material",
+              "flutter-package",
+              "flutter-plugin",
+              "flutter-ui",
+              "flutter-widget",
+              "ios",
+              "ios-lib",
+              "tabbar",
+              "widget"
+            ],
+            "description": "A beautiful animated flutter widget package library. The tab bar will attempt to use your current theme out of the box, however you may want to theme it."
+          },
+          {
+            "name": "PySimpleGUI",
+            "fullname": "PySimpleGUI/PySimpleGUI",
+            "url": "https://github.com/PySimpleGUI/PySimpleGUI",
+            "topics": [
+              "beginner-friendly",
+              "datavisualization",
+              "games",
+              "gui",
+              "gui-framework",
+              "gui-programming",
+              "gui-window",
+              "pyside2",
+              "pysimplegui",
+              "python",
+              "python-gui",
+              "qt",
+              "qt-gui",
+              "remi",
+              "systemtray",
+              "tkinter",
+              "tkinter-gui",
+              "tkinter-python",
+              "user-interface",
+              "wxpython"
+            ],
+            "description": "Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018 and actively developed, maintained, and supported in 2024. Transforms tkinter, Qt, WxPython, and Remi into a simple, intuitive, and fun experience for both hobbyists and expert users."
+          },
+          {
+            "name": "Animated-Text-Kit",
+            "fullname": "aagarwal1012/Animated-Text-Kit",
+            "url": "https://github.com/aagarwal1012/Animated-Text-Kit",
+            "topics": [
+              "animated-text-kit",
+              "animation",
+              "dart",
+              "flutter",
+              "flutter-package",
+              "material-design",
+              "text-animation"
+            ],
+            "description": "🔔  A flutter package to create cool and beautiful text animations. [Flutter Favorite Package]"
+          },
+          {
+            "name": "tdesign-flutter",
+            "fullname": "Tencent/tdesign-flutter",
+            "url": "https://github.com/Tencent/tdesign-flutter",
+            "topics": [],
+            "description": "A Flutter UI components lib for TDesign."
+          },
+          {
+            "name": "egui_graphs",
+            "fullname": "blitzar-tech/egui_graphs",
+            "url": "https://github.com/blitzar-tech/egui_graphs",
+            "topics": [
+              "data-visualization",
+              "egui",
+              "graph-visualization",
+              "petgraph",
+              "rust"
+            ],
+            "description": "Interactive graph visualization widget for rust powered by egui and petgraph"
+          },
+          {
+            "name": "flutterfx_widgets",
+            "fullname": "flutterfx/flutterfx_widgets",
+            "url": "https://github.com/flutterfx/flutterfx_widgets",
+            "topics": [
+              "animated-widget",
+              "animation",
+              "flutter",
+              "ui-components",
+              "ui-design"
+            ],
+            "description": "Collection of animated flutter widgets for busy flutter developers. Copy paste into your app!"
+          },
+          {
+            "name": "forui",
+            "fullname": "forus-labs/forui",
+            "url": "https://github.com/forus-labs/forui",
+            "topics": [
+              "flutter",
+              "flutter-package",
+              "flutter-ui"
+            ],
+            "description": "Forus Lab's Flutter UI library"
+          },
+          {
+            "name": "flutter-shadcn-ui",
+            "fullname": "nank1ro/flutter-shadcn-ui",
+            "url": "https://github.com/nank1ro/flutter-shadcn-ui",
+            "topics": [
+              "flutter",
+              "shadcn",
+              "shadcn-ui",
+              "shadcnui",
+              "ui"
+            ],
+            "description": "shadcn-ui ported in Flutter. Awesome UI components for Flutter, fully customizable."
+          },
+          {
+            "name": "drop_down_list",
+            "fullname": "Mindinventory/drop_down_list",
+            "url": "https://github.com/Mindinventory/drop_down_list",
+            "topics": [
+              "flutter-drop-down",
+              "flutter-drop-down-ui"
+            ],
+            "description": "Highly versatile Widget to search through a single or multiple choices from bottom sheet list in a dialog box or a menu."
+          },
+          {
+            "name": "clay_containers",
+            "fullname": "MichaelCharles/clay_containers",
+            "url": "https://github.com/MichaelCharles/clay_containers",
+            "topics": [
+              "flutter",
+              "neumorphic"
+            ],
+            "description": "Neumorphic containers and text widget primitives to serve as the foundation of your own unique neumorphic designs."
+          },
+          {
+            "name": "wolt_modal_sheet",
+            "fullname": "woltapp/wolt_modal_sheet",
+            "url": "https://github.com/woltapp/wolt_modal_sheet",
+            "topics": [
+              "dart",
+              "flutter"
+            ],
+            "description": "This package provides a responsive modal with multiple pages, motion animation for page transitions, and scrollable content within each page."
+          },
+          {
+            "name": "cool_ui",
+            "fullname": "Im-Kevin/cool_ui",
+            "url": "https://github.com/Im-Kevin/cool_ui",
+            "topics": [
+              "customize",
+              "flutter",
+              "keyboard",
+              "popover",
+              "toast",
+              "weui"
+            ],
+            "description": "用flutter实现一些我认为好看的UI控件,有Popover,仿Weui的Toast,自定义键盘"
+          },
+          {
+            "name": "flutter_smart_select",
+            "fullname": "davigmacode/flutter_smart_select",
+            "url": "https://github.com/davigmacode/flutter_smart_select",
+            "topics": [
+              "checkbox",
+              "choice",
+              "dart",
+              "dropdown",
+              "flutter",
+              "flutter-package",
+              "multiple-choice",
+              "radio",
+              "select",
+              "single-choice",
+              "sticky-headers",
+              "switch",
+              "widget"
+            ],
+            "description": "SmartSelect allows you to easily convert your usual form select or dropdown into dynamic page, popup dialog, or sliding bottom sheet with various choices input such as radio, checkbox, switch, chips, or even custom input. Supports single and multiple choice."
+          },
+          {
+            "name": "flutter-widgets",
+            "fullname": "syncfusion/flutter-widgets",
+            "url": "https://github.com/syncfusion/flutter-widgets",
+            "topics": [],
+            "description": "Syncfusion Flutter widgets libraries include high quality UI widgets and file-format packages to help you create rich, high-quality applications for iOS, Android, and web from a single code base."
+          },
+          {
+            "name": "bruno",
+            "fullname": "LianjiaTech/bruno",
+            "url": "https://github.com/LianjiaTech/bruno",
+            "topics": [
+              "dart",
+              "flutter",
+              "ui-design",
+              "uikit"
+            ],
+            "description": "An enterprise-class package of Flutter components for mobile applications. ( Bruno 是基于一整套设计体系的 Flutter 组件库。)"
+          },
+          {
+            "name": "liquid_progress_indicator",
+            "fullname": "JordanADavies/liquid_progress_indicator",
+            "url": "https://github.com/JordanADavies/liquid_progress_indicator",
+            "topics": [
+              "flutter",
+              "progress-bar",
+              "progress-circle"
+            ],
+            "description": "A liquid progress indicator for Flutter"
+          },
+          {
+            "name": "AdminLTE",
+            "fullname": "ColorlibHQ/AdminLTE",
+            "url": "https://github.com/ColorlibHQ/AdminLTE",
+            "topics": [
+              "admin",
+              "admin-dashboard",
+              "admin-panel",
+              "admin-template",
+              "bootstrap"
+            ],
+            "description": "AdminLTE - Free admin dashboard template based on Bootstrap 5"
+          },
+          {
+            "name": "timeline_list",
+            "fullname": "furkantektas/timeline_list",
+            "url": "https://github.com/furkantektas/timeline_list",
+            "topics": [
+              "android",
+              "dart",
+              "flutter",
+              "ios",
+              "package",
+              "progress",
+              "timeline",
+              "web",
+              "widget"
+            ],
+            "description": "Timeline widget for flutter"
+          },
+          {
+            "name": "bottom_bar_with_sheet",
+            "fullname": "Frezyx/bottom_bar_with_sheet",
+            "url": "https://github.com/Frezyx/bottom_bar_with_sheet",
+            "topics": [
+              "android",
+              "android-ui",
+              "animation",
+              "bottomnavigation",
+              "bottomnavigationbar",
+              "bottomsheet",
+              "dart",
+              "flutter",
+              "flutter-android",
+              "flutter-animation",
+              "flutter-examples",
+              "flutter-material",
+              "flutter-material-app",
+              "flutter-package",
+              "flutter-widget",
+              "flutter-widgets",
+              "ui",
+              "ui-design",
+              "widget",
+              "widget-library"
+            ],
+            "description": ":rocket: Flutter custom BottomBar Navigation Widget"
+          },
+          {
+            "name": "bottom_sheet_bar",
+            "fullname": "mhrst/bottom_sheet_bar",
+            "url": "https://github.com/mhrst/bottom_sheet_bar",
+            "topics": [],
+            "description": "A toolbar that expands into a bottom sheet"
+          },
+          {
+            "name": "FlutterScreens",
+            "fullname": "samarthagarwal/FlutterScreens",
+            "url": "https://github.com/samarthagarwal/FlutterScreens",
+            "topics": [
+              "dart",
+              "dartlang",
+              "flutter",
+              "flutter-apps",
+              "flutter-widget"
+            ],
+            "description": "A collection of Screens and attractive UIs built with Flutter ready to be used in your applications. No external libraries are used. Just download, add to your project and use."
+          },
+          {
+            "name": "pin_code_fields",
+            "fullname": "adar2378/pin_code_fields",
+            "url": "https://github.com/adar2378/pin_code_fields",
+            "topics": [
+              "android",
+              "animation",
+              "dart",
+              "flutter",
+              "ios",
+              "otp",
+              "pin",
+              "shapes"
+            ],
+            "description": "A flutter package which will help you to generate pin code fields with beautiful design and animations. Can be useful for OTP or pin code inputs 🤓🤓"
+          },
+          {
+            "name": "fl_chart",
+            "fullname": "imaNNeo/fl_chart",
+            "url": "https://github.com/imaNNeo/fl_chart",
+            "topics": [
+              "barchart",
+              "candlestick",
+              "candlestick-chart",
+              "candlesticks",
+              "chart",
+              "charts",
+              "datasets",
+              "fl-chart",
+              "flutter",
+              "flutter-widget",
+              "graph",
+              "hacktoberfest",
+              "linechart",
+              "piechart",
+              "radar-chart",
+              "radar-graphs",
+              "scatter-chart",
+              "scatter-plot"
+            ],
+            "description": "FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, Radar Chart and Candlestick Chart."
+          },
+          {
+            "name": "blurhash",
+            "fullname": "woltapp/blurhash",
+            "url": "https://github.com/woltapp/blurhash",
+            "topics": [],
+            "description": "A very compact representation of a placeholder for an image."
+          },
+          {
+            "name": "fluent_ui",
+            "fullname": "bdlukaa/fluent_ui",
+            "url": "https://github.com/bdlukaa/fluent_ui",
+            "topics": [
+              "dart",
+              "fluent-design",
+              "fluent-ui",
+              "flutter",
+              "flutter-favorite",
+              "uwp",
+              "windows",
+              "winui",
+              "winui3"
+            ],
+            "description": "Implements Microsoft's WinUI3 in Flutter."
+          },
+          {
+            "name": "ag-grid",
+            "fullname": "ag-grid/ag-grid",
+            "url": "https://github.com/ag-grid/ag-grid",
+            "topics": [
+              "angular",
+              "angular-grid",
+              "angular-table",
+              "charting",
+              "datagrid",
+              "datatable",
+              "excel",
+              "filtering",
+              "grid",
+              "grouping",
+              "javascript-table",
+              "pagination",
+              "pivoting",
+              "react",
+              "react-grid",
+              "react-table",
+              "sorting",
+              "table",
+              "vue-table",
+              "vuejs"
+            ],
+            "description": "The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript."
+          },
+          {
+            "name": "super_banners",
+            "fullname": "Flutter-Bounty-Hunters/super_banners",
+            "url": "https://github.com/Flutter-Bounty-Hunters/super_banners",
+            "topics": [],
+            "description": "Angled banners that appear on top of your content in Flutter"
+          },
+          {
+            "name": "sticky-headers-table",
+            "fullname": "AlexBacich/sticky-headers-table",
+            "url": "https://github.com/AlexBacich/sticky-headers-table",
+            "topics": [],
+            "description": "Table with sticky headers"
+          },
+          {
+            "name": "searchable_dropdown",
+            "fullname": "icemanbsi/searchable_dropdown",
+            "url": "https://github.com/icemanbsi/searchable_dropdown",
+            "topics": [],
+            "description": null
+          },
+          {
+            "name": "getwidget",
+            "fullname": "ionicfirebaseapp/getwidget",
+            "url": "https://github.com/ionicfirebaseapp/getwidget",
+            "topics": [
+              "dart",
+              "dart-library",
+              "dart-package",
+              "dartlang",
+              "darts",
+              "flutter",
+              "flutter-app",
+              "flutter-library",
+              "flutter-ui",
+              "flutter-widget",
+              "widgetkit"
+            ],
+            "description": "Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app. "
+          },
+          {
+            "name": "vector_map_flutter",
+            "fullname": "caduandrade/vector_map_flutter",
+            "url": "https://github.com/caduandrade/vector_map_flutter",
+            "topics": [
+              "flutter",
+              "gis",
+              "map",
+              "vector",
+              "widget"
+            ],
+            "description": "Vector map for Flutter"
+          },
+          {
+            "name": "pie_chart",
+            "fullname": "apgapg/pie_chart",
+            "url": "https://github.com/apgapg/pie_chart",
+            "topics": [
+              "chart",
+              "dart",
+              "flutter",
+              "package",
+              "pie"
+            ],
+            "description": "Flutter Pie chart with animation "
+          },
+          {
+            "name": "flutter_breadcrumb",
+            "fullname": "payam-zahedi/flutter_breadcrumb",
+            "url": "https://github.com/payam-zahedi/flutter_breadcrumb",
+            "topics": [],
+            "description": "Flutter Widget that can easily create Breadcrumb in Flutter."
+          },
+          {
+            "name": "adaptive-scrollbar",
+            "fullname": "rulila52/adaptive-scrollbar",
+            "url": "https://github.com/rulila52/adaptive-scrollbar",
+            "topics": [],
+            "description": null
+          },
+          {
+            "name": "introduction_screen",
+            "fullname": "Pyozer/introduction_screen",
+            "url": "https://github.com/Pyozer/introduction_screen",
+            "topics": [
+              "android",
+              "dart",
+              "dart2",
+              "flutter",
+              "introduction",
+              "ios",
+              "ui"
+            ],
+            "description": "Add easily to your app an introduction screen to provide informations to new users"
+          },
+          {
+            "name": "dashboard_reborn",
+            "fullname": "urmilshroff/dashboard_reborn",
+            "url": "https://github.com/urmilshroff/dashboard_reborn",
+            "topics": [
+              "animations",
+              "dart",
+              "flutter",
+              "material-design",
+              "mobile-app",
+              "uiux"
+            ],
+            "description": "A very sexy Flutter UI template✨"
+          },
+          {
+            "name": "go-echarts",
+            "fullname": "go-echarts/go-echarts",
+            "url": "https://github.com/go-echarts/go-echarts",
+            "topics": [
+              "charts",
+              "echarts",
+              "golang-visualization"
+            ],
+            "description": "🎨 The adorable charts library for Golang."
+          },
+          {
+            "name": "graphic",
+            "fullname": "entronad/graphic",
+            "url": "https://github.com/entronad/graphic",
+            "topics": [
+              "chart",
+              "charting-library",
+              "charts",
+              "dart",
+              "dartlang",
+              "data-visualization",
+              "flutter",
+              "flutter-package",
+              "flutter-widget",
+              "graph",
+              "graphic",
+              "visualization"
+            ],
+            "description": "A grammar of data visualization and Flutter charting library."
+          },
+          {
+            "name": "flutter-intro-slider",
+            "fullname": "duytq94/flutter-intro-slider",
+            "url": "https://github.com/duytq94/flutter-intro-slider",
+            "topics": [
+              "flutter",
+              "intro",
+              "slider"
+            ],
+            "description": "Simple and configurable app introduction slider for Flutter"
+          },
+          {
+            "name": "sleek_circular_slider",
+            "fullname": "matthewfx/sleek_circular_slider",
+            "url": "https://github.com/matthewfx/sleek_circular_slider",
+            "topics": [
+              "android",
+              "circular-progress",
+              "customizable",
+              "dart",
+              "flutter",
+              "flutter-package",
+              "ios",
+              "slider"
+            ],
+            "description": "Sleek circular slider for Flutter"
+          },
+          {
+            "name": "flutter_spinkit",
+            "fullname": "jogboms/flutter_spinkit",
+            "url": "https://github.com/jogboms/flutter_spinkit",
+            "topics": [
+              "android",
+              "animation",
+              "animation-library",
+              "dart",
+              "dartlang",
+              "flutter",
+              "flutter-plugin",
+              "ios",
+              "loaders",
+              "loading",
+              "loading-animations",
+              "spinkit"
+            ],
+            "description": "✨ A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit."
+          },
+          {
+            "name": "flutter_xlider",
+            "fullname": "Ali-Azmoud/flutter_xlider",
+            "url": "https://github.com/Ali-Azmoud/flutter_xlider",
+            "topics": [
+              "flutter-slider",
+              "range-slider",
+              "vertical-slider"
+            ],
+            "description": "A material design slider and range slider with rtl support and lots of options and customization for flutter"
+          },
+          {
+            "name": "anim_search_bar",
+            "fullname": "Imgkl/anim_search_bar",
+            "url": "https://github.com/Imgkl/anim_search_bar",
+            "topics": [
+              "anim-search",
+              "flutter-package",
+              "ui-components"
+            ],
+            "description": "A flutter package that has an animated search bar with loads of customization"
+          },
+          {
+            "name": "flutter_shake_animation_widget",
+            "fullname": "zhaolongs/flutter_shake_animation_widget",
+            "url": "https://github.com/zhaolongs/flutter_shake_animation_widget",
+            "topics": [],
+            "description": "Flutter抖动动画组件，FLutter颤动动画"
+          },
+          {
+            "name": "dough",
+            "fullname": "josiahsrc/dough",
+            "url": "https://github.com/josiahsrc/dough",
+            "topics": [
+              "custom-widget",
+              "dart",
+              "dough-widget",
+              "drag",
+              "flutter",
+              "flutter-package",
+              "flutter-ui",
+              "flutter-widget",
+              "javascript",
+              "react",
+              "rubberband",
+              "squishy-widgets",
+              "stencil",
+              "stenciljs",
+              "ui",
+              "ux"
+            ],
+            "description": "This package provides some widgets you can use to create a smooshy UI."
+          },
+          {
+            "name": "desktop",
+            "fullname": "adrianos42/desktop",
+            "url": "https://github.com/adrianos42/desktop",
+            "topics": [],
+            "description": "Minimal desktop widgets for flutter."
+          },
+          {
+            "name": "react-toastify",
+            "fullname": "fkhadra/react-toastify",
+            "url": "https://github.com/fkhadra/react-toastify",
+            "topics": [
+              "javascript",
+              "notification",
+              "react",
+              "react-component",
+              "reactjs",
+              "snackbar",
+              "toast"
+            ],
+            "description": "React notification made easy 🚀 !"
+          },
+          {
+            "name": "coreui-free-bootstrap-admin-template",
+            "fullname": "coreui/coreui-free-bootstrap-admin-template",
+            "url": "https://github.com/coreui/coreui-free-bootstrap-admin-template",
+            "topics": [
+              "admin",
+              "admin-dashboard",
+              "admin-template",
+              "admin-theme",
+              "admin-ui",
+              "bootstrap",
+              "bootstrap5",
+              "bootstrap5-template",
+              "css",
+              "dashboard",
+              "scss",
+              "template",
+              "theme"
+            ],
+            "description": "Free Bootstrap Admin & Dashboard Template "
+          },
+          {
+            "name": "hover_effect",
+            "fullname": "mkiisoft/hover_effect",
+            "url": "https://github.com/mkiisoft/hover_effect",
+            "topics": [],
+            "description": "Hover - Tilt 3D Effect Takes any child witget and enables Hover/Tilt 3D functionality to your widgets."
+          },
+          {
+            "name": "editor.js",
+            "fullname": "codex-team/editor.js",
+            "url": "https://github.com/codex-team/editor.js",
+            "topics": [
+              "codex-editor",
+              "editor",
+              "javascript",
+              "json",
+              "redactor",
+              "typescript",
+              "ui",
+              "wysiwyg"
+            ],
+            "description": "A block-style editor with clean JSON output"
+          },
+          {
+            "name": "widgetbook",
+            "fullname": "widgetbook/widgetbook",
+            "url": "https://github.com/widgetbook/widgetbook",
+            "topics": [
+              "dart",
+              "flutter",
+              "storybook"
+            ],
+            "description": "Widgetbook is the custom widget library and collaboration platform for Flutter frontend teams."
+          },
+          {
+            "name": "bot_toast",
+            "fullname": "MMMzq/bot_toast",
+            "url": "https://github.com/MMMzq/bot_toast",
+            "topics": [
+              "attachments",
+              "custom-toast",
+              "flutter",
+              "flutter-toast",
+              "loading",
+              "notification",
+              "toast"
+            ],
+            "description": "A very easy-to-use flutter popup library. Including toast, loading, etc."
+          },
+          {
+            "name": "flex_color_scheme",
+            "fullname": "rydmike/flex_color_scheme",
+            "url": "https://github.com/rydmike/flex_color_scheme",
+            "topics": [
+              "color-scheme",
+              "color-surface-branding",
+              "colorscheme",
+              "dark-themes",
+              "dart",
+              "flex-family",
+              "flex-package",
+              "flutter",
+              "flutter-package",
+              "flutter-theme",
+              "flutter-ui",
+              "flutter-widget",
+              "material-design",
+              "material3",
+              "package",
+              "theme",
+              "theme-colors",
+              "theme-mode"
+            ],
+            "description": "A Flutter package to make and use beautiful color scheme based themes."
+          },
+          {
+            "name": "flutter_confetti",
+            "fullname": "funwithflutter/flutter_confetti",
+            "url": "https://github.com/funwithflutter/flutter_confetti",
+            "topics": [],
+            "description": "A Flutter widget that shoots confetti all over the screen."
+          },
+          {
+            "name": "stack_board",
+            "fullname": "fluttercandies/stack_board",
+            "url": "https://github.com/fluttercandies/stack_board",
+            "topics": [],
+            "description": "层叠控件摆放"
+          },
+          {
+            "name": "cyclop",
+            "fullname": "rxlabz/cyclop",
+            "url": "https://github.com/rxlabz/cyclop",
+            "topics": [
+              "dart",
+              "design",
+              "flutter"
+            ],
+            "description": "A Flutter color palette with eyedropper, HSL, RGB and Material colors"
+          },
+          {
+            "name": "imgui",
+            "fullname": "ocornut/imgui",
+            "url": "https://github.com/ocornut/imgui",
+            "topics": [
+              "api",
+              "cplusplus",
+              "framework",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "gui",
+              "imgui",
+              "immediate-gui",
+              "library",
+              "multi-platform",
+              "native",
+              "toolkit",
+              "tools",
+              "ui"
+            ],
+            "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies"
+          },
+          {
+            "name": "flutter_badges",
+            "fullname": "yako-dev/flutter_badges",
+            "url": "https://github.com/yako-dev/flutter_badges",
+            "topics": [
+              "android",
+              "badge",
+              "chips",
+              "dart",
+              "flutter",
+              "ios",
+              "mobile",
+              "ui",
+              "ui-components",
+              "widget"
+            ],
+            "description": "A flutter package for creating badges."
+          },
+          {
+            "name": "flutter-ui-nice",
+            "fullname": "FlutterOpen/flutter-ui-nice",
+            "url": "https://github.com/FlutterOpen/flutter-ui-nice",
+            "topics": [
+              "animation",
+              "api",
+              "app",
+              "course",
+              "demo",
+              "example",
+              "flutter",
+              "google",
+              "kit",
+              "layout",
+              "learn",
+              "listview",
+              "package",
+              "plugins",
+              "project",
+              "resources",
+              "simple",
+              "tabview",
+              "ui",
+              "widgets"
+            ],
+            "description": "More than 130+ pages in this beautiful app and more than 45 developers has contributed to it."
+          },
+          {
+            "name": "flutter-charts",
+            "fullname": "infinum/flutter-charts",
+            "url": "https://github.com/infinum/flutter-charts",
+            "topics": [
+              "art",
+              "barchart",
+              "charts",
+              "custom",
+              "flutter",
+              "linechart",
+              "open-source",
+              "painter",
+              "pretty",
+              "rainbow",
+              "sparkline"
+            ],
+            "description": "Customizable charts library for flutter."
+          },
+          {
+            "name": "PyQt-Fluent-Widgets",
+            "fullname": "zhiyiYo/PyQt-Fluent-Widgets",
+            "url": "https://github.com/zhiyiYo/PyQt-Fluent-Widgets",
+            "topics": [
+              "custom",
+              "fluent",
+              "fluent-design",
+              "fluentui",
+              "gui",
+              "modern",
+              "pyqt5",
+              "pyqt6",
+              "pyside2",
+              "pyside6",
+              "python",
+              "qt",
+              "qt5",
+              "qt6",
+              "software",
+              "ui",
+              "widgets",
+              "win11",
+              "winui",
+              "winui3"
+            ],
+            "description": "A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again."
+          },
+          {
+            "name": "sidebarx",
+            "fullname": "Frezyx/sidebarx",
+            "url": "https://github.com/Frezyx/sidebarx",
+            "topics": [
+              "bottombar",
+              "compo",
+              "component",
+              "dart",
+              "flutter",
+              "flutter-examples",
+              "flutter-package",
+              "navbar",
+              "navigaton-component",
+              "package",
+              "sidebar",
+              "sidebar-menu",
+              "sidebar-navigation",
+              "ui",
+              "widget"
+            ],
+            "description": "Flutter multiplatform navigation sidebar / side navigation bar / drawer widget"
+          },
+          {
+            "name": "moon_flutter",
+            "fullname": "coingaming/moon_flutter",
+            "url": "https://github.com/coingaming/moon_flutter",
+            "topics": [
+              "design-system",
+              "flutter"
+            ],
+            "description": "Moon Design System for Flutter"
+          },
+          {
+            "name": "easy_sidemenu",
+            "fullname": "Jamalianpour/easy_sidemenu",
+            "url": "https://github.com/Jamalianpour/easy_sidemenu",
+            "topics": [
+              "dart",
+              "flutter",
+              "navigation",
+              "navigation-rail",
+              "sidemenu"
+            ],
+            "description": "An easy to use side menu (navigation rail) in flutter and can used for navigations"
+          },
+          {
+            "name": "flutter_rounded_loading_button",
+            "fullname": "chrisedg87/flutter_rounded_loading_button",
+            "url": "https://github.com/chrisedg87/flutter_rounded_loading_button",
+            "topics": [],
+            "description": "A simple implementation of an animated loading button widget for Flutter"
+          },
+          {
+            "name": "DearPyGui",
+            "fullname": "hoffstadt/DearPyGui",
+            "url": "https://github.com/hoffstadt/DearPyGui",
+            "topics": [
+              "cpp",
+              "cross-platform",
+              "dearpygui",
+              "graphics",
+              "gui",
+              "imgui",
+              "linux",
+              "macos",
+              "native",
+              "python",
+              "python-gui",
+              "toolkit",
+              "tools",
+              "ui",
+              "windows"
+            ],
+            "description": "Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies"
+          },
+          {
+            "name": "flowy",
+            "fullname": "alyssaxuu/flowy",
+            "url": "https://github.com/alyssaxuu/flowy",
+            "topics": [
+              "diagrams",
+              "drag-and-drop",
+              "engine",
+              "flowchart",
+              "javascript",
+              "javascript-library",
+              "marketing",
+              "marketing-automation",
+              "minimal",
+              "zapier"
+            ],
+            "description": "The minimal javascript library to create flowcharts ✨"
+          },
+          {
+            "name": "MPAndroidChart",
+            "fullname": "PhilJay/MPAndroidChart",
+            "url": "https://github.com/PhilJay/MPAndroidChart",
+            "topics": [
+              "android",
+              "chart",
+              "graph",
+              "java",
+              "mpandroidchart"
+            ],
+            "description": "A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations."
+          },
+          {
+            "name": "paged-datatable",
+            "fullname": "tomasweigenast/paged-datatable",
+            "url": "https://github.com/tomasweigenast/paged-datatable",
+            "topics": [
+              "dart",
+              "datatable",
+              "flutter"
+            ],
+            "description": "A customizable DataTable with horizontal scrolling, cursor and offset pagination, sorting, filtering, editable columns, and expandable rows, perfect for creating rich and dynamic UIs."
+          },
+          {
+            "name": "code_field",
+            "fullname": "open-runtime/code_field",
+            "url": "https://github.com/open-runtime/code_field",
+            "topics": [],
+            "description": "A customizable code text field supporting syntax highlighting"
+          },
+          {
+            "name": "AnimateText",
+            "fullname": "RathaIct/AnimateText",
+            "url": "https://github.com/RathaIct/AnimateText",
+            "topics": [],
+            "description": null
+          },
+          {
+            "name": "reactive_forms_widgets",
+            "fullname": "artflutter/reactive_forms_widgets",
+            "url": "https://github.com/artflutter/reactive_forms_widgets",
+            "topics": [],
+            "description": null
+          },
+          {
+            "name": "curved_navigation_bar",
+            "fullname": "rafalbednarczuk/curved_navigation_bar",
+            "url": "https://github.com/rafalbednarczuk/curved_navigation_bar",
+            "topics": [],
+            "description": "Animated Curved Navigation Bar in Flutter"
+          },
+          {
+            "name": "Flutter-Neumorphic",
+            "fullname": "Idean/Flutter-Neumorphic",
+            "url": "https://github.com/Idean/Flutter-Neumorphic",
+            "topics": [
+              "android",
+              "button",
+              "card",
+              "concave",
+              "convex",
+              "custom-shape",
+              "dart",
+              "depth",
+              "design",
+              "emboss",
+              "flat",
+              "flutter",
+              "ios",
+              "lightsource",
+              "material",
+              "neumorphic",
+              "pub",
+              "shape",
+              "theme",
+              "widgets"
+            ],
+            "description": "A complete, ready to use, Neumorphic ui kit for Flutter, 🕶️ dark mode compatible"
+          },
+          {
+            "name": "quill",
+            "fullname": "slab/quill",
+            "url": "https://github.com/slab/quill",
+            "topics": [
+              "editor",
+              "quill",
+              "rich-text-editor",
+              "wysiwyg"
+            ],
+            "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility"
+          },
+          {
+            "name": "druid",
+            "fullname": "linebender/druid",
+            "url": "https://github.com/linebender/druid",
+            "topics": [],
+            "description": "A data-first Rust-native UI design toolkit. "
+          },
+          {
+            "name": "toly_ui",
+            "fullname": "TolyFx/toly_ui",
+            "url": "https://github.com/TolyFx/toly_ui",
+            "topics": [],
+            "description": "The All-Platform Responsive UI Library For Flutter."
+          },
+          {
+            "name": "adaptive_theme",
+            "fullname": "BirjuVachhani/adaptive_theme",
+            "url": "https://github.com/BirjuVachhani/adaptive_theme",
+            "topics": [
+              "adaptive",
+              "flutter",
+              "flutter-package",
+              "flutter-ui",
+              "flutter-widget",
+              "hacktoberfest",
+              "hacktoberfest2023",
+              "hactoberfest",
+              "hactoberfest-accepted",
+              "theme"
+            ],
+            "description": "Easiest way to add support for light and dark theme in your flutter app."
+          },
+          {
+            "name": "custom-dropdown",
+            "fullname": "AbdullahChauhan/custom-dropdown",
+            "url": "https://github.com/AbdullahChauhan/custom-dropdown",
+            "topics": [
+              "dart",
+              "dartlang",
+              "dropdown",
+              "dropdownlist",
+              "flutter",
+              "flutter-package",
+              "flutter-widget",
+              "spinner",
+              "ui",
+              "widget"
+            ],
+            "description": "Custom dropdown widget allows to add highly customizable dropdown widget in your projects. Features includes Search on list data, Network search, Multi-selection and many more."
+          },
+          {
+            "name": "kalender",
+            "fullname": "werner-scholtz/kalender",
+            "url": "https://github.com/werner-scholtz/kalender",
+            "topics": [],
+            "description": "An elegantly crafted Flutter calendar UI package."
+          },
+          {
+            "name": "widget_loading",
+            "fullname": "splashbyte/widget_loading",
+            "url": "https://github.com/splashbyte/widget_loading",
+            "topics": [],
+            "description": "Simple widget for loading widget contents."
+          },
+          {
+            "name": "date_range_picker",
+            "fullname": "GaspardMerten/date_range_picker",
+            "url": "https://github.com/GaspardMerten/date_range_picker",
+            "topics": [],
+            "description": "Date Range Picker is a user-friendly and simple package for Flutter that allows users to select a date range. It's designed to evolve over time, and its components are built to be reusable."
+          },
+          {
+            "name": "flutter_json_view",
+            "fullname": "Frezyx/flutter_json_view",
+            "url": "https://github.com/Frezyx/flutter_json_view",
+            "topics": [
+              "custom",
+              "dart",
+              "flutter",
+              "flutter-community",
+              "flutter-components",
+              "flutter-ui",
+              "flutter-widget",
+              "json",
+              "json-viewer",
+              "ui",
+              "ui-components",
+              "widget"
+            ],
+            "description": ":page_facing_up:  Displaying json models in a Flutter widget"
+          },
+          {
+            "name": "ant-design",
+            "fullname": "ant-design/ant-design",
+            "url": "https://github.com/ant-design/ant-design",
+            "topics": [
+              "ant-design",
+              "antd",
+              "design-systems",
+              "react",
+              "typescript",
+              "ui-kit",
+              "ui-library"
+            ],
+            "description": "An enterprise-class UI design language and React UI library"
+          },
+          {
+            "name": "billboard.js",
+            "fullname": "naver/billboard.js",
+            "url": "https://github.com/naver/billboard.js",
+            "topics": [
+              "chart",
+              "d3",
+              "data-visualizations",
+              "graph",
+              "svg"
+            ],
+            "description": " 📊 Re-usable, easy interface JavaScript chart library based on D3.js"
+          },
+          {
+            "name": "chatview",
+            "fullname": "SimformSolutionsPvtLtd/chatview",
+            "url": "https://github.com/SimformSolutionsPvtLtd/chatview",
+            "topics": [
+              "android",
+              "chat",
+              "chat-ui",
+              "chatview",
+              "dart",
+              "flutter",
+              "flutterpackage",
+              "ios"
+            ],
+            "description": "Highly customisable chat UI with reply and reaction functionality."
+          },
+          {
+            "name": "flutter95",
+            "fullname": "miquelbeltran/flutter95",
+            "url": "https://github.com/miquelbeltran/flutter95",
+            "topics": [
+              "flutter",
+              "hacktoberfest"
+            ],
+            "description": "Windows95 UI components for Flutter apps. Bring back the nostalgic look and feel of old operating systems with this set of UI components ready to use."
+          },
+          {
+            "name": "Flutter-UI-Kit",
+            "fullname": "usman18/Flutter-UI-Kit",
+            "url": "https://github.com/usman18/Flutter-UI-Kit",
+            "topics": [
+              "chatapp",
+              "expense-tracker",
+              "flutter",
+              "flutter-examples",
+              "flutter-material",
+              "flutter-ui",
+              "flutter-ui-challenges",
+              "flutter-ui-collection",
+              "food-ordering-application",
+              "music-player",
+              "payments-app",
+              "shoppingapp",
+              "ui",
+              "ux"
+            ],
+            "description": "A repository full of beautiful UI examples in Flutter "
+          },
+          {
+            "name": "animated_toggle_switch",
+            "fullname": "splashbyte/animated_toggle_switch",
+            "url": "https://github.com/splashbyte/animated_toggle_switch",
+            "topics": [],
+            "description": "Fully customizable, draggable and animated switch for Flutter with multiple choices and smooth loading animation. It has prebuilt constructors for rolling and size animations."
+          },
+          {
+            "name": "flutter_star_menu",
+            "fullname": "alnitak/flutter_star_menu",
+            "url": "https://github.com/alnitak/flutter_star_menu",
+            "topics": [
+              "flutter",
+              "flutter-plugin",
+              "flutter-ui",
+              "menu",
+              "menu-animation",
+              "popup",
+              "widget"
+            ],
+            "description": "Flutter contextual popup menu with different shapes and multiple ways to fine-tune animation and position"
+          },
+          {
+            "name": "flutter_radar_chart",
+            "fullname": "kranfix/flutter_radar_chart",
+            "url": "https://github.com/kranfix/flutter_radar_chart",
+            "topics": [
+              "flutter",
+              "hacktoberfest"
+            ],
+            "description": "A flexible Flutter radar/spider chart"
+          },
+          {
+            "name": "popup_menu",
+            "fullname": "chinabrant/popup_menu",
+            "url": "https://github.com/chinabrant/popup_menu",
+            "topics": [],
+            "description": "🔥A flutter popup menu. Pub enabled."
+          },
+          {
+            "name": "icons_plus",
+            "fullname": "chouhan-rahul/icons_plus",
+            "url": "https://github.com/chouhan-rahul/icons_plus",
+            "topics": [
+              "collaborate",
+              "dart",
+              "flutter",
+              "flutterpackage"
+            ],
+            "description": "Icons Plus is a package that has many icon packs that are popular and easy to use, such as Bootstrap, Font Awesome, Eva Icons, Line Awesome, Ionicons, and others."
+          },
+          {
+            "name": "flutter_gantt_chart",
+            "fullname": "Bdaya-Dev/flutter_gantt_chart",
+            "url": "https://github.com/Bdaya-Dev/flutter_gantt_chart",
+            "topics": [],
+            "description": "Flutter Gantt chart UI library"
+          },
+          {
+            "name": "custom_pop_up_menu",
+            "fullname": "malikwang/custom_pop_up_menu",
+            "url": "https://github.com/malikwang/custom_pop_up_menu",
+            "topics": [],
+            "description": "Wrap a widget with CustomPopupMenu, Tap or Long Press this widget, a popup menu would show in a position."
+          },
+          {
+            "name": "dayu_widgets",
+            "fullname": "phenom-films/dayu_widgets",
+            "url": "https://github.com/phenom-films/dayu_widgets",
+            "topics": [],
+            "description": "UI components library for PySide"
+          },
+          {
+            "name": "tabler-icons",
+            "fullname": "chornthorn/tabler-icons",
+            "url": "https://github.com/chornthorn/tabler-icons",
+            "topics": [],
+            "description": null
+          },
+          {
+            "name": "animated_loading_border",
+            "fullname": "mohit-chauhan-98/animated_loading_border",
+            "url": "https://github.com/mohit-chauhan-98/animated_loading_border",
+            "topics": [
+              "android",
+              "animated",
+              "animatedloadingborder",
+              "animation",
+              "border",
+              "cross-platform",
+              "dart",
+              "flutter",
+              "ios",
+              "linux",
+              "loading",
+              "loading-animations",
+              "loadingview",
+              "mac",
+              "package",
+              "placeholder",
+              "pub",
+              "pubdev",
+              "web",
+              "windows"
+            ],
+            "description": "A package that gives us a modern way to show animated border as a placeholder while loading our widget with easy customization and ready to use."
+          },
+          {
+            "name": "apexcharts.js",
+            "fullname": "apexcharts/apexcharts.js",
+            "url": "https://github.com/apexcharts/apexcharts.js",
+            "topics": [
+              "charts",
+              "data-visualization",
+              "graphs",
+              "interactive",
+              "javascript",
+              "svg",
+              "visualization"
+            ],
+            "description": "📊 Interactive JavaScript Charts built on SVG"
+          },
+          {
+            "name": "macos_ui",
+            "fullname": "macosui/macos_ui",
+            "url": "https://github.com/macosui/macos_ui",
+            "topics": [
+              "flutter",
+              "macos"
+            ],
+            "description": "Flutter widgets and themes implementing the current macOS design language."
+          },
+          {
+            "name": "liquid_swipe_flutter",
+            "fullname": "iamSahdeep/liquid_swipe_flutter",
+            "url": "https://github.com/iamSahdeep/liquid_swipe_flutter",
+            "topics": [
+              "flutter",
+              "flutter-app",
+              "flutter-apps",
+              "flutter-material",
+              "flutter-package",
+              "flutter-plugin",
+              "flutter-ui",
+              "flutter-widget"
+            ],
+            "description": "A flutter based liquid swipe"
+          },
+          {
+            "name": "ant_design_flutter",
+            "fullname": "CalsRanna/ant_design_flutter",
+            "url": "https://github.com/CalsRanna/ant_design_flutter",
+            "topics": [
+              "ant-design-flutter",
+              "antdf",
+              "design-systems",
+              "flutter",
+              "ui-kit",
+              "ui-libarry"
+            ],
+            "description": "An enterprise-class UI design language and Flutter UI library"
+          },
+          {
             "name": "photo_view",
             "fullname": "bluefireteam/photo_view",
             "url": "https://github.com/bluefireteam/photo_view",
@@ -7237,6 +8732,136 @@
         "desc": "React, Vue, Svelte, and full-stack meta-frameworks.",
         "projects": [
           {
+            "name": "rinf",
+            "fullname": "cunarist/rinf",
+            "url": "https://github.com/cunarist/rinf",
+            "topics": [
+              "android",
+              "app",
+              "cross-platform",
+              "dart",
+              "ffi",
+              "flutter",
+              "gui",
+              "ios",
+              "linux",
+              "macos",
+              "production-ready",
+              "restful-api",
+              "rust",
+              "web",
+              "windows"
+            ],
+            "description": "Rust for native business logic, Flutter for flexible and beautiful GUI"
+          },
+          {
+            "name": "clay",
+            "fullname": "nicbarker/clay",
+            "url": "https://github.com/nicbarker/clay",
+            "topics": [
+              "layout",
+              "ui"
+            ],
+            "description": "High performance UI layout library in C."
+          },
+          {
+            "name": "iced",
+            "fullname": "iced-rs/iced",
+            "url": "https://github.com/iced-rs/iced",
+            "topics": [
+              "elm",
+              "graphics",
+              "gui",
+              "interface",
+              "renderer-agnostic",
+              "rust",
+              "toolkit",
+              "user-interface",
+              "widget",
+              "widgets"
+            ],
+            "description": "A cross-platform GUI library for Rust, inspired by Elm"
+          },
+          {
+            "name": "fyne",
+            "fullname": "fyne-io/fyne",
+            "url": "https://github.com/fyne-io/fyne",
+            "topics": [
+              "android",
+              "cross-platform",
+              "fyne",
+              "go",
+              "golang",
+              "gui",
+              "hacktoberfest",
+              "ios",
+              "theme",
+              "toolkit"
+            ],
+            "description": "Cross platform GUI toolkit in Go inspired by Material Design"
+          },
+          {
+            "name": "react",
+            "fullname": "facebook/react",
+            "url": "https://github.com/facebook/react",
+            "topics": [
+              "declarative",
+              "frontend",
+              "javascript",
+              "library",
+              "react",
+              "ui"
+            ],
+            "description": "The library for web and native user interfaces."
+          },
+          {
+            "name": "skia",
+            "fullname": "google/skia",
+            "url": "https://github.com/google/skia",
+            "topics": [],
+            "description": "Skia is a complete 2D graphic library for drawing Text, Geometries, and Images."
+          },
+          {
+            "name": "egui",
+            "fullname": "emilk/egui",
+            "url": "https://github.com/emilk/egui",
+            "topics": [
+              "egui",
+              "game-development",
+              "gamedev",
+              "gui",
+              "imgui",
+              "rust",
+              "wasm"
+            ],
+            "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native"
+          },
+          {
+            "name": "slint",
+            "fullname": "slint-ui/slint",
+            "url": "https://github.com/slint-ui/slint",
+            "topics": [
+              "cpp",
+              "declarative-ui",
+              "desktop",
+              "embedded-devices",
+              "gui",
+              "javascript",
+              "language",
+              "lsp-server",
+              "native",
+              "rust",
+              "rust-lang",
+              "toolkit",
+              "ui",
+              "user-interface",
+              "wasm",
+              "webassembly",
+              "widgets"
+            ],
+            "description": "Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps."
+          },
+          {
             "name": "flutter",
             "fullname": "flutter/flutter",
             "url": "https://github.com/flutter/flutter",
@@ -7935,6 +9560,743 @@
         "desc": "some frontend applications",
         "projects": [
           {
+            "name": "slint_multi_window",
+            "fullname": "planet0104/slint_multi_window",
+            "url": "https://github.com/planet0104/slint_multi_window",
+            "topics": [],
+            "description": "Slint多窗口+Tray Icon+窗口间通信"
+          },
+          {
+            "name": "authpass",
+            "fullname": "authpass/authpass",
+            "url": "https://github.com/authpass/authpass",
+            "topics": [
+              "android",
+              "contributions-welcome",
+              "dart",
+              "dartlang",
+              "debian",
+              "flutter",
+              "flutter-apps",
+              "hacktoberfest",
+              "help-wanted",
+              "ios",
+              "kdbx",
+              "keepass",
+              "linux",
+              "macos-application",
+              "password-manager",
+              "password-store",
+              "security",
+              "web",
+              "windows"
+            ],
+            "description": "AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible."
+          },
+          {
+            "name": "OEasyScreenshot",
+            "fullname": "chenluyong/OEasyScreenshot",
+            "url": "https://github.com/chenluyong/OEasyScreenshot",
+            "topics": [],
+            "description": "Qt实现，高仿QQ截图器，中国码云独家开源插件。 可以随意修改优化源码，但请尊重软件著作者及其他维护人员，保留其署名权。也欢迎大家一起来维护这个库。 详情查看：Apache v2开源协议 "
+          },
+          {
+            "name": "Setonix",
+            "fullname": "LinwoodDev/Setonix",
+            "url": "https://github.com/LinwoodDev/Setonix",
+            "topics": [
+              "flame",
+              "flame-game",
+              "flutter",
+              "flutter-game",
+              "flutter-games",
+              "flutterdev",
+              "lua",
+              "minigame",
+              "minigames",
+              "multiplayer",
+              "multiplayer-game",
+              "multiplayer-offline-game",
+              "offline",
+              "offline-games",
+              "party-game"
+            ],
+            "description": "🃏 Powerful, customizable, cross-platform, opensource table sandbox game"
+          },
+          {
+            "name": "dlna-dart",
+            "fullname": "suconghou/dlna-dart",
+            "url": "https://github.com/suconghou/dlna-dart",
+            "topics": [
+              "dart",
+              "dlna",
+              "dlna-mediarenderer",
+              "flutter",
+              "udp",
+              "upnp"
+            ],
+            "description": "simple dlna client in pure dart | Dart 编写的DLNA投屏客户端"
+          },
+          {
+            "name": "bounce_game",
+            "fullname": "Shadow60539/bounce_game",
+            "url": "https://github.com/Shadow60539/bounce_game",
+            "topics": [
+              "flutter",
+              "game"
+            ],
+            "description": "Bounce game built in flutter"
+          },
+          {
+            "name": "livewallpaper",
+            "fullname": "GiantappMan/livewallpaper",
+            "url": "https://github.com/GiantappMan/livewallpaper",
+            "topics": [
+              "dyamic-desktop",
+              "dynamic-wallpaper-app",
+              "dynamic-wallpapers",
+              "giantapp-wallpaper",
+              "live-wallpapers",
+              "livewallpaper",
+              "nuxt",
+              "vue",
+              "wallpaper",
+              "wallpaper-app",
+              "wallpaper-changer",
+              "wallpaper-engine",
+              "wallpaper-manager",
+              "wallpapers",
+              "webview-app",
+              "webview2",
+              "wpf"
+            ],
+            "description": "An easy-to-use wallpaper app for Windows 10/11, supporting dynamic and static wallpapers, with a built-in community. | 巨应壁纸 | 动态壁纸 | live wallpaper"
+          },
+          {
+            "name": "SingleFile",
+            "fullname": "gildas-lormeau/SingleFile",
+            "url": "https://github.com/gildas-lormeau/SingleFile",
+            "topics": [
+              "annotations",
+              "archive",
+              "archiver",
+              "auto-save",
+              "browser",
+              "chrome",
+              "chrome-extension",
+              "cli",
+              "firefox",
+              "firefox-addon",
+              "javascript",
+              "offline-reading",
+              "osint",
+              "puppeteer",
+              "screenshot",
+              "selenium",
+              "self-extracting",
+              "self-extracting-zip",
+              "snapshot",
+              "web-clipper"
+            ],
+            "description": "Web Extension for saving a faithful copy of a complete web page in a single HTML file"
+          },
+          {
+            "name": "flameshot",
+            "fullname": "flameshot-org/flameshot",
+            "url": "https://github.com/flameshot-org/flameshot",
+            "topics": [
+              "capture",
+              "cross-platform",
+              "free-software",
+              "gnu-linux",
+              "gui",
+              "hacktoberfest",
+              "image-editing",
+              "qt",
+              "screenshot"
+            ],
+            "description": "Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:"
+          },
+          {
+            "name": "visual_console",
+            "fullname": "oloshe/visual_console",
+            "url": "https://github.com/oloshe/visual_console",
+            "topics": [],
+            "description": "A Visual Console inspired by VConsole."
+          },
+          {
+            "name": "pretty-diff-text",
+            "fullname": "zmeid/pretty-diff-text",
+            "url": "https://github.com/zmeid/pretty-diff-text",
+            "topics": [],
+            "description": "PrettyDiffText is wrapper of RichText which show differences between two texts visually. It uses Google's diff-match-patch library."
+          },
+          {
+            "name": "pyscript",
+            "fullname": "pyscript/pyscript",
+            "url": "https://github.com/pyscript/pyscript",
+            "topics": [
+              "html",
+              "javascript",
+              "python",
+              "wasm"
+            ],
+            "description": "PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2"
+          },
+          {
+            "name": "Screenshot",
+            "fullname": "wanttobeno/Screenshot",
+            "url": "https://github.com/wanttobeno/Screenshot",
+            "topics": [],
+            "description": "仿QQ截图，C++实现的截图软件Demo"
+          },
+          {
+            "name": "win12",
+            "fullname": "tjy-gitnub/win12",
+            "url": "https://github.com/tjy-gitnub/win12",
+            "topics": [
+              "css",
+              "html",
+              "js",
+              "windows-12"
+            ],
+            "description": "Windows 12 网页版，在线体验 点击下面的链接在线体验"
+          },
+          {
+            "name": "simpread",
+            "fullname": "Kenshin/simpread",
+            "url": "https://github.com/Kenshin/simpread",
+            "topics": [
+              "chrome",
+              "chrome-extension",
+              "crx",
+              "firefox",
+              "firefox-addon",
+              "firefox-extension",
+              "react",
+              "readability",
+              "reader",
+              "reading-list"
+            ],
+            "description": "简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展"
+          },
+          {
+            "name": "EasySpider",
+            "fullname": "NaiboWang/EasySpider",
+            "url": "https://github.com/NaiboWang/EasySpider",
+            "topics": [
+              "batch-processing",
+              "batch-script",
+              "code-free",
+              "crawler",
+              "data-collection",
+              "frontend",
+              "gui",
+              "html",
+              "input-parameters",
+              "layman",
+              "parameters",
+              "robotics",
+              "rpa",
+              "scraper",
+              "spider",
+              "visual",
+              "visualization",
+              "visualprogramming",
+              "web",
+              "www"
+            ],
+            "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。"
+          },
+          {
+            "name": "xterm.dart",
+            "fullname": "TerminalStudio/xterm.dart",
+            "url": "https://github.com/TerminalStudio/xterm.dart",
+            "topics": [
+              "dart",
+              "emulator",
+              "flutter",
+              "terminal",
+              "terminal-emulator",
+              "vte"
+            ],
+            "description": "💻 xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms."
+          },
+          {
+            "name": "pinball",
+            "fullname": "flutter/pinball",
+            "url": "https://github.com/flutter/pinball",
+            "topics": [],
+            "description": "Google I/O 2022 Pinball game built with Flutter and Firebase"
+          },
+          {
+            "name": "flutter_game_collection",
+            "fullname": "taxze6/flutter_game_collection",
+            "url": "https://github.com/taxze6/flutter_game_collection",
+            "topics": [],
+            "description": null
+          },
+          {
+            "name": "sudoku-flutter",
+            "fullname": "einsitang/sudoku-flutter",
+            "url": "https://github.com/einsitang/sudoku-flutter",
+            "topics": [
+              "dart",
+              "flutter",
+              "game",
+              "sudoku"
+            ],
+            "description": "an open source Sudoku game application powered by Flutter . you can build the Sudoku Game just  for your own."
+          },
+          {
+            "name": "Task-Sync-Pro-V2",
+            "fullname": "Hamad-Anwar/Task-Sync-Pro-V2",
+            "url": "https://github.com/Hamad-Anwar/Task-Sync-Pro-V2",
+            "topics": [
+              "firebase",
+              "flutter",
+              "flutter-app",
+              "flutter-apps",
+              "flutter-demo",
+              "flutter-example",
+              "flutter-responsive",
+              "flutter-task-app",
+              "flutter-todo",
+              "flutter-ui",
+              "responsive-design",
+              "task-scheduler"
+            ],
+            "description": "The Task Scheduler App is a powerful and elegant solution for managing your daily tasks and appointments. With a focus on user experience and productivity, our app offers a range of features to help you stay organized and efficient."
+          },
+          {
+            "name": "etherpad-lite",
+            "fullname": "ether/etherpad-lite",
+            "url": "https://github.com/ether/etherpad-lite",
+            "topics": [
+              "collaboration",
+              "collaborative",
+              "collaborative-editing",
+              "collaborative-framework",
+              "collaborative-research",
+              "collaborative-writing",
+              "document",
+              "documents",
+              "docx",
+              "etherpad",
+              "libreoffice",
+              "microsoft",
+              "pdf",
+              "pdf-generation",
+              "rich-text-editor",
+              "video-conference",
+              "video-conferencing",
+              "web-editor",
+              "word"
+            ],
+            "description": "Etherpad: A modern really-real-time collaborative document editor."
+          },
+          {
+            "name": "AFFiNE",
+            "fullname": "toeverything/AFFiNE",
+            "url": "https://github.com/toeverything/AFFiNE",
+            "topics": [
+              "app",
+              "crdt",
+              "editor",
+              "electron",
+              "knowledge-base",
+              "markdown",
+              "miro",
+              "notes",
+              "notion",
+              "notion-alternative",
+              "rust",
+              "rust-lang",
+              "rust-language",
+              "table",
+              "tableview",
+              "whiteboard",
+              "wiki",
+              "workspace"
+            ],
+            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. "
+          },
+          {
+            "name": "Stirling-PDF",
+            "fullname": "Stirling-Tools/Stirling-PDF",
+            "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+            "topics": [
+              "docker",
+              "java",
+              "pdf",
+              "pdf-converter",
+              "pdf-editor",
+              "pdf-manipulation",
+              "pdf-merger",
+              "pdf-ocr",
+              "pdf-tools",
+              "pdf-web-apps",
+              "pdfmerger"
+            ],
+            "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files"
+          },
+          {
+            "name": "Starward",
+            "fullname": "Scighost/Starward",
+            "url": "https://github.com/Scighost/Starward",
+            "topics": [
+              "genshin",
+              "genshin-impact",
+              "honkai",
+              "honkai-impact",
+              "star-rail",
+              "starrail",
+              "winui"
+            ],
+            "description": "Game Launcher for miHoYo  -  米家游戏启动器"
+          },
+          {
+            "name": "flutter_games_compilation",
+            "fullname": "Yayo-Arellano/flutter_games_compilation",
+            "url": "https://github.com/Yayo-Arellano/flutter_games_compilation",
+            "topics": [],
+            "description": "Compilation of games made with flutter and flutter flame"
+          },
+          {
+            "name": "GhostRigger",
+            "fullname": "Float-like-a-dash-Sting-like-a-dart/GhostRigger",
+            "url": "https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger",
+            "topics": [
+              "flame",
+              "flame-engine",
+              "flames-game",
+              "flutter",
+              "flutter-app",
+              "flutter-apps",
+              "flutterhackathon",
+              "hack20"
+            ],
+            "description": "Cyberpunk-inspired puzzle game prototype created with Flutter and Flame #Hack20 #FlutterHackathon "
+          },
+          {
+            "name": "workadventure",
+            "fullname": "workadventure/workadventure",
+            "url": "https://github.com/workadventure/workadventure",
+            "topics": [
+              "hacktoberfest",
+              "remote",
+              "typescript",
+              "workadventure",
+              "workspace"
+            ],
+            "description": "A collaborative web application (virtual office) presented as a 16-bit RPG video game"
+          },
+          {
+            "name": "flutters",
+            "fullname": "ecklf/flutters",
+            "url": "https://github.com/ecklf/flutters",
+            "topics": [
+              "flame",
+              "flutter",
+              "flutter-games",
+              "flutter-gaming",
+              "game",
+              "game-2d",
+              "game-development"
+            ],
+            "description": "A game powered by Flutter and Flame"
+          },
+          {
+            "name": "FlutterMinesweeper",
+            "fullname": "Cifruktus/FlutterMinesweeper",
+            "url": "https://github.com/Cifruktus/FlutterMinesweeper",
+            "topics": [
+              "dart",
+              "flutter",
+              "minesweeper",
+              "minesweeper-game",
+              "retro",
+              "retrogaming"
+            ],
+            "description": "Minesweeper on flutter"
+          },
+          {
+            "name": "mooltik",
+            "fullname": "ruskakimov/mooltik",
+            "url": "https://github.com/ruskakimov/mooltik",
+            "topics": [
+              "android",
+              "animation",
+              "animation-app",
+              "dart",
+              "dartlang",
+              "drawing-app",
+              "flutter",
+              "flutter-apps",
+              "ios",
+              "mobile",
+              "mobile-app",
+              "storyboard"
+            ],
+            "description": "🧑‍🎨 Mobile app for drawing 2D animations"
+          },
+          {
+            "name": "harmonoid",
+            "fullname": "harmonoid/harmonoid",
+            "url": "https://github.com/harmonoid/harmonoid",
+            "topics": [
+              "android",
+              "desktop",
+              "flutter",
+              "harmonoid",
+              "libmpv",
+              "linux",
+              "lyrics",
+              "macos",
+              "media-tags",
+              "metadata",
+              "mpv",
+              "music",
+              "music-library",
+              "music-player",
+              "tag-parsing",
+              "tags",
+              "windows"
+            ],
+            "description": "🎵 Plays & manages your music library. Looks beautiful & juicy."
+          },
+          {
+            "name": "rustdesk",
+            "fullname": "rustdesk/rustdesk",
+            "url": "https://github.com/rustdesk/rustdesk",
+            "topics": [
+              "anydesk",
+              "dart",
+              "flutter",
+              "flutter-apps",
+              "flutter-desktop",
+              "flutter-examples",
+              "flutter-mobile",
+              "flutter-ui",
+              "flutter-web",
+              "hacktoberfest",
+              "linux",
+              "p2p",
+              "rdp",
+              "remote-control",
+              "remote-desktop",
+              "rust",
+              "rust-lang",
+              "teamviewer",
+              "vnc",
+              "wayland"
+            ],
+            "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer."
+          },
+          {
+            "name": "flutter-netease-music",
+            "fullname": "boyan01/flutter-netease-music",
+            "url": "https://github.com/boyan01/flutter-netease-music",
+            "topics": [
+              "android",
+              "android-application",
+              "dart",
+              "flutter",
+              "flutter-apps",
+              "music-player",
+              "netease-cloud-music"
+            ],
+            "description": "flutter music player application. (仿网易云音乐)"
+          },
+          {
+            "name": "files",
+            "fullname": "dahliaOS/files",
+            "url": "https://github.com/dahliaOS/files",
+            "topics": [
+              "application",
+              "dahliaos",
+              "file",
+              "flutter",
+              "hacktoberfest",
+              "manager"
+            ],
+            "description": "File manager application"
+          },
+          {
+            "name": "just_audio",
+            "fullname": "ryanheise/just_audio",
+            "url": "https://github.com/ryanheise/just_audio",
+            "topics": [],
+            "description": "Audio Player"
+          },
+          {
+            "name": "samples",
+            "fullname": "flutter/samples",
+            "url": "https://github.com/flutter/samples",
+            "topics": [],
+            "description": "A collection of Flutter examples and demos"
+          },
+          {
+            "name": "Mind-Mapping-App",
+            "fullname": "g-zato/Mind-Mapping-App",
+            "url": "https://github.com/g-zato/Mind-Mapping-App",
+            "topics": [],
+            "description": "A Flutter app focused on exploring unique features of the Framework and creating an easy-to-use mindmap creator."
+          },
+          {
+            "name": "react-antd-admin-template",
+            "fullname": "NLRX-WJC/react-antd-admin-template",
+            "url": "https://github.com/NLRX-WJC/react-antd-admin-template",
+            "topics": [
+              "antd-design",
+              "axios",
+              "clipboard",
+              "create-react-app",
+              "customize-cra",
+              "driver",
+              "echarts",
+              "mockjs",
+              "react-beautiful-dnd",
+              "react-countup",
+              "react-custom-scrollbars",
+              "react-draft-wysiwyg",
+              "react-loadable",
+              "react-redux",
+              "react-router",
+              "reactjs",
+              "redux",
+              "redux-thunk",
+              "screenfull",
+              "webpack"
+            ],
+            "description": "一个基于React+Antd的后台管理模版，在线预览https://nlrx-wjc.github.io/react-antd-admin-template/"
+          },
+          {
+            "name": "gsy_flutter_demo",
+            "fullname": "CarGuo/gsy_flutter_demo",
+            "url": "https://github.com/CarGuo/gsy_flutter_demo",
+            "topics": [
+              "flutter",
+              "flutter-demo",
+              "flutter-examples",
+              "flutter-plugin",
+              "flutter-ui",
+              "flutter-widget"
+            ],
+            "description": "Flutter 不同于 GSYGithubAppFlutter 完整项目，本项目将逐步完善各种 Flutter 独立例子，方便新手学习上手和小问题方案解决。  目前开始逐步补全完善，主要提供一些有用或者有趣的例子，如果你也有好例子，欢迎提交 PR 。"
+          },
+          {
+            "name": "Best-Flutter-UI-Templates",
+            "fullname": "mitesh77/Best-Flutter-UI-Templates",
+            "url": "https://github.com/mitesh77/Best-Flutter-UI-Templates",
+            "topics": [
+              "cross-platform",
+              "flutter",
+              "flutter-app",
+              "flutter-apps",
+              "flutter-demo",
+              "flutter-examples",
+              "flutter-material",
+              "flutter-ui",
+              "flutter-widget"
+            ],
+            "description": "completely free for everyone. Its build-in Flutter Dart."
+          },
+          {
+            "name": "Flutter-Responsive-Admin-Panel-or-Dashboard",
+            "fullname": "abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard",
+            "url": "https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard",
+            "topics": [
+              "app",
+              "dashboard",
+              "dashboard-templates",
+              "flutter",
+              "web"
+            ],
+            "description": "Responsive Admin Panel or Dashboard using Flutter"
+          },
+          {
+            "name": "flutter_template",
+            "fullname": "xuexiangjys/flutter_template",
+            "url": "https://github.com/xuexiangjys/flutter_template",
+            "topics": [
+              "flutter",
+              "flutter-template",
+              "template",
+              "template-project",
+              "x-templateproject"
+            ],
+            "description": "The project of the empty template with Flutter has built the basic framework to realize the functions of internationalization, theme peeling, login and registration, etc.(Flutter空壳模板工程，已搭建基础框架，实现国际化、主题换肤、登录注册、自动路由注册等功能，可在此基础上简单修改实现自己的应用功能)"
+          },
+          {
+            "name": "HistoryOfEverything",
+            "fullname": "2d-inc/HistoryOfEverything",
+            "url": "https://github.com/2d-inc/HistoryOfEverything",
+            "topics": [],
+            "description": "Flutter Launch Timeline Demo"
+          },
+          {
+            "name": "FlutterUnit",
+            "fullname": "toly1994328/FlutterUnit",
+            "url": "https://github.com/toly1994328/FlutterUnit",
+            "topics": [
+              "dart",
+              "flutter",
+              "learning",
+              "painting",
+              "widget-library"
+            ],
+            "description": "All Platform Flutter Experience App "
+          },
+          {
+            "name": "flutter_app",
+            "fullname": "shichunlei/flutter_app",
+            "url": "https://github.com/shichunlei/flutter_app",
+            "topics": [
+              "api",
+              "dart",
+              "dialog",
+              "douban-movie",
+              "flutter",
+              "http",
+              "likebutton",
+              "meiriyiwen",
+              "musicplayer",
+              "nba",
+              "picker",
+              "q-daily",
+              "qdaily",
+              "shop",
+              "slider",
+              "stggeredgridview",
+              "timeline",
+              "weather",
+              "widget",
+              "zhuishushenqi"
+            ],
+            "description": "🔥🔥🔥本项目包括各种基本控件使用（Text、TextField、Icon、Image、Listview、Gridview、Picker、Stepper、Dialog、Slider、Row、Appbar、Sizebox、BottomSheet、Chip、Dismissible、FlutterLogo、Check、Switch、TabBar、BottomNavigationBar、Sliver等）、豆瓣电影、tubitv、每日一文、和天气、百姓生活、随机诗词、联系人、句子迷、好奇心日报、有道精品课、高德定位、音乐播放器🎵、追书神器等板块"
+          },
+          {
+            "name": "my_flutter_challenges",
+            "fullname": "pedromassango/my_flutter_challenges",
+            "url": "https://github.com/pedromassango/my_flutter_challenges",
+            "topics": [
+              "android-ui",
+              "flutter",
+              "flutter-apps",
+              "flutter-demo",
+              "flutter-examples",
+              "flutter-material",
+              "flutter-package",
+              "flutter-widget",
+              "ios-ui",
+              "ui-design",
+              "ui-kit",
+              "uikit"
+            ],
+            "description": "Flutter project containing all my flutter UI challenges"
+          },
+          {
             "name": "KodExplorer",
             "fullname": "kalcaddle/KodExplorer",
             "url": "https://github.com/kalcaddle/KodExplorer",
@@ -8057,6 +10419,23 @@
       "all": {
         "desc": "TODO",
         "projects": [
+          {
+            "name": "dicebear",
+            "fullname": "dicebear/dicebear",
+            "url": "https://github.com/dicebear/dicebear",
+            "topics": [
+              "api",
+              "avataaars",
+              "avatar",
+              "avatar-placeholder",
+              "avatars",
+              "bottts",
+              "dicebear",
+              "figma",
+              "pixel-art"
+            ],
+            "description": "DiceBear is an avatar library for designers and developers. 🌍"
+          },
           {
             "name": "searxng",
             "fullname": "searxng/searxng",
@@ -8865,6 +11244,23 @@
       "Tutorials & Guides": {
         "desc": "Step-by-step project walkthroughs.",
         "projects": [
+          {
+            "name": "flutter_rust_bridge_template",
+            "fullname": "Desdaemon/flutter_rust_bridge_template",
+            "url": "https://github.com/Desdaemon/flutter_rust_bridge_template",
+            "topics": [
+              "android",
+              "cross-platform",
+              "ffi",
+              "flutter",
+              "ios",
+              "linux",
+              "macos",
+              "rust",
+              "windows"
+            ],
+            "description": "Template for Flutter + Rust integration with flutter_rust_bridge."
+          },
           {
             "name": "gallery",
             "fullname": "google-ai-edge/gallery",
