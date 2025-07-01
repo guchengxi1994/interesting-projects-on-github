@@ -36,21 +36,38 @@ This repository is a curated collection of **interesting, inspiring, or technica
 ### 📁 Developer Tooling & DevOps
 - [📁 __root__](#developer-tooling-&-devops-__root__)
 
+### 📁 Security & Privacy
+- [🔐 Cryptography](#security-&-privacy-cryptography)
+- [🛡️ Vulnerability Scanning](#security-&-privacy-vulnerability-scanning)
+- [🧑‍💼 Identity & Access Management](#security-&-privacy-identity-&-access-management)
+- [🧪 Secure Coding](#security-&-privacy-secure-coding)
+
+### 📁 Web3 & Blockchain
+- [📜 Smart Contracts](#web3-&-blockchain-smart-contracts)
+- [⛓️ Blockchain Infrastructure](#web3-&-blockchain-blockchain-infrastructure)
+- [💰 DeFi & NFTs](#web3-&-blockchain-defi-&-nfts)
+- [🧰 Web3 Tooling](#web3-&-blockchain-web3-tooling)
+
 ### 📁 Fun Projects
 - [📁 __root__](#fun-projects-__root__)
 
 ### 📁 Enterprise & Low-Code
 - [🏢 CRM / ERP / CMS](#enterprise-&-low-code-crm-erp-cms)
 - [📁 Lowcode Platforms](#enterprise-&-low-code-lowcode-platforms)
+- [📊 Business Intelligence](#enterprise-&-low-code-business-intelligence)
+- [🔄 Workflow Automation](#enterprise-&-low-code-workflow-automation)
 
 ### 📁 Learning Resources
-- [📁 __root__](#learning-resources-__root__)
+- [📘 Tutorials & Guides](#learning-resources-tutorials-&-guides)
+- [📄 Documentation](#learning-resources-documentation)
+- [🧾 Best Practices & Cheat Sheets](#learning-resources-best-practices-&-cheat-sheets)
+- [🎓 Courses & Workshops](#learning-resources-courses-&-workshops)
 
 ### 📁 Datasets
-- [📁 __root__](#datasets-__root__)
-
-### 📁 未知分类
-- [📁 __root__](#未知分类-__root__)
+- [📚 Machine Learning Datasets](#datasets-machine-learning-datasets)
+- [📏 Benchmark Suites](#datasets-benchmark-suites)
+- [📂 Domain-Specific Data](#datasets-domain-specific-data)
+- [🧬 Synthetic Data](#datasets-synthetic-data)
 
 ---
 
@@ -645,6 +662,60 @@ This repository is a curated collection of **interesting, inspiring, or technica
 </details>
 
 
+### 📁 Security & Privacy
+
+<a name="security-&-privacy-cryptography"></a>
+<details>
+  <summary>🔐 Cryptography</summary>
+
+</details>
+
+<a name="security-&-privacy-vulnerability-scanning"></a>
+<details>
+  <summary>🛡️ Vulnerability Scanning</summary>
+
+</details>
+
+<a name="security-&-privacy-identity-&-access-management"></a>
+<details>
+  <summary>🧑‍💼 Identity & Access Management</summary>
+
+</details>
+
+<a name="security-&-privacy-secure-coding"></a>
+<details>
+  <summary>🧪 Secure Coding</summary>
+
+</details>
+
+
+### 📁 Web3 & Blockchain
+
+<a name="web3-&-blockchain-smart-contracts"></a>
+<details>
+  <summary>📜 Smart Contracts</summary>
+
+</details>
+
+<a name="web3-&-blockchain-blockchain-infrastructure"></a>
+<details>
+  <summary>⛓️ Blockchain Infrastructure</summary>
+
+</details>
+
+<a name="web3-&-blockchain-defi-&-nfts"></a>
+<details>
+  <summary>💰 DeFi & NFTs</summary>
+
+</details>
+
+<a name="web3-&-blockchain-web3-tooling"></a>
+<details>
+  <summary>🧰 Web3 Tooling</summary>
+
+</details>
+
+
 ### 📁 Fun Projects
 
 <a name="fun-projects-__root__"></a>
@@ -689,40 +760,79 @@ This repository is a curated collection of **interesting, inspiring, or technica
 
 </details>
 
+<a name="enterprise-&-low-code-business-intelligence"></a>
+<details>
+  <summary>📊 Business Intelligence</summary>
+
+</details>
+
+<a name="enterprise-&-low-code-workflow-automation"></a>
+<details>
+  <summary>🔄 Workflow Automation</summary>
+
+</details>
+
 
 ### 📁 Learning Resources
 
-<a name="learning-resources-__root__"></a>
+<a name="learning-resources-tutorials-&-guides"></a>
 <details>
-  <summary>📁 __root__</summary>
+  <summary>📘 Tutorials & Guides</summary>
 
   - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) – Implement a ChatGPT-like LLM in PyTorch from scratch, step by step ![ai](https://img.shields.io/badge/ai-blue?style=flat-square) ![artificial-intelligence](https://img.shields.io/badge/artificial--intelligence-green?style=flat-square) ![chatgpt](https://img.shields.io/badge/chatgpt-orange?style=flat-square)
   - [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) – PyTorch Tutorial for Deep Learning Researchers ![deep-learning](https://img.shields.io/badge/deep--learning-blue?style=flat-square) ![neural-networks](https://img.shields.io/badge/neural--networks-green?style=flat-square) ![pytorch](https://img.shields.io/badge/pytorch-orange?style=flat-square)
+  - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) – This is a repo with links to everything you'd ever want to learn about data engineering.
+  - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) – All Algorithms implemented in Python ![algorithm](https://img.shields.io/badge/algorithm-blue?style=flat-square) ![algorithm-competitions](https://img.shields.io/badge/algorithm--competitions-green?style=flat-square) ![algorithms-implemented](https://img.shields.io/badge/algorithms--implemented-orange?style=flat-square)
+</details>
+
+<a name="learning-resources-documentation"></a>
+<details>
+  <summary>📄 Documentation</summary>
+
   - [george518/PPGo_ApiAdmin](https://github.com/george518/PPGo_ApiAdmin) – go-API-manage ![api](https://img.shields.io/badge/api-blue?style=flat-square) ![beego](https://img.shields.io/badge/beego-green?style=flat-square) ![golang](https://img.shields.io/badge/golang-orange?style=flat-square)
   - [google/webauthndemo](https://github.com/google/webauthndemo) – An example Node.js Relying Party implementation of the WebAuthn specification ![authentication](https://img.shields.io/badge/authentication-blue?style=flat-square) ![authentication-backend](https://img.shields.io/badge/authentication--backend-green?style=flat-square) ![example](https://img.shields.io/badge/example-orange?style=flat-square)
   - [actix/examples](https://github.com/actix/examples) – Community showcase and examples of Actix Web ecosystem usage. ![actix](https://img.shields.io/badge/actix-blue?style=flat-square) ![actix-web](https://img.shields.io/badge/actix--web-green?style=flat-square) ![examples](https://img.shields.io/badge/examples-orange?style=flat-square)
   - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) – Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more. ![backend](https://img.shields.io/badge/backend-blue?style=flat-square) ![chakra-ui](https://img.shields.io/badge/chakra--ui-green?style=flat-square) ![docker](https://img.shields.io/badge/docker-orange?style=flat-square)
   - [dotnet/docs](https://github.com/dotnet/docs) – This repository contains .NET Documentation. ![csharp](https://img.shields.io/badge/csharp-blue?style=flat-square) ![dotnet](https://img.shields.io/badge/dotnet-green?style=flat-square) ![dotnet-core](https://img.shields.io/badge/dotnet--core-orange?style=flat-square)
-  - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) – All Algorithms implemented in Python ![algorithm](https://img.shields.io/badge/algorithm-blue?style=flat-square) ![algorithm-competitions](https://img.shields.io/badge/algorithm--competitions-green?style=flat-square) ![algorithms-implemented](https://img.shields.io/badge/algorithms--implemented-orange?style=flat-square)
-  - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) – This is a repo with links to everything you'd ever want to learn about data engineering.
+</details>
+
+<a name="learning-resources-best-practices-&-cheat-sheets"></a>
+<details>
+  <summary>🧾 Best Practices & Cheat Sheets</summary>
+
+</details>
+
+<a name="learning-resources-courses-&-workshops"></a>
+<details>
+  <summary>🎓 Courses & Workshops</summary>
+
 </details>
 
 
 ### 📁 Datasets
 
-<a name="datasets-__root__"></a>
+<a name="datasets-machine-learning-datasets"></a>
 <details>
-  <summary>📁 __root__</summary>
+  <summary>📚 Machine Learning Datasets</summary>
 
   - [xv44586/Chinese-instruction-datasets](https://github.com/xv44586/Chinese-instruction-datasets) – 中文 Instruction tuning datasets.
 </details>
 
-
-### 📁 未知分类
-
-<a name="未知分类-__root__"></a>
+<a name="datasets-benchmark-suites"></a>
 <details>
-  <summary>📁 __root__</summary>
+  <summary>📏 Benchmark Suites</summary>
+
+</details>
+
+<a name="datasets-domain-specific-data"></a>
+<details>
+  <summary>📂 Domain-Specific Data</summary>
+
+</details>
+
+<a name="datasets-synthetic-data"></a>
+<details>
+  <summary>🧬 Synthetic Data</summary>
 
 </details>
 

@@ -6884,6 +6884,40 @@
       }
     }
   },
+  "Security & Privacy": {
+    "desc": "Tooling and libraries for securing applications, data, and infrastructure.",
+    "subcategories": {
+      "Cryptography": {
+        "desc": "Encryption, hashing, and zero-knowledge proof libraries."
+      },
+      "Vulnerability Scanning": {
+        "desc": "SAST, DAST, and dependency-checking tools."
+      },
+      "Identity & Access Management": {
+        "desc": "OAuth2, OpenID Connect, and SSO solutions."
+      },
+      "Secure Coding": {
+        "desc": "Static analyzers, linters, and secret scanners."
+      }
+    }
+  },
+  "Web3 & Blockchain": {
+    "desc": "Decentralized systems, smart contracts, and blockchain infrastructure.",
+    "subcategories": {
+      "Smart Contracts": {
+        "desc": "Solidity, Vyper, Rust (Solana), Move (Aptos)."
+      },
+      "Blockchain Infrastructure": {
+        "desc": "Nodes, wallets, and consensus clients."
+      },
+      "DeFi & NFTs": {
+        "desc": "DEXs, lending protocols, and token standards."
+      },
+      "Web3 Tooling": {
+        "desc": "SDKs, explorers, and developer frameworks."
+      }
+    }
+  },
   "Fun Projects": {
     "desc": "some fun projects, such as games, rendering, and more.",
     "subcategories": {
@@ -7212,14 +7246,20 @@
       "Lowcode Platforms": {
         "desc": "TODO",
         "projects": []
+      },
+      "Business Intelligence": {
+        "desc": "Metabase, Superset, and data-visualization suites."
+      },
+      "Workflow Automation": {
+        "desc": "Zapier alternatives and robotic-process automation."
       }
     }
   },
   "Learning Resources": {
     "desc": "Tutorials, documentation, and community-driven knowledge bases.",
     "subcategories": {
-      "__root__": {
-        "desc": "TODO",
+      "Tutorials & Guides": {
+        "desc": "Step-by-step project walkthroughs.",
         "projects": [
           {
             "name": "LLMs-from-scratch",
@@ -7254,6 +7294,39 @@
             ],
             "description": "PyTorch Tutorial for Deep Learning Researchers"
           },
+          {
+            "name": "data-engineer-handbook",
+            "fullname": "DataExpert-io/data-engineer-handbook",
+            "url": "https://github.com/DataExpert-io/data-engineer-handbook",
+            "description": "This is a repo with links to everything you'd ever want to learn about data engineering."
+          },
+          {
+            "name": "Python",
+            "fullname": "TheAlgorithms/Python",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "topics": [
+              "algorithm",
+              "algorithm-competitions",
+              "algorithms-implemented",
+              "algos",
+              "community-driven",
+              "education",
+              "hacktoberfest",
+              "interview",
+              "learn",
+              "practice",
+              "python",
+              "searches",
+              "sorting-algorithms",
+              "sorts"
+            ],
+            "description": "All Algorithms implemented in Python"
+          }
+        ]
+      },
+      "Documentation": {
+        "desc": "Official docs, API references, and handbooks.",
+        "projects": [
           {
             "name": "PPGo_ApiAdmin",
             "fullname": "george518/PPGo_ApiAdmin",
@@ -7333,44 +7406,22 @@
               "visual-basic"
             ],
             "description": "This repository contains .NET Documentation."
-          },
-          {
-            "name": "Python",
-            "fullname": "TheAlgorithms/Python",
-            "url": "https://github.com/TheAlgorithms/Python",
-            "topics": [
-              "algorithm",
-              "algorithm-competitions",
-              "algorithms-implemented",
-              "algos",
-              "community-driven",
-              "education",
-              "hacktoberfest",
-              "interview",
-              "learn",
-              "practice",
-              "python",
-              "searches",
-              "sorting-algorithms",
-              "sorts"
-            ],
-            "description": "All Algorithms implemented in Python"
-          },
-          {
-            "name": "data-engineer-handbook",
-            "fullname": "DataExpert-io/data-engineer-handbook",
-            "url": "https://github.com/DataExpert-io/data-engineer-handbook",
-            "description": "This is a repo with links to everything you'd ever want to learn about data engineering."
           }
         ]
+      },
+      "Best Practices & Cheat Sheets": {
+        "desc": "Wikis, cheatsheets, and proven engineering conventions."
+      },
+      "Courses & Workshops": {
+        "desc": "Interactive learning platforms and MOOCs."
       }
     }
   },
   "Datasets": {
     "desc": "Curated collections of data for training, benchmarking, and research.",
     "subcategories": {
-      "__root__": {
-        "desc": "TODO",
+      "Machine Learning Datasets": {
+        "desc": "Image, text, audio, and multimodal corpora.",
         "projects": [
           {
             "name": "Chinese-instruction-datasets",
@@ -7379,14 +7430,15 @@
             "description": "中文 Instruction tuning datasets."
           }
         ]
-      }
-    }
-  },
-  "未知分类": {
-    "desc": "TODO",
-    "subcategories": {
-      "__root__": {
-        "projects": []
+      },
+      "Benchmark Suites": {
+        "desc": "Standardized evaluation datasets and leaderboards."
+      },
+      "Domain-Specific Data": {
+        "desc": "Finance, healthcare, geospatial, and IoT datasets."
+      },
+      "Synthetic Data": {
+        "desc": "Generated datasets for privacy-preserving research."
       }
     }
   }
